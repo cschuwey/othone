@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl/>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div1 rend="textTitlePage">
+
+					<figure type="gravure">
+						<graphic url="images/bandeaufront.png"/>
+						<link type="file" target="front.xml"/>
+						<head>Détail du frontispice des Nouvelles Nouvelles. © BNF</head>
+					</figure>
+					<p rend="title1">Nouvelles </p>
+					<p rend="title1">Nouvelles</p>
+					<p rend="title2">Divisées</p>
+					<p rend="title2">en trois parties</p>
+					<lb/>
+					<p>Par Monsieur de ……… </p>
+					<p> Première partie</p>
+					<p> [Fleuron] </p>
+					<p> A Paris</p>
+					<p>Chez Pierre Bienfaict, dans la grande Salle du Palais, du côté de la Cour des
+						Aides, à l’image S. Pierre. </p>
+					<lb/>
+					<p>M. DC. LXIII. </p>
+					<p>Avec privilège du roi.</p>
+				
+
+			</div1>
+		</body>
+	</text>
+</TEI>
