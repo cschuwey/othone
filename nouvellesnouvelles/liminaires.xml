@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	 
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl/>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div1>
+				<div2 n="epitre" rendition="Epitre dédicatoire">
+					<head><seg><pb n="I"/>A UN AMI<note type="note">La numérotation en chiffres romains des textes
+						liminaires est nôtre. Les exemplaires des <seg>éditions originales<link
+							target="pEditionOriginale.html"/></seg> ne comportent aucune
+						indication.</note></seg></head>
+					<opener>
+						<salute>MONSIEUR,</salute>
+					</opener>
+				<p>Bien que vous m'ayez fait l'honneur de souhaiter que je ne vous
+					donnasse point d'autre nom que celui <seg>d'ami<note type="note">Cet ami
+							destinataire est Louis Irland de Lavau (?-1694), figure importante de
+							l’entourage de Mazarin à la fin des années 1650, en dépit de son jeune
+							âge (voir la note de la p. XI). Lavau effectue plusieurs missions
+							diplomatiques jusqu’à son retour définitif à Paris vers 1662. Entré dans
+							les ordres (abbé de Lavau), il occupera la fonction de Garde des livres
+							du Cabinet du roi à partir de 1671 et, à ce titre, sera élu à
+								l’<seg>Académie française<link
+									target="http://www.academie-francaise.fr/les-immortels/louis-irland-de-lavau?fauteuil=35&amp;election=17-04-1679"
+								/></seg> en 1679 (voir la <seg>notice<link
+									target="http://books.google.ch/books?id=eW9IAAAAMAAJ&amp;dq=%22louis%20irland%20de%20lavau%22&amp;hl=fr&amp;pg=RA1-PA101#v=onepage&amp;q=%22louis%20irland%20de%20lavau%22&amp;f=false"
+								/></seg> de l’abbé d’Olivet dans son Histoire de l’institution).
+							Nous remercions François Rey de l’aide précieuse apportée à cette
+							identification.</note></seg>, je ne puis néan- <pb n="II"/> moins me
+					résoudre à satisfaire entièrement à vos désirs et, après avoir mis au-dessus de
+					cette épître une qualité si désavantageuse pour vous et si glorieuse pour moi,
+					je vous demande de me permettre d'avoir soin de ma <seg>gloire<note
+							type="glossary">réputation dans le monde</note></seg> et de souffrir
+					que, dans le corps de cette épître, je change le nom d'ami en celui de Monsieur,
+					de crainte que ceux qui vous reconnaîtront aux vérités que je dirai de vous ne
+						<pb n="III"/> m'accusent de trop de témérité. C'en serait en effet une bien
+					grande, et dont je ne me pourrais laver auprès de ceux qui nous connaîtraient
+					l'un et l'autre. On dirait que l'amitié serait trop inégale et, bien que l'âge
+					la pût autoriser, votre esprit et les glorieux et pénibles emplois où vous avez
+					si dignement servi l'État dans plusieurs pays étrangers ne le pourraient
+					permettre, et quiconque saura l'estime que vous <pb n="IV"/> vous êtes acquise
+					dans toutes les cours où vous avez passé connaîtra <seg>bientôt<note
+							type="glossary">aussitôt</note></seg> que je ne dis rien que de
+					véritable.</p>
+				<p>Tous les Français qui étaient à Francfort <seg>lorsque l'Empereur fut élu<note
+							type="note">Le récit biographique que propose d’Olivet dans sa
+									<seg>notice<link
+									target="https://books.google.ch/books?id=eW9IAAAAMAAJ&amp;pg=PA201#v=onepage&amp;q&amp;f=false"
+								/></seg> indique effectivement la présence d’Irland de Lavau à
+							l’élection de l’Empereur Léopold, le 18 juillet 1658. La mission
+							diplomatique est dirigée par le Maréchal de Grammont et Hugues de
+							Lionne.</note></seg>
+					<seg>publient hautement<note type="glossary">font savoir à tout le
+						monde</note></seg> cette vérité qui vous est si glorieuse. Ce fut là,
+					MONSIEUR, où vous commençâtes à donner aux étrangers des marques de votre
+					esprit. Ce fut là où vous vous fîtes admirer de l'élite de tous les princes <pb
+						n="V"/> d'Allemagne, et ce fut là enfin où vous fîtes voir que la
+							<seg>prudence<note type="glossary">sagesse</note></seg> et la jeunesse
+					n'étaient pas incompatibles.</p>
+				<p>De Francfort vous passâtes à Vienne, où vous gagnâtes l'amitié de plusieurs
+					princes et où vous servîtes avantageusement la France et fîtes des choses dont
+					il ne m'est pas permis de <seg>développer le mystère<note type="glossary"
+							>révéler le secret</note></seg> et dont votre modestie et la prudence ne
+					veulent pas que je parle. Je les passerai <pb n="VI"/> donc sous silence, pour
+					dire qu'après avoir quitté la cour de l'Empereur et vous y être fait également
+					craindre et admirer, vous fûtes voir Rome, cette capitale du monde chrétien, où
+					les services que vous aviez rendus en Allemagne furent cause que vous reçûtes
+					des ordres du roi d'y demeurer pour les affaires de France. Vous vous y êtes
+					acquis beaucoup d'amis et, après y avoir demeuré trois ans, avec <pb n="VII"/>
+					les <seg>applaudissements de cette cour<note type="note">D’Olivet fait également
+							état de cette mission à Rome, mais lui attribue un résultat nettement
+							moins favorable : « il eut l’occasion d’éprouver que les traverses qu’ont
+							à éprouver ceux qui se mêlent des affaires publiques sont certaines et
+							que leurs récompenses ne le sont pas » (<seg>p. 201<link
+									target="http://books.google.ch/books?id=eW9IAAAAMAAJ&amp;dq=%22louis%20irland%20de%20lavau%22&amp;hl=fr&amp;pg=RA1-PA101#v=onepage&amp;q=%22louis%20irland%20de%20lavau%22&amp;f=false"
+								/></seg>).</note></seg> qui n'en donne que rarement et qui trouve
+					peu de personnes dignes d'être estimées, vous en partîtes pour retourner en
+					France et passâtes chez la plupart des princes d'Italie, dont vous vous acquîtes
+					et l'estime et l'amitié.</p>
+				<p>Le <seg>feu duc de Modène<note type="note">François Ier, duc de Modène, frère du
+							cardinal d’Este. Il représente, avec le duc de Savoie, un enjeu
+							important dans la guerre franco-espagnole. Mazarin marie une de ses
+							nièces, Laura Martinozzi, à son fils, Alphonse IV d’Este, pour le
+							rallier aux intérêts français. Il meurt subitement le 14 octobre 1658
+							(Du Verdier, Abrégé de l’histoire de France, 1666, t. III, <seg>p.
+									541<link
+									target="http://books.google.ch/books?id=LmBAAAAAcAAJ&amp;dq=%22duc%20de%20Mod%C3%A8ne%22&amp;hl=fr&amp;pg=PA541#v=onepage&amp;q=%22duc%20de%20Mod%C3%A8ne%22&amp;f=false"
+								/></seg> ; Mémoires du Cardinal d’Este, Cologne, 1677, t. I, <seg>p.
+									38<link
+									target="http://books.google.ch/books?id=rOk1oiqRyosC&amp;dq=%22duc%20de%20Mod%C3%A8ne%22%20mort&amp;hl=fr&amp;pg=PA38#v=onepage&amp;q=%22duc%20de%20Mod%C3%A8ne%22%20mort&amp;f=false"
+								/></seg>). </note></seg>, à la cour duquel vous demeurâtes quelque
+					temps pour satisfaire un désir du cardinal d'Este, qui souhaitait de vous
+					entretenir, <pb n="VIII"/> ayant eu plus de loisir que les autres princes
+					d'Italie de remarquer toutes les spirituelles et brillantes qualités de votre
+					personne, vous témoigna une estime toute particulière et, comme il passait pour
+					un des plus spirituels princes du monde, son estime pourrait seule suffire pour
+					faire connaître votre mérite. Après avoir quitté la cour de Modène et avoir
+					passé en Savoie, où vous eûtes l'honneur d'entretenir plu- <pb n="IX"/> sieurs
+					fois <seg>MADAME ROYALE<note type="note">C’est le titre que porte la mère du Duc
+							de Savoie.</note></seg>, vous arrivâtes enfin à Paris, dont il y avait
+					cinq ans que vous étiez éloigné, et vous fûtes reçu à la cour avec tous les
+					témoignages d'une estime très particulière. C'est là, MONSIEUR, où vous vous
+					faites regarder présentement avec admiration et où vous faites avouer tous les
+					jours que l'on a peu vu de personnes de votre âge faire les choses que vous
+					faites et être <pb n="X"/> dans une estime si générale. Bien que vos occupations
+					soient des plus pénibles et des plus sérieuses, et que vous soyez souvent occupé
+					à faire réponse aux princes et aux cardinaux avec qui vous avez contracté amitié
+					et qui vous honorent toutes les semaines de leurs lettres, vous n'en paraissez
+					pas plus <seg>embarrassé<note type="glossary">incapable de maîtriser la
+							tâche</note></seg> et vous n'en donnez pas moins de temps <seg>à la
+							galanterie<note type="glossary">à briller dans les cercles
+							mondains</note></seg>, en quoi vous réussissez si par- <pb n="XI"/>
+					faitement que tous ceux qui vous connaissent tombent d'accord que vous êtes un
+					des plus galants hommes du monde.</p>
+				<p> Voilà, MONSIEUR, une partie des belles qualités que vous possédez si
+					avantageusement et une imparfaite peinture de ce que vous avez fait dans un âge
+					où les autres ont encore de la peine à <seg>se connaître eux-mêmes<note
+							type="note">L’insistance sur la jeunesse du destinataire amène à penser
+							que l’âge de celui-ci ne doit guère excéder la vingtaine, ce qui en fait
+							un proche contemporain de Donneau de Visé (né en 1638).</note></seg>. Je
+					ne vous en aurais pas parlé, si je n'avais dessein de le faire sa- <pb n="XII"/>
+					voir à d'autres qu'à vous, et si je ne savais que votre modestie fait tout ce
+					qu'elle peut pour vous en faire perdre le souvenir.</p>
+				<lb/>
+				<p> Après un discours dont elle se tiendra peut-être blessée, souffrez, MONSIEUR,
+					que je vous remercie de ce que vous avez bien voulu que je vous offrisse un
+					présent si peu digne de vous. Ce présent n'est pas de la nature de ceux dont se
+					doit tenir obligé celui qui les reçoit. Le peu de valeur de <pb n="XIII"/>
+					celui-ci fait que je vous suis beaucoup redevable de l'avoir bien voulu
+					accepter, et ce qui redouble l'obligation que je vous aurai éternellement, c'est
+					que vous avez souhaité que je vous l'offrisse comme à un ami. Je vous avoue,
+					Monsieur, que cette glorieuse qualité, que je ne méritais pas, m'a rendu si fier
+					qu'il m'a pris plusieurs fois envie de mettre votre nom dans cette épître, afin
+					de faire con- <pb n="XIV"/> naître le bonheur que j'ai de vous avoir pour ami.
+					Si tout le monde le pouvait savoir, j'en serais beaucoup plus <seg>vain<note
+							type="glossary">vaniteux</note></seg> et je me persuaderais que cette
+					qualité me devrait faire respecter. C'est pourquoi votre modestie doit
+					appréhender que je ne garde pas toujours un silence qui me coûte tant de gloire.
+					Oui, MONSIEUR, j'espère de le rompre un jour et de mettre votre nom à la tête
+					des belles et avanta- <pb n="XV"/> geuses vérités dont je n'ai encore osé parler
+					et que je n'aurais même pu mettre ici, de crainte que l'on ne m'accusât de
+					passer les bornes ordinaires d'une épître.</p>
+				<p> Cette raison m'oblige de finir et de vous dire, plus tôt que je ne voudrais, que
+					je suis, MONSIEUR, Votre très humble et très obéissant serviteur et ami, </p>
+				<signed>D…</signed>
+				</div2>
+				<div2 rendition="Preface" n="preface">
+						<head>PRÉFACE</head>
+						<p>Je ne sais si c'est à la nécessité ou à la coutume que je donne cette
+							préface, mais je sais bien qu'il y a quantité de personnes qui la
+							donnent à la première, du moins à ce qu'ils veulent faire croire, et qui
+							s'imagineraient que leurs livres ne seraient pas approuvés s'ils
+							n'avaient donné des <pb n="XVI"/> raisons pour les faire estimer et
+							s'ils n'avaient trouvé les moyens de se louer eux-mêmes en faisant le
+								<seg>panégyrique de leurs ouvrages<note type="note">En adoptant une
+									distance ironique à l’égard des pratiques entourant la
+									publication imprimée d’un ouvrage, Donneau de Visé cultive une
+									attitude récemment illustrée par la préface des <seg><title>Précieuses
+										ridicules</title><link type="file"
+											target="precieusesridicules.xml"
+								/></seg>.</note></seg>. Pour moi, bien que j'aie peu de choses à
+							dire et que je ne veuille point excuser mes fautes, je commence
+							néanmoins à me persuader que, si la préface est une coutume, c'est
+							souvent une coutume nécessaire, et que l'on perd quelquefois des procès,
+							faute de les bien éclaircir.</p>
+						<p> C'est pourquoi j'ai trouvé à propos de vous dire un <pb n="XVII"/> mot
+							des Succès de l’indiscrétion, qui est la première de ces nouvelles. Si
+							la <seg>plupart des Français<note type="note">La critique amusée des
+									défauts de la nation française est au <seg>goût du jour<link
+											target="http://moliere.paris-sorbonne.fr/base.php?Ce_que_chez_nos_voisins_on_dit_partout_de_nous"
+										/></seg> au début des années 1660.</note></seg> ne jugeaient
+							pas d'un livre sur le titre et ne s'imaginaient pas avoir deviné tout ce
+							qu'il contient avant que de l'avoir lu, je n'aurais que faire de dire
+							que cette nouvelle n'a aucun rapport avec les comédies de L'Étourdi que
+							l'on a représentées sur le <seg>théâtre royal de l'Hôtel de
+									Bourgogne<note type="note">Il s’agit de L’Amant indiscret ou le
+									Maître étourdi de Quinault, dont le texte avait été <seg>publié
+										en 1656<link
+											target="http://gallica.bnf.fr/ark:/12148/bpt6k71397p.r=.langEN"
+										/></seg>.</note></seg> et sur <seg>celui des comédiens de
+									Monsieur<note type="note"><seg>L’Etourdi ou les Contretemps<link
+											type="file" target="etourdi.xml"/></seg> de
+									Molière.</note></seg>. Ces étourdis n'entrepren- <pb n="XVIII"/>
+							nent aucunes actions <seg>qu'ils ne croient très prudentes<note
+									type="glossary">dont ils ne pensent maîtriser les
+									conséquences</note></seg> ; mais mon héros, quoique téméraire,
+							est beaucoup plus éclairé qu'eux : il n'entreprend rien sans savoir le
+							péril où il s'expose, il veut tenter la fortune pour voir si elle lui
+							sera favorable et faire quelque chose d'extraordinaire. Sans le valet de
+							l'étourdi de Molière, qui répare tout ce que son maître fait de mal, ses
+							actions l’empêcheraient de venir à bout de ses desseins ; mais personne
+							ne travaille pour mon héros, <pb n="XIX"/> il n'est secondé que de la
+							fortune. L'étourdi, tout au contraire, ne fait rien que nous ne voyions
+							souvent arriver : mille font tous les jours des fautes, croyant bien
+							faire, qui sont ensuite réparées par d'autres personnes ; mais
+							entreprendre, comme mon <seg>indiscret<note type="glossary">individu qui
+									agit de manière irréfléchie</note></seg>, des choses qu'il sait
+							bien qui le peuvent perdre, pour <seg>éprouver ce que peut la
+									fortune<note type="note">C’est la principale caractéristique du
+									comportement d’<seg>indiscrétion<link type="file"
+											target="indiscretion.xml"/></seg>, tel que le
+									conçoit et l’exemplifie le héros de la nouvelle.</note></seg>,
+							c'est ce que l'on a peu vu jusques ici et ce qui fait voir qu'il n'y a
+							point de rapport entre les comédies <pb n="XX"/> de L'Étourdi et mon
+									<seg>heureux<note type="glossary">chanceux</note></seg>
+							indiscret.</p>
+						<p> Mais, pour passer des Succès de l’indiscrétion aux Nouvellistes,
+							c'est-à-dire de l'histoire d'un téméraire à celle de quelques importuns
+							universels, je prie ceux qui liront cette nouvelle de ne rien condamner
+							sans avoir examiné par quel motif j'ai mis les choses qu'ils
+							n'approuveront pas, et si ce n'a point été parce qu'elles étaient du
+							caractère des nouvellistes, qui ont <seg>des privilèges que d'autres
+								n'ont pas<note type="note">Les nouvellistes, selon la
+										<seg>conception que Donneau de Visé développe dans sa
+											nouvelle<link type="file"
+											target="nouvellistemondain.xml"/></seg>,
+									prétendent détenir l’accès à toutes les informations qui
+									circulent et renoncent à effectuer un tri parmi les nouvelles
+									qu’ils répandent.</note></seg>, ou par quelques <pb n="XXI"/>
+							raisons que je ne puis ni ne veux expliquer, aimant mieux demeurer
+							exposé à la censure que de découvrir des secrets qui amoindriraient
+							beaucoup les fautes que l'on me pourrait imputer. Comme il y a dans
+							cette nouvelle plusieurs pièces détachées et que je ne doute point qu'il
+							ne s'en rencontre quelques-unes qui ne plairont pas à tout le monde, les
+							personnes à qui elles auront le malheur de déplaire pourront facilement
+								<seg>passer par-dessus<note type="note">Cette appréhension sélective
+									du contenu d’un volume fait partie des modes de
+										<seg>consommation de la littérature<link type="file"
+											target="consommationlitterature.xml"/></seg> que
+									privilégie le public à qui sont destinées les Nouvelles
+									Nouvelles.</note></seg>, ce qu'elles ne fe- <pb n="XXII"/>
+							raient pas toutefois, si elles savaient pourquoi elles y ont trouvé
+							place.</p>
+						<p>Ceux qui prendront Les Nouvellistes pour une satire ne s'en doivent point
+							fâcher, à moins qu'ils ne veuillent faire voir qu'ils sont du nombre.
+							Pour moi, j'avoue que j'en suis, avec beaucoup d'autres qui ne croient
+							pas en être, mais j'ai cet avantage par-dessus eux que je connais mes
+							défauts et que je tâche à m'en corriger en leur montrant les leurs, et
+							ce sont ces vérités qui <pb n="XXIII"/> rendront cette satire utile,
+							comme le sont d'ordinaire toutes celles qui sont universelles et qui ne
+							désignent personne en particulier. L'on n'a jamais vu de gens qui s'en
+							soient choqués, et ceux de qui l'on parle ont toujours
+									<seg>accoutumé<note type="glossary">pour habitude</note></seg>
+							d'en rire les premiers. La plupart ne s'aperçoivent pas que l'on parle à
+							eux, et ceux qui le <seg>connaissent<note type="glossary">s’en rendent
+									compte</note></seg> croient que d'autres ont servi d'exemple et
+							que ce n'est pas à eux que l'on a songé. Mais, bien qu'ils <pb n="XXIV"
+							/> soient dans cette pensée, ils ne laissent pas que de connaître leurs
+							défauts et de s'en corriger quelquefois, ce qui, loin de devoir faire
+							condamner les satires, lorsqu'elles sont universelles, les doit
+								<seg>faire estimer beaucoup<note type="note">Ces dernières lignes
+									reprennent les composantes du discours sur la <seg>satire<link
+											type="file" target="satire.xml"/></seg>, tel
+									qu’on l’élabore au début des années 1660.</note></seg>, du moins
+							à ce que je m'imagine.</p>
+						<p> Outre les aventures des nouvellistes, <seg>leur portrait<note
+									type="note">Allusion au « portrait des nouvellistes », placé à la
+									fin du t. III. (p. 305sq). Les « aventures des nouvellistes »,
+									quant à elles, renvoient à la « <seg>Conversation des
+											nouvellistes<link type="file"
+											target="conversationnouvellistes.xml"/></seg> »
+									(t. II, p. 222sq), dont le sous-titre est « où l’on voit
+									plusieurs aventures véritables qui leur sont
+								arrivées ».</note></seg> et généralement tout ce qui les concerne et
+							que l'on verra dans la nouvelle dont je vous viens d'entretenir et qui
+							porte leur <pb n="XXV"/> nom pour titre, l'on y trouvera en divers
+							endroits quelques <seg>crayons de<note type="glossary">esquisses de
+									portraits prenant pour sujet</note></seg> certains auteurs que
+							la vanité et l'ignorance rendent insupportables, qui ne trouvent rien de
+							bon à leur goût et qui <seg>n'approuvent que ce qu'ils font<note
+									type="note">Cette attitude sera celle du personnage de Straton
+									au t. III. Voir, en particulier, les p. 174-184 et 191-194.
+									C’est également Straton qui sera désigné comme l’auteur des
+									propos sur Molière et sur la Sophonisbe, qui occupent une place
+									importante dans ce dernier volume. D’où la précaution que prend
+									Donneau de Visé dans les lignes suivantes.</note></seg> ; et,
+							comme leur coutume est de blâmer tous ceux dont le mérite est reconnu,
+							et que je leur ai fait jouer le même personnage, afin de les dépeindre
+							au naturel et qu'il ne manquât aucun trait à leur tableau, ceux de qui
+								<pb n="XXVI"/> je les ai fait parler doivent, loin de s'offenser de
+							ce qu'ils ont dit, croire que l’envie et <seg>le dépit<note
+									type="glossary">la rage</note></seg> de ne les pouvoir égaler
+							les a fait parler de la sorte et qu'il est glorieux d'être blâmé de
+							semblables personnes.</p>
+						<lb/>
+						<p> Tout ce que je vous puis encore dire, ô critiques lecteurs (car je me
+							persuade qu'il y en a peu qui ne le soient !), c'est qu'encore que vous
+							trouviez à critiquer dans ces nouvelles, vous y trouverez de quoi vous
+							divertir, parce que <pb n="XXVII"/>
+							<seg>tout en est nouveau<note type="note">Le critère de la
+											<seg>nouveauté<link type="file"
+											target="nouveaute.xml"/></seg> constitue une
+									composante essentielle de l’appréciation des oeuvres littéraires
+									au début des années 1660.</note></seg> et que je n'ai voulu
+							imiter personne, ni traiter des matières usées dont l'on vous aurait
+							déjà peut-être entretenus mille fois.</p>
+						<lb/>
+						<p> Comme il y a peu d'ouvrages où il ne se glisse quelques fautes
+							d'impression, je prie le lecteur de distinguer d'avec les miennes celles
+							qui se sont glissées dans celui-ci. J'ai douté quelque temps si je les
+							mettrais à la fin de cette préface, mais comme peu de personnes
+							s'interrompent en lisant pour les y venir chercher, je n'ai pas voulu
+							travailler inutilement.</p>
+						<lb/>
+					
+				</div2>
+
+				<pb n="XXVIII"/>
+				<div2 n="table" rendition="Table">
+						<head> Table <seg rend="compTitle">de <seg>tout ce qui est contenu<note type="note">Cette table
+									dresse une liste exhaustive des quatre nouvelles proposées dans
+									le recueil, ainsi que des diverses pièces mises en évidence par
+									un titre inséré dans le corps du texte. Elle révèle qu’au moment
+									où le tome I est mis sous presse, la disposition des principaux
+									éléments est fermement établie. Elle n’exclut pas pour autant
+									l’éventualité que les deux tomes suivants, peut-être imprimés
+									ultérieurement, aient subi des aménagements permettant
+									d’intégrer des développements d’actualité. Voir, à ce sujet,
+										l’<seg>examen approfondi de la genèse<link type="file"
+											target="genesestructure.xml"/></seg> du
+									texte.</note></seg> dans les trois parties des Nouvelles
+							Nouvelles.</seg></head>
+						<list>
+							<item> Les Succès de l’indiscrétion ou les Prospérités de l'indiscret,
+								nouvelle.</item>
+							<item>La Prudence funeste, nouvelle.</item>
+							<item>Les Nouvellistes, nouvelle.</item>
+							<item>Le Jaloux par force, nouvelle.</item>
+						</list>
+						<p>Où sont,</p>
+						<list>
+							<item>L'Indiscret justifié.</item>
+							<item>L'Indiscret condamné.</item>
+
+
+							<item><pb n="XXIX"/> Une Conversation où l'on voit si les soupçons qui
+								regardent l'honneur d'une femme lui peuvent être désavantageux après
+								avoir été pleinement justifiée.</item>
+							<item>Une Conversation des pointes ou pensées.</item>
+							<item>Un Dialogue de l'éventail et du busc de Caliste.</item>
+							<item>Une Conversation des Nouvellistes, où l'on voit plusieurs
+								aventures véritables qui leur sont arrivées.</item>
+							<item>Les Aventures du Prince Tyanès.</item>
+							<item>Un Discours de la jalousie des femmes.</item>
+
+
+
+							<item><pb n="XXX"/> Le Bonheur des femmes qui ont des maris jaloux, ou
+								l'Apologie de la jalousie.</item>
+							<item>Un Extrait d'une Lettre écrite du Parnasse touchant les
+								trente-et-un nouveaux règlements qui ont été depuis peu faits dans
+								le conseil d'Apollon et des Muses extraordinairement
+								assemblé.</item>
+							<item>Le Portrait des nouvellistes.</item>
+							<item>Plusieurs élégies, madrigaux et autres ouvrages en vers.</item>
+						</list>
+					
+				</div2>
+
+				<div2 rendition="Poème liminaire 1" n="poemesliminaire1">
+					<head><pb n="XXXI"/>À L'AUTEUR, <seg rend="compTitle">sur ses nouvelles.</seg></head>
+						<lg>
+							<l>Ton ouvrage est rempli d’inventions si belles,</l>
+							<l>Et ton style est si doux, si coulant et si net,</l>
+							<l>Que qui le gardera dedans son <seg>cabinet<note type="note">Le terme
+										est fréquemment utilisé à la rime par les contemporains, en
+										raison de ses <seg>consonances avec « net » et « sonnet »<link
+												target="http://moliere.paris-sorbonne.fr/base.php?Au_cabinet"
+											/></seg>.</note></seg>,</l>
+							<l>N’aura jamais que de bonnes nouvelles.</l>
+						</lg>
+						<signed>T.P.</signed>
+					
+				</div2>
+				<div2 rendition="Poème liminaire 2" n="poemesliminaire2">
+						<head><pb n="XXXII"/> AU MÊME, <seg rend="compTitle">Sur Les Succès de l’indiscrétion et La
+							Prudence funeste.</seg></head>
+						<lg>
+							<l>Quand je vois <seg>l’indiscret<note type="glossary">celui qui prend
+										des risques inconsidérés</note></seg>
+								<seg> heureux <note type="glossary">connaître la
+									réussite</note></seg><seg> de la façon<note type="glossary">à ce
+										point</note></seg></l>
+							<l>Et le <seg>prudent<note type="glossary">celui qui tente de maîtriser
+										les risques</note></seg> faire naufrage,</l>
+							<l>Ciel ! dis-je, pourquoi cet ouvrage</l>
+							<l>Ne m’a-t-il pas plus tôt enseigné ma leçon</l>
+							<l>Dans mon amour pour Celvanie ?</l>
+							<l> Ma prudence fut infinie,</l>
+							<l>Et de là vient aussi son <seg>triste<note type="glossary"
+										>désespérant</note></seg>
+								<seg>événement<note type="glossary">résultat</note></seg>.</l>
+							<l> Car en effet l’ingrate que j’adore</l>
+							<l>Me serait favorable encore,</l>
+							<l>Si je ne l’eusse aimée <seg>un peu trop prudemment<note type="note"
+										>C’est précisément ce qui arrive à Démocrate, héros de la
+										nouvelle de « La Prudence funeste », qui adopte le même
+										comportement inapproprié dans son amour pour Sestiane (t. I,
+										p. 137-147).</note></seg>.</l>
+							<l>Voilà ce qu’enseigne ton livre.</l>
+							<l>Ami, le sexe t’en voudra,</l>
+							<l> Car je suis assuré que tel qui le verra</l>
+							<l>N’aura plus de prudence à suivre</l>
+							<l>Et voudra réussir dans son affection</l>
+							<l>Dorénavant <seg>par l’indiscrétion<note type="glossary">en agissant
+										sans retenue</note></seg>.</l>
+						</lg>
+						<signed>T.P.</signed>
+					
+				</div2>
+
+				<div2 rendition="Privilège" n="privilege">
+						<head><seg>PRIVILÈGE DU ROI<note type="note">Dans tous les
+											<seg>exemplaires<link target="editionsnn.xml"
+										/></seg>, ce privilège, non paginé, est placé à la fin du
+									tome I (Première Partie), au verso de la dernière page du texte
+									(p. 319). Pour des raisons de commodité de repérage et de
+									consultation, nous avons choisi de le faire figurer à la suite
+									des textes liminaires, en un lieu où le lecteur est habitué à le
+									trouver. Le texte de ce privilège est en partie tronqué et
+									fautif, ce qui a nécessité plusieurs corrections (voir la
+										<seg>liste générale<link type="file"
+											target="pListeCorrections.html"
+							/></seg>).</note></seg>.</head>
+						<p>LOUIS PAR LA GRÂCE DE DIEU, ROI DE FRANCE ET DE NAVARRE, à nos
+									<seg>amés<note type="glossary">aimés</note></seg> et
+									<seg>féaux<note type="glossary">affidés</note></seg>
+							Conseillers, les gens tenant nos Cours de parlement, Prévôt de Paris ou
+							son lieutenant, et à tous autres nos officiers qu’il appartiendra,
+							SALUT.</p>
+						<p>Notre bien amé Jean D… nous a fait remontrer qu’il a composé <seg>Les
+								Succès de l’indiscrétion et Les Nouvellistes<note type="note">Le
+									privilège ne porte que sur ces deux nouvelles, dont rien
+									n’indique qu’elles sont destinées à figurer dans un même volume.
+									Ce constat, indicatif de l’état du projet à fin février 1662,
+									accrédite l’hypothèse que le recueil des Nouvelles Nouvelles
+									résulte d’une <seg>élaboration progressive et en partie non
+											planifiée<link type="file"
+											target="genesestructure.xml"
+								/></seg>.</note></seg>, pièces en <seg>prose et en vers<note
+									type="note">Ni Les Nouvellistes, ni Les Succès des
+									l’indiscrétion ne sont des pièces en vers. L’expression,
+									tronquée, désigne-t-elle en fait le contenu des deux nouvelles
+									(les « pièces en prose et en vers » insérées dans le corps du
+									texte) ? Ou vise-t-elle à couvrir, dans la perspective ouverte
+									d’une <seg>élaboration en cours<link type="file"
+											target="genesestructure.xml"/></seg>, toutes les
+									formes possibles que pourra prendre l’ouvrage protégé par le
+									privilège ?</note></seg> qu’il désirerait faire imprimer et
+							mettre en public, s’il nous plai-<pb n="\"/> sait lui vouloir permettre
+							; et, parce que d’autres personnes pourraient aussi faire imprimer
+							lesdites pièces sans son consentement et par ce moyen le frustrer de son
+							travail et des frais qu’il lui convient faire à son préjudice, il nous a
+							fait supplier lui vouloir sur ce octroyer nos lettres nécessaires.</p>
+						<p>A CES CAUSES désirant favorablement traiter <seg>l’exposant<note
+									type="glossary">le requérant</note></seg>, Nous lui avons permis
+							et permettons, par ces présentes, de les faire imprimer, vendre et
+							distribuer en tels volumes et caractères, par tel imprimeur libraire que
+							bon lui semblera, pendant le temps de sept années ; faisant
+									<seg>cependant<note type="glossary">pendant ce
+								temps</note></seg>
+							<seg>inhibitions<note type="glossary">interdictions</note></seg> et
+							défenses à tous imprimeurs, libraires et autres personnes que ce soit,
+							de faire imprimer, vendre et distribuer les-<pb n="\"/>dites pièces,
+								<seg>sous prétexte d’augmentation<note type="note">La formule
+									rituelle, ici tronquée, est en principe « sous prétexte
+									d'augmentation, correction, changement de titre, fausses marques
+									ou autrement, en quelque sorte ou manière que ce soit ». Le cas
+									de figure de l’ »augmentation » qu’on veut ici proscrire est celui
+									où le contenu de l’ouvrage protégé ou certaines de ses parties
+									seraient insérés dans un autre volume déjà constitué.
+								</note></seg>, ni même d’en altérer les titres, et se servir en
+							aucune façon de <seg>ce qui y est inséré<note type="note">Cette clause,
+									qui protège individuellement les nombreuses pièces insérées au
+									sein des nouvelles de l’ouvrage, n’est pas une composante
+									obligatoire des privilèges. La nécessité d’une telle protection
+									révèle l’autonomie de chacune des dites pièces vis-à-vis de
+									l’ensemble des Nouvelles Nouvelles.D’autres auteurs avaient
+									précédemment obtenu des dispositions approchantes, notamment
+									Gomberville lors de la réédition de <seg>Polexandre<link
+											target="http://gallica.bnf.fr/ark:/12148/bpt6k8707847n/f1003.image"
+										/></seg> (1637), ainsi que Cureau de la Chambre dans
+										<seg>Les Caractères des passions<link
+											target="https://books.google.fr/books?id=MJBSyRWdXEQC&amp;pg=PP11&amp;dq=Cureau+de+la+chambre+extraire+en+tirer+aucune+chose&amp;hl=fr&amp;sa=X&amp;ved=0CCAQ6AEwAGoVChMIsbmh9MKZyAIVgzsaCh3JXQ-u#v=onepage&amp;q&amp;f=false"
+										/></seg> (1660). (Information fournie par Edwige
+									Keller-Rhabé)</note></seg>, sans le consentement dudit exposant
+							ou ceux qui auront droit de lui, à peine de quinze cents livres d’amende
+							pour chacune pièce, moitié applicable au <seg>Grand Hôpital<note
+									type="note">« L’Hôtel-Dieu, qui est le Grand Hôpital, et qualifié
+									tel depuis si longtemps » (Sauval, Histoire et recherches des
+									antiquités de la ville de Paris, 1724, t. I, <seg>p. 519<link
+											target="http://books.google.ch/books?id=XmVZAAAAYAAJ&amp;dq=sauval%20%22grand%20hopital%22&amp;hl=fr&amp;pg=PA519#v=onepage&amp;q=sauval%20%22grand%20hopital%22&amp;f=false"
+										/></seg>)</note></seg> et l’autre moitié <seg>à son
+									profit<note type="glossary">au profit de l’exposant</note></seg>
+							; à la charge de mettre deux exemplaires de chacune desdites œuvres en
+							notre <seg>bibliothèque publique<note type="note">« la Bibliothèque
+									publique du roi, où pareillement on doit fournir deux
+									exemplaires des livres imprimés par privilège » (L’Etat de la
+									France, Paris, Loyson, 1665, <seg>p. 98<link
+											target="http://books.google.fr/books?id=c75SAAAAcAAJ&amp;dq=%22Cabinet%20des%20livres%22&amp;hl=fr&amp;pg=PA98#v=onepage&amp;q=%22Cabinet%20des%20livres%22&amp;f=false"
+										/></seg>).</note></seg>, un autre en <seg>celle de notre
+									Louvre<note type="note">« Le Cabinet des livres ou la
+									Bibliothèque de la personne du Roi au Château du Louvre, où l’on
+									est obligé, par lettres patentes du mois d’août 1658, de fournir
+									un exemplaire de tous les livres qui sont imprimés par privilège
+									(L’Etat de la France, Paris, Loyson, 1665, <seg>p. 97<link
+											target="http://books.google.fr/books?id=c75SAAAAcAAJ&amp;dq=%22Cabinet%20des%20livres%22&amp;hl=fr&amp;pg=PA97#v=onepage&amp;q=%22Cabinet%20des%20livres%22&amp;f=false"
+										/></seg>).</note></seg> et un en celle de notre très cher et
+									<seg>féal<note type="glossary">affidé</note></seg> Chevalier et
+							Commandeur de nos Ordres le <seg>sieur Séguier<note type="note">Le dépôt
+									auprès du Chancelier est destiné à vérifier la conformité de
+									l’ouvrage imprimé avec celui qui a été présenté lors de
+									l’audience du sceau.</note></seg>, Chancelier de France ; et
+								<seg>faute de rapporter<note type="glossary">au cas où on ne
+									rapporterait pas</note></seg> entre les mains de notre
+									<seg>amé<note type="glossary">aimé</note></seg> et
+									<seg>féal<note type="glossary">affidé</note></seg> Conseiller en
+							nos Conseils, Grand Audiencier de France, de présent en quartier, un
+								récé-<pb n="\"/> pissé de notre bibliothécaire, et du sieur
+							Cramoisy, commis pour notre dit Chancelier à la délivrance
+									<seg>actuelle<note type="glossary">effective</note></seg>
+							desdits exemplaires, Nous avons dès à présent déclaré lesdites
+							permissions nulles et avons enjoint au syndic des libraires de faire
+							saisir tous les exemplaires qui auront été imprimés sans avoir satisfait
+							aux clauses portées par ces présentes.</p>
+						<p><seg>SI<note type="glossary">ainsi</note></seg> VOUS MANDONS et
+							ordonnons, à chacun de vous, registrer ces présentes, et de leur contenu
+							jouir et user ledit exposant pleinement et paisiblement ; et au premier
+							notre huissier ou sergent faire pour l’exécution des présentes tous
+									<seg>exploits<note type="glossary">actes
+								judiciaires</note></seg> requis et nécessaires, sans demander autre
+									<seg>congé<note type="glossary">autorisation</note></seg> ni
+							permission. CAR tel est notre plaisir.</p>
+						<p>DONNÉ à Paris <seg>le dernier jour de février <pb n="\"/> mille six cent
+									soixante-deux<note type="note">On notera que le livre n’est
+									imprimé qu’en février 1663 (cf l’indication ci-dessous). Ce
+									délai anormalement long entre la demande de privilège et la
+									fabrication matérielle de l’ouvrage laisse supposer que le
+									contenu de celui-ci a été <seg>modifié à plusieurs reprises<link
+											type="file" target="genesestructure.xml"/></seg>
+									en fonction des derniers développements de l’actualité mondaine
+									et littéraire.</note></seg>, et de notre règne le dix-neuvième.
+							Signé, par le Roi en son Conseil, DUMOLEY.</p><lb/>
+						<p>Et ledit Sieur D… a cédé et transporté son droit de privilège aux sieurs
+							BARBIN, RIBOU, BIENFAICT et QUINET, tous marchands libraires, pour en
+							jouir selon l’accord fait entre eux.</p><lb/>
+					<p>Achevé d’imprimer le neuvième février 1663.</p><lb/>
+					<p>Les exemplaires ont été fournis.</p><lb/>
+						<p>Registré sur le livre de la communauté des marchands libraires et
+							imprimeurs de cette ville de Paris.</p>
+				</div2>
+
+
+			</div1>
+		</body>
+	</text>
+</TEI>
