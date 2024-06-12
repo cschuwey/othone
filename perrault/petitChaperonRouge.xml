@@ -34,8 +34,7 @@
 
                 <bibl xml:id="Philip_1993"><title>Philip (1993)</title><date>1993</date></bibl>
 
-                <bibl xml:id="Appelbaum_2002"
-                    ><title>Appelbaum (2002)</title><date>2002</date></bibl>
+                <bibl xml:id="Appelbaum_2002"><title>Appelbaum (2002)</title><date>2002</date></bibl>
 
                 <bibl xml:id="Betts_2009"><title>Betts (2009)</title><date>2009</date></bibl>
 
@@ -43,8 +42,7 @@
 
                 <bibl xml:id="Tatar_2017"><title>Tatar (2017)</title><date>2017</date></bibl>
 
-                <bibl xml:id="MoogSeifert_2021"><title>Moog &amp;
-                        Seifert (2021)</title><date>2021</date></bibl>
+                <bibl xml:id="MoogSeifert_2021"><title>Moog &amp; Seifert (2021)</title><date>2021</date></bibl>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
