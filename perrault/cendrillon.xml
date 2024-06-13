@@ -113,6 +113,7 @@
                         <rdg wit="#Jones_2016">Once upon a time a nobleman </rdg>
                         <rdg wit="#MoogSeifert_2021">There was once a Gentle-man </rdg>
                     </app><app>
+                     <note resp="editor"> Test </note>
                         <rdg wit="#Perrault_1697">qui épousa en secondes noces </rdg>
                         <rdg wit="#Samber_1729">who married for his second wife </rdg>
                         <rdg wit="#Samber_1741">who married, for his second wife, </rdg>
