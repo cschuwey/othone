@@ -128,8 +128,8 @@
                         <rdg wit="#MoogSeifert_2021">There was once a little Village girl, </rdg>
 
                     </app><app>
-                        <note resp="editor" xml:lang="fr">"joli" pour un enfant signifiait "gentil"</note>
-                    <note resp="editor" xml:lang="en">When used for a child, joli(e) meant “nice” or “lovely”</note>
+                        <note resp="editor" xml:lang="fr">"Joli" pour un enfant signifiait "gentil".</note>
+                    <note resp="editor" xml:lang="en">When used for a child, joli(e) meant “nice” or “lovely”.</note>
                         <rdg wit="#Perrault_1695">la plus jolie qu’on eût su voir : </rdg>
                         <rdg wit="#Perrault_1697">"la plus jolie qu'on eût su voir ;" </rdg>
                         <rdg wit="#Samber_1729">the prettiest little creature that ever was
@@ -278,6 +278,8 @@
 
                     </app></p>
                 <p><app>
+                    <note resp="editor" xml:lang="fr">L’ordre des verbes d’action pourrait sembler fautif si l’on comprend que galettes est l’objet des deux verbes, mais cuire « se met quelquefois absolument pour cuire du pain » (Académie), i.e. la mère profite d’avoir allumé le four et faire cuire du pain pour faire aussi des galettes.</note>
+                    <note resp="editor" xml:lang="en">The order in which the two verbs appear in this sentence could seem to be faulty if one assumes that “galettes” is the direct object of both. However, the verb “cuire” could also mean “to bake bread” (Académie), thus, the mother takes advantage of having already heated the oven to make galettes as well.</note>
                         <rdg wit="#Perrault_1695">Un jour sa mère ayant cuit et fait des
                             galettes, </rdg>
                         <rdg wit="#Perrault_1697">Un jour sa mère ayant cuit et fait des
