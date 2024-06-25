@@ -1288,6 +1288,8 @@
                         <rdg wit="#MoogSeifert_2021">-- </rdg>
 
                     </app><app>
+                        <note resp="editor" xml:lang="fr">Au sens sans doute de petite-fille, même si Perrault utilise "petite-fille" quand il le veut (éloge d’Antoine Arnaud dans les Hommes Illustres).</note>
+<note resp="editor" xml:lang="en">Fille (daughter, girl) doubtless means grand-daughter. But Perrault uses “petite-fille” on occasion (see his panegyric of Antoine Arnaud in Hommes illustres).</note>
                         <rdg wit="#Perrault_1695">c’est votre fille le petit chaperon rouge </rdg>
                         <rdg wit="#Perrault_1697">C'est votre fille le petit chaperon rouge </rdg>
                         <rdg wit="#Samber_1729">"Your grand-daughter, The little red
@@ -1429,6 +1431,8 @@
                         <rdg wit="#MoogSeifert_2021">‘cause she was feeling a bit ill, </rdg>
 
                     </app><app>
+                        <note resp="editor" xml:lang="fr">Le pronom lui est au genre indifférencié : mais la traduction en anglais oblige de choisir entre him et her : le narrateur omniscient sait que c’est him mais la mère-grand croit que c’est her.</note>
+<note resp="editor" xml:lang="en">The indirect object pronoun lui can be translated as “to him” or “to her.” From the narrator’s point of view, “to him” (or “to it”) is implied, but from the grandmother’s, “to her.”</note>
                         <rdg wit="#Perrault_1695">lui cria, </rdg>
                         <rdg wit="#Perrault_1697">lui cria, </rdg>
                         <rdg wit="#Samber_1729">cried out, </rdg>
