@@ -948,7 +948,7 @@
                         <rdg wit="#MoogSeifert_2021">"I want to go see her too. </rdg>
 
                     </app><app>
-                        <note resp="editor" xml:lang="fr">icy est un archaïsme introduit en 97, d’où notre choix de hither & yonder.</note>
+                        <note resp="editor" xml:lang="fr">icy est un archaïsme introduit en 97, d’où notre choix de hither &amp; yonder.</note>
 <note resp="editor" xml:lang="en">The spelling of icy (for ici) is deliberately archaic, introduced in the 1697 version. Thus, we use the archaic English “hither” and “yonder.”</note>
                         <rdg wit="#Perrault_1695">je m’y en vais par ce chemin ci et toi par ce
                             chemin là, </rdg>
