@@ -1471,6 +1471,8 @@
                         <rdg wit="#MoogSeifert_2021">"Pull the little peg, </rdg>
 
                     </app><app>
+                        <note resp="editor" xml:lang="fr"> Les termes “chevillette” et “bobinette”, qui intriguent les spécialistes, sont délibérément archaiques. Voir notre discussion dans l'Introduction, pp. xx.</note>
+<note resp="editor" xml:lang="en">The terms “chevillette” and “bobinette,” which have perplexed scholars, are deliberately archaic. See our discussion in the Introduction, pp. xx.</note>
                         <rdg wit="#Perrault_1695">la bobinette cherra, </rdg>
                         <rdg wit="#Perrault_1697">la bobinette cher[r]a, </rdg>
                         <rdg wit="#Samber_1729">"and the latch will go up." </rdg>
@@ -2280,6 +2282,8 @@
                             girl.” </rdg>
 
                     </app><app>
+                        <note resp="editor" xml:lang="fr">L'usage des points d'interrogation dans ce dialogue, bien qu'étonnant, ne doit pas nécessairement être considéré comme une coquille. Voir notre discussion sur la ponctuation dans l'Introduction.</note>
+<note resp="editor" xml:lang="en">The use of question marks in this dialogue, although puzzling, should not necessarily be discounted as a printer’s error. See our discussion of punctuation and typography in the Introduction.</note>
                         <rdg wit="#Perrault_1695">Ma mère grand que vous avez de grandes jambes
                             ? </rdg>
                         <rdg wit="#Perrault_1697">ma mère-grand que vous avez de grandes jambes
@@ -2854,6 +2858,8 @@
 
                         </app></l>
                     <l><app>
+                        <note resp="editor" xml:lang="fr">« apprivoisé […] signifie aussi, Familier. En ce sens il ne se dit guère que pour marquer trop de familiarité » (Académie).</note>
+<note resp="editor" xml:lang="en">“Tame…also means familiar. In this sense, it is only used to point out excessive familiarity” (Académie).</note>
                             <rdg wit="#Perrault_1695">-- </rdg>
                             <rdg wit="#Perrault_1697">Qui privés, complaisants et doux </rdg>
                             <rdg wit="#Samber_1729">Who tame, familiar, full of complaisance </rdg>
@@ -3025,6 +3031,16 @@
 
                         </app></l>
                     <l><app>
+                        <note resp="editor" xml:lang="fr">« Faire le doucereux auprès d’une femme, pour dire, Affecter par ses façons de lui faire croire que l’on est amoureux d’elle » (Académie, s.v. « Doucereux »).
+Ute Heidman (« Reconfigurer les contes pour moraliser autrement », Féeries [En ligne], n°13, 2016) fait le rapprochement avec la nouvelle L’Adroite Princesse ou les Aventures de Finette (1695) de Lhéritier :
+Craignez les Blondins doucereux
+Qui fatiguent les Ruelles,
+Et ne sachant que dire aux Belles
+Soupirent sans être amoureux
+L’on peut penser aussi à la réflexion psychologique de La Bruyère (La Pléiade 1951:297-298)
+« Dire d'un homme colère, inégal, querelleux, chagrin, pointilleux, capricieux : « c'est son humeur », n'est pas l'excuser, comme on le croit, mais avouer sans y penser que de si grands défauts sont irrémédiables. Ce qu'on appelle humeur est une chose trop négligée parmi les hommes ; ils devraient comprendre qu'il ne leur suffit pas d'être bons, mais qu'ils doivent encore paraître tels, du moins s'ils tendent à être sociables, capables d'union et de commerce, c'est-à-dire à être des hommes. L'on n'exige pas des âmes malignes qu'elles aient de la douceur et de la souplesse ; elle ne leur manque jamais, et elle leur sert de piège pour surprendre les simples, et pour faire valoir leurs artifices : l'on désirerait de ceux qui ont un bon cœur qu'ils fussent toujours pliants, faciles, complaisants ; et qu'il fût moins vrai quelquefois que ce sont les méchants qui nuisent, et les bons qui font souffrir. »
+</note>
+<note resp="editor" xml:lang="en">“To sweet talk a woman (faire le doucereux auprès d’une femme), to mean, affecting by one’s manner to make her believe that one is in love with her” (Académie, “doucereux”). Ute Heidman (« Reconfigurer les contes pour moraliser autrement », Féeries https://doi.org/10.4000/feeries.997, n°13, 2016) makes the comparison with the moral at the end of Lhéritier’s L’Adroite Princesse ou les Aventures de Finette (1695): “Fear the sweet-talking Youths / Who stalk women’s bedsides / And not knowing what to say to the Beauties / Sigh without being in love.” La Bruyère’s caractère (“Of Mankind,” 9) in is also relevant: “If we say of an angry, captious, quarrelsome, melancholy, formal, capricious person, that it is all owing to his temper, it is not to find an excuse for him, whatever people may think, but an involuntary acknowledgment that such great faults admit of no remedy. What we call good temper is a thing too much neglected among men; they ought to understand that they should not alone be good, but also appear to be so, at least if they are inclined to be sociable and disposed to friendly intercourse; in other words, if they would be men. We do not require wicked men to be gentle and urbane; in these qualities they are never wanting, for they employ them to ensnare the simple, and to find a larger field for their operations; but we wish kind-hearted men always to be tractable, accessible, and courteous; so that there should no longer be any reason for saying that wicked men do harm and that good men make others uncomfortable.” (https://www.gutenberg.org/files/46633/46633-h/46633-h.htm)</note>
                             <rdg wit="#Perrault_1695">-- </rdg>
                             <rdg wit="#Perrault_1697">De tous les Loups sont les plus
                                 dangereux. </rdg>
