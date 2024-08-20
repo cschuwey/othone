@@ -1,6 +1,6 @@
 # Othonè
 
-Welcome to Othonè, the [Early Modern Digital Library](othone.org). Othonè (both "screen" and "sail" in Greek) joined her sisters as the Muse of digital editions. She inspires us to make the most of the screen and the digital tools to provide new insights into Early Modern books and texts. 
+Welcome to Othonè, an [Early Modern Digital Library](http://othone.org). Othonè (both "screen" and "sail" in Greek) joined her sisters as the Muse of digital editions. She inspires us to make the most of the screen and the digital tools to provide new insights into Early Modern books and texts. 
 
 Christophe Schuwey is head of the digital library. He is an Associate professor of Digital Humanities and Book History at the University of South Brittany (France). 
 
