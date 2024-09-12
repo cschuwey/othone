@@ -278,8 +278,11 @@
 
                     </app></p>
                 <p><app>
-                    <note resp="editor" xml:lang="fr">L’ordre des verbes d’action pourrait sembler fautif si l’on comprend que galettes est l’objet des deux verbes, mais cuire « se met quelquefois absolument pour cuire du pain » (Académie), i.e. la mère profite d’avoir allumé le four et faire cuire du pain pour faire aussi des galettes.</note>
-                    <note resp="editor" xml:lang="en">The order in which the two verbs appear in this sentence could seem to be faulty if one assumes that “galettes” is the direct object of both. However, the verb “cuire” could also mean “to bake bread” (Académie), thus, the mother takes advantage of having already heated the oven to make galettes as well.</note>
+                    <note resp="editor" xml:lang="fr">L’ordre des verbes d’action pourrait sembler fautif si l’on comprend que galettes est l’objet des deux verbes, 
+                        mais cuire « se met quelquefois absolument pour cuire du pain » (Académie), i.e. la mère profite d’avoir allumé le four et faire cuire du pain 
+                        pour faire aussi des galettes.</note>
+                    <note resp="editor" xml:lang="en">The order in which the two verbs appear in this sentence could seem to be faulty if one assumes that “galettes” is the direct object of both. 
+                        However, the verb “cuire” could also mean “to bake bread” (Académie), thus, the mother takes advantage of having already heated the oven to make galettes as well.</note>
                         <rdg wit="#Perrault_1695">Un jour sa mère ayant cuit et fait des
                             galettes, </rdg>
                         <rdg wit="#Perrault_1697">Un jour sa mère ayant cuit et fait des
