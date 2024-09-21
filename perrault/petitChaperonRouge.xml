@@ -72,9 +72,10 @@
                         <rdg wit="#Jones_2016">The Little Red Tippet </rdg>
                         <rdg wit="#Tatar_2017">Little Red Riding Hood </rdg>
                         <rdg wit="#MoogSeifert_2021">The little red hood </rdg>
-
+                </head>
+                <head type="genre">
                     </app>
-                    <app type="genre">
+                    <app>
                         <rdg wit="#Perrault_1695">Conte </rdg>
                         <rdg wit="#Perrault_1697">Conte </rdg>
                         <rdg wit="#Samber_1729">-- </rdg>
