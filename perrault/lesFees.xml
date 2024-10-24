@@ -2980,117 +2980,128 @@
                 </lg>
             </div>
             <div type="moral">
-                <head>
-                    <app>
-                        <rdg wit="#Perrault_1695">-- </rdg> 
-                        <rdg wit="#Perrault_1697">Autre Moralité </rdg> 
-                        <rdg wit="#Samber_1729">Another </rdg> 
-                        <rdg wit="#Samber_1741">Another </rdg> 
-                        <rdg wit="#Neaulme_1745">-- </rdg> 
-                        <rdg wit="#Lang_1889">-- </rdg> 
-                        <rdg wit="#Welsh_1901">-- </rdg> 
-                        <rdg wit="#Johnson_1921">-- </rdg> 
-                        <rdg wit="#Mansion_1922">Another </rdg> 
-                        <rdg wit="#Brereton_1957">Second moral </rdg> 
-                        <rdg wit="#Zipes_1989">ANOTHER MORAL </rdg> 
-                        <rdg wit="#Philip_1993">ANOTHER MORAL </rdg> 
-                        <rdg wit="#Appelbaum_2002">Second Moral </rdg> 
-                        <rdg wit="#Betts_2009">Another moral </rdg> 
-                        <rdg wit="#Jones_2016">Another moral </rdg> 
-                        <rdg wit="#MoogSeifert_2021">OTHER MORAL </rdg> 
+                <?xml version="1.0" encoding="UTF-8"?>
+<app>
+                <rdg wit="#Perrault_1695">
+                                <lg/>
+                </rdg>
+                <rdg wit="#Perrault_1697">
+                                <lg>
+                                                <l>Autre Moralité </l>
+                                                <l>L'Honnêteté coûte des soins, </l>
+                                                <l>Et veut un peu de complaisance, </l>
+                                                <l>Mais tôt ou tard elle a sa récompense, </l>
+                                                <l>Et souvent dans le temps qu'on y pense le moins.
+                                                </l>
+                                </lg>
+                </rdg>
+                <rdg wit="#Samber_1729">
+                                <lg>
+                                                <l>Another </l>
+                                                <l>Civil behaviour costs indeed some pains, </l>
+                                                <l>"Requires of complaisance some little share;" </l>
+                                                <l>But soon or late its due reward it gains, </l>
+                                                <l>And meets it often when we're not aware. </l>
+                                </lg>
+                </rdg>
+                <rdg wit="#Samber_1741">
+                                <lg>
+                                                <l>Another </l>
+                                                <l>Civil behaviour costs indeed some pains, </l>
+                                                <l>"Requires of complaisance some little share;" </l>
+                                                <l>But soon or late its due reward it gains, </l>
+                                                <l>And meets it often when we're not aware. </l>
+                                </lg>
+                </rdg>
+                <rdg wit="#Neaulme_1745">
+                                <lg/>
+                </rdg>
+                <rdg wit="#Lang_1889">
+                                <lg/>
+                </rdg>
+                <rdg wit="#Welsh_1901">
+                                <lg/>
+                </rdg>
+                <rdg wit="#Johnson_1921">
+                                <lg/>
+                </rdg>
+                <rdg wit="#Mansion_1922">
+                                <lg>
+                                                <l>Another </l>
+                                                <l>Civil behaviour costs indeed some pains, </l>
+                                                <l>"Requires of complaisance some little share;" </l>
+                                                <l>But soon or late its due reward it gains, </l>
+                                                <l>And meets it often when we're not aware. </l>
+                                </lg>
+                </rdg>
+                <rdg wit="#Brereton_1957">
+                                <lg>
+                                                <l>Second moral </l>
+                                                <l>Politeness means taking pains and some </l>
+                                                <l>"Trouble to see that others are not neglected;" </l>
+                                                <l>But sooner or later the reward will come, </l>
+                                                <l>And often at a time when it is least expected.
+                                                </l>
+                                </lg>
+                </rdg>
+                <rdg wit="#Zipes_1989">
+                                <lg>
+                                                <l>ANOTHER MORAL </l>
+                                                <l>Virtue demands a great deal of effort, </l>
+                                                <l>For one must indeed be very good-natured. </l>
+                                                <l>Sooner or later it reaps its reward, </l>
+                                                <l>Which comes indeed when it's least sought. </l>
+                                </lg>
+                </rdg>
+                <rdg wit="#Philip_1993">
+                                <lg>
+                                                <l>ANOTHER MORAL </l>
+                                                <l>Though it takes care to show respect </l>
+                                                <l>And kindness of your own accord, </l>
+                                                <l>More often than you might expect </l>
+                                                <l>Kindness brings its own reward. </l>
+                                </lg>
+                </rdg>
+                <rdg wit="#Appelbaum_2002">
+                                <lg>
+                                                <l>Second Moral </l>
+                                                <l>Courtesy calls for taking pains </l>
+                                                <l>and being somewhat indulgent, </l>
+                                                <l>but sooner or later it receives its reward, </l>
+                                                <l>and often at the time one least expects it to.
+                                                </l>
+                                </lg>
+                </rdg>
+                <rdg wit="#Betts_2009">
+                                <lg>
+                                                <l>Another moral </l>
+                                                <l>To be polite and kind, and show respectIs
+                                                  difficult: </l>
+                                                <l>"some effort must be made;" </l>
+                                                <l>Sooner or later, though, you'll be repaid, </l>
+                                                <l>And often in a way you don't expect. </l>
+                                </lg>
+                </rdg>
+                <rdg wit="#Jones_2016">
+                                <lg>
+                                                <l>Another moral </l>
+                                                <l>Civility comes at the cost of great care </l>
+                                                <l>And a bit of compliance, </l>
+                                                <l>But sooner or later finds recompense </l>
+                                                <l>And often at the moment you are least aware. </l>
+                                </lg>
+                </rdg>
+                <rdg wit="#MoogSeifert_2021">
+                                <lg>
+                                                <l>OTHER MORAL </l>
+                                                <l>Respectfulness costs much effort, </l>
+                                                <l>And requires one to be a bit obliging </l>
+                                                <l>But sooner or later it has its recompense, </l>
+                                                <l>And often at the time one least expects it. </l>
+                                </lg>
+                </rdg>
+</app>
 
-                    </app></head>
-                <lg>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg> 
-                            <rdg wit="#Perrault_1697">L'Honnêteté coûte des soins, </rdg> 
-                            <rdg wit="#Samber_1729">Civil behaviour costs indeed some pains, </rdg> 
-                            <rdg wit="#Samber_1741">Civil behaviour costs indeed some pains, </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">Civil behaviour costs indeed some pains, </rdg> 
-                            <rdg wit="#Brereton_1957">Politeness means taking pains and some </rdg> 
-                            <rdg wit="#Zipes_1989">Virtue demands a great deal of effort, </rdg> 
-                            <rdg wit="#Philip_1993">Though it takes care to show respect </rdg> 
-                            <rdg wit="#Appelbaum_2002">Courtesy calls for taking pains </rdg> 
-                            <rdg wit="#Betts_2009">To be polite and kind, and show respectIs
-                                difficult:  </rdg> 
-                            <rdg wit="#Jones_2016">Civility comes at the cost of great care </rdg> 
-                            <rdg wit="#MoogSeifert_2021">Respectfulness costs much effort, </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg> 
-                            <rdg wit="#Perrault_1697">Et veut un peu de complaisance, </rdg> 
-                            <rdg wit="#Samber_1729">"Requires of complaisance some little
-                                share;" </rdg> 
-                            <rdg wit="#Samber_1741">"Requires of complaisance some little
-                                share;" </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">"Requires of complaisance some little
-                                share;" </rdg> 
-                            <rdg wit="#Brereton_1957">"Trouble to see that others are not
-                                neglected;" </rdg> 
-                            <rdg wit="#Zipes_1989">For one must indeed be very good-natured. </rdg> 
-                            <rdg wit="#Philip_1993">And kindness of your own accord, </rdg> 
-                            <rdg wit="#Appelbaum_2002">and being somewhat indulgent, </rdg> 
-                            <rdg wit="#Betts_2009">"some effort must be made;" </rdg> 
-                            <rdg wit="#Jones_2016">And a bit of compliance, </rdg> 
-                            <rdg wit="#MoogSeifert_2021">And requires one to be a bit
-                                obliging </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg> 
-                            <rdg wit="#Perrault_1697">Mais tôt ou tard elle a sa récompense, </rdg> 
-                            <rdg wit="#Samber_1729">But soon or late its due reward it gains, </rdg> 
-                            <rdg wit="#Samber_1741">But soon or late its due reward it gains, </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">But soon or late its due reward it gains, </rdg> 
-                            <rdg wit="#Brereton_1957">But sooner or later the reward will
-                                come, </rdg> 
-                            <rdg wit="#Zipes_1989">Sooner or later it reaps its reward, </rdg> 
-                            <rdg wit="#Philip_1993">More often than you might expect </rdg> 
-                            <rdg wit="#Appelbaum_2002">but sooner or later it receives its
-                                reward, </rdg> 
-                            <rdg wit="#Betts_2009">Sooner or later, though, you'll be repaid, </rdg> 
-                            <rdg wit="#Jones_2016">But sooner or later finds recompense </rdg> 
-                            <rdg wit="#MoogSeifert_2021">But sooner or later it has its
-                                recompense, </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg> 
-                            <rdg wit="#Perrault_1697">Et souvent dans le temps qu'on y pense le
-                                moins. </rdg> 
-                            <rdg wit="#Samber_1729">And meets it often when we're not aware. </rdg> 
-                            <rdg wit="#Samber_1741">And meets it often when we're not aware. </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">And meets it often when we're not aware. </rdg> 
-                            <rdg wit="#Brereton_1957">And often at a time when it is least
-                                expected. </rdg> 
-                            <rdg wit="#Zipes_1989">Which comes indeed when it's least sought. </rdg> 
-                            <rdg wit="#Philip_1993">Kindness brings its own reward. </rdg> 
-                            <rdg wit="#Appelbaum_2002">and often at the time one least expects it
-                                to. </rdg> 
-                            <rdg wit="#Betts_2009">And often in a way you don't expect. </rdg> 
-                            <rdg wit="#Jones_2016">And often at the moment you are least
-                                aware. </rdg> 
-                            <rdg wit="#MoogSeifert_2021">And often at the time one least expects
-                                it. </rdg> 
-                        </app></l>
-                </lg>
             </div>
         </body>
     </text>
