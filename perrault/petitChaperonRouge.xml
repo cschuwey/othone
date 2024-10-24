@@ -2519,558 +2519,301 @@
                     </app></p>
             </div>
             <div type="moral">
-                <head>
-                    <app>
-                        <rdg wit="#Perrault_1695">Moralité </rdg>
-                        <rdg wit="#Perrault_1697">MORALITÉ </rdg>
-                        <rdg wit="#Samber_1729">The Moral </rdg>
-                        <rdg wit="#Samber_1741">The Moral </rdg>
-                        <rdg wit="#Neaulme_1745">Mind this Tale, </rdg>
-                        <rdg wit="#Lang_1889">-- </rdg>
-                        <rdg wit="#Welsh_1901">-- </rdg>
-                        <rdg wit="#Johnson_1921">-- </rdg>
-                        <rdg wit="#Mansion_1922">The Moral </rdg>
-                        <rdg wit="#Brereton_1957">Moral </rdg>
-                        <rdg wit="#Zipes_1989">MORAL </rdg>
-                        <rdg wit="#Philip_1993">MORAL </rdg>
-                        <rdg wit="#Appelbaum_2002">Moral </rdg>
-                        <rdg wit="#Betts_2009">The moral of this tale </rdg>
-                        <rdg wit="#Jones_2016">Moral </rdg>
-                        <rdg wit="#Tatar_2017">Moral </rdg>
-                        <rdg wit="#MoogSeifert_2021">Moral </rdg>
-
-                    </app></head>
-                <lg>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">Dans ce conte on peut voir qu’à de jeunes
-                                enfants </rdg>
-                            <rdg wit="#Perrault_1697">On voit ici que de jeunes enfant, </rdg>
-                            <rdg wit="#Samber_1729">From this short story easy we discern </rdg>
-                            <rdg wit="#Samber_1741">From this short story easy we discern </rdg>
-                            <rdg wit="#Neaulme_1745">pretty Ladies stil young &amp; unacquainted
-                                with all the dangers of your age &amp; sex. </rdg>
-                            <rdg wit="#Lang_1889">-- </rdg>
-                            <rdg wit="#Welsh_1901">-- </rdg>
-                            <rdg wit="#Johnson_1921">-- </rdg>
-                            <rdg wit="#Mansion_1922">From this short story easy we discern </rdg>
-                            <rdg wit="#Brereton_1957">This story teaches that the very young, </rdg>
-                            <rdg wit="#Zipes_1989">One sees here that young children, </rdg>
-                            <rdg wit="#Philip_1993">Young children, as we clearly see, </rdg>
-                            <rdg wit="#Appelbaum_2002">It is seen here that young children, </rdg>
-                            <rdg wit="#Betts_2009">Young children, as this tale will show, </rdg>
-                            <rdg wit="#Jones_2016">Here we see that children so young, </rdg>
-                            <rdg wit="#Tatar_2017">From this story one learns that children, </rdg>
-                            <rdg wit="#MoogSeifert_2021">One sees here that young children, </rdg>
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg>
-                            <rdg wit="#Perrault_1697">-- </rdg>
-                            <rdg wit="#Samber_1729">What conduct all young people ought to
-                                learn. </rdg>
-                            <rdg wit="#Samber_1741">What conduct all young people ought to
-                                learn. </rdg>
-                            <rdg wit="#Neaulme_1745">"Woolfs there are every where;" </rdg>
-                            <rdg wit="#Lang_1889">-- </rdg>
-                            <rdg wit="#Welsh_1901">-- </rdg>
-                            <rdg wit="#Johnson_1921">-- </rdg>
-                            <rdg wit="#Mansion_1922">What conduct all young people ought to
-                                learn. </rdg>
-                            <rdg wit="#Brereton_1957">-- </rdg>
-                            <rdg wit="#Zipes_1989">-- </rdg>
-                            <rdg wit="#Philip_1993">-- </rdg>
-                            <rdg wit="#Appelbaum_2002">-- </rdg>
-                            <rdg wit="#Betts_2009">-- </rdg>
-                            <rdg wit="#Jones_2016">-- </rdg>
-                            <rdg wit="#Tatar_2017">-- </rdg>
-                            <rdg wit="#MoogSeifert_2021">-- </rdg>
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">Et surtout à de jeunes filles </rdg>
-                            <rdg wit="#Perrault_1697">Surtout de jeunes filles, </rdg>
-                            <rdg wit="#Samber_1729">But above all, the growing ladies fair, </rdg>
-                            <rdg wit="#Samber_1741">But above all, young, growing misses fair, </rdg>
-                            <rdg wit="#Neaulme_1745">take heed how you listen to ‘em. </rdg>
-                            <rdg wit="#Lang_1889">-- </rdg>
-                            <rdg wit="#Welsh_1901">-- </rdg>
-                            <rdg wit="#Johnson_1921">-- </rdg>
-                            <rdg wit="#Mansion_1922">But above all, young, growing misses
-                                fair, </rdg>
-                            <rdg wit="#Brereton_1957">And little girls more surely than the
-                                rest, </rdg>
-                            <rdg wit="#Zipes_1989">Especially pretty girls, </rdg>
-                            <rdg wit="#Philip_1993">Pretty girls, especially, </rdg>
-                            <rdg wit="#Appelbaum_2002">especially young girls </rdg>
-                            <rdg wit="#Betts_2009">And mainly pretty girls with charm, </rdg>
-                            <rdg wit="#Jones_2016">Especially young girls, </rdg>
-                            <rdg wit="#Tatar_2017">Especially young girls, </rdg>
-                            <rdg wit="#MoogSeifert_2021">Especially young girls, </rdg>
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg>
-                            <rdg wit="#Perrault_1697">-- </rdg>
-                            <rdg wit="#Samber_1729">Whose orient rosy blooms begin t’appear: </rdg>
-                            <rdg wit="#Samber_1741">Whose orient rosy blooms begin t’appear: </rdg>
-                            <rdg wit="#Neaulme_1745">-- </rdg>
-                            <rdg wit="#Lang_1889">-- </rdg>
-                            <rdg wit="#Welsh_1901">-- </rdg>
-                            <rdg wit="#Johnson_1921">-- </rdg>
-                            <rdg wit="#Mansion_1922">Whose orient rosy blooms begin t'appear: </rdg>
-                            <rdg wit="#Brereton_1957">-- </rdg>
-                            <rdg wit="#Zipes_1989">-- </rdg>
-                            <rdg wit="#Philip_1993">-- </rdg>
-                            <rdg wit="#Appelbaum_2002">-- </rdg>
-                            <rdg wit="#Betts_2009">-- </rdg>
-                            <rdg wit="#Jones_2016">-- </rdg>
-                            <rdg wit="#Tatar_2017">-- </rdg>
-                            <rdg wit="#MoogSeifert_2021">-- </rdg>
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">Belles, bien faites et gentilles </rdg>
-                            <rdg wit="#Perrault_1697">Belles, bien faites, et gentilles, </rdg>
-                            <rdg wit="#Samber_1729">Who, Beauties in the fragrant spring of
-                                age! </rdg>
-                            <rdg wit="#Samber_1741">Who, beauties in the fragrant springs of
-                                age, </rdg>
-                            <rdg wit="#Neaulme_1745">-- </rdg>
-                            <rdg wit="#Lang_1889">-- </rdg>
-                            <rdg wit="#Welsh_1901">-- </rdg>
-                            <rdg wit="#Johnson_1921">-- </rdg>
-                            <rdg wit="#Mansion_1922">Who, beauties in the fragrant spring of
-                                age, </rdg>
-                            <rdg wit="#Brereton_1957">- sweet, dainty things, clothed in their
-                                Sunday best - </rdg>
-                            <rdg wit="#Zipes_1989">Who're bred as pure as pearls, </rdg>
-                            <rdg wit="#Philip_1993">Innocent of all life's dangers, </rdg>
-                            <rdg wit="#Appelbaum_2002">who are beautiful, shapely, and pretty, </rdg>
-                            <rdg wit="#Betts_2009">Do wrong and often come to harm </rdg>
-                            <rdg wit="#Jones_2016">Beautiful, striking pearls, </rdg>
-                            <rdg wit="#Tatar_2017">Pretty, well-bred, and genteel, </rdg>
-                            <rdg wit="#MoogSeifert_2021">Beautiful, well shaped, and nice, </rdg>
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg>
-                            <rdg wit="#Perrault_1697">-- </rdg>
-                            <rdg wit="#Samber_1729">With pretty airs young hearts are apt
-                                t’engage. </rdg>
-                            <rdg wit="#Samber_1741">With pretty airs young hearts are apt
-                                t’engage. </rdg>
-                            <rdg wit="#Neaulme_1745">-- </rdg>
-                            <rdg wit="#Lang_1889">-- </rdg>
-                            <rdg wit="#Welsh_1901">-- </rdg>
-                            <rdg wit="#Johnson_1921">-- </rdg>
-                            <rdg wit="#Mansion_1922">With pretty airs young hearts are apt
-                                t'engage. </rdg>
-                            <rdg wit="#Brereton_1957">-- </rdg>
-                            <rdg wit="#Zipes_1989">-- </rdg>
-                            <rdg wit="#Philip_1993">-- </rdg>
-                            <rdg wit="#Appelbaum_2002">-- </rdg>
-                            <rdg wit="#Betts_2009">In letting those they do not know </rdg>
-                            <rdg wit="#Jones_2016">-- </rdg>
-                            <rdg wit="#Tatar_2017">-- </rdg>
-                            <rdg wit="#MoogSeifert_2021">-- </rdg>
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">Il prend mal d’écouter toutes sortes de
-                                gens </rdg>
-                            <rdg wit="#Perrault_1697">Font très mal d'écouter toute sorte de
-                                gens, </rdg>
-                            <rdg wit="#Samber_1729">Ill do they listen to all sorts of
-                                tongues, </rdg>
-                            <rdg wit="#Samber_1741">Ill do they listen to all sorts of
-                                tongues, </rdg>
-                            <rdg wit="#Neaulme_1745">-- </rdg>
-                            <rdg wit="#Lang_1889">-- </rdg>
-                            <rdg wit="#Welsh_1901">-- </rdg>
-                            <rdg wit="#Johnson_1921">-- </rdg>
-                            <rdg wit="#Mansion_1922">Ill do they listen to all sorts of
-                                tongues, </rdg>
-                            <rdg wit="#Brereton_1957">Should never trust a stranger's artful
-                                tongue. </rdg>
-                            <rdg wit="#Zipes_1989">Should question words addressed by men. </rdg>
-                            <rdg wit="#Philip_1993">Shouldn't stop and chat with strangers. </rdg>
-                            <rdg wit="#Appelbaum_2002">are in the wrong when they listen to just
-                                anybody, </rdg>
-                            <rdg wit="#Betts_2009">Stay talking to them when they meet. </rdg>
-                            <rdg wit="#Jones_2016">Fare very badly when they listen to just
-                                anyone. </rdg>
-                            <rdg wit="#Tatar_2017">Are wrong to listen to just anyone, </rdg>
-                            <rdg wit="#MoogSeifert_2021">Are very wrong to listen to all manner of
-                                people, </rdg>
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg>
-                            <rdg wit="#Perrault_1697">-- </rdg>
-                            <rdg wit="#Samber_1729">Since some enchant and lure like Syrens
-                                songs. </rdg>
-                            <rdg wit="#Samber_1741">Since some inchant and lure like Syrens
-                                songs. </rdg>
-                            <rdg wit="#Neaulme_1745">-- </rdg>
-                            <rdg wit="#Lang_1889">-- </rdg>
-                            <rdg wit="#Welsh_1901">-- </rdg>
-                            <rdg wit="#Johnson_1921">-- </rdg>
-                            <rdg wit="#Mansion_1922">Since some inchant and lure like Syrens'
-                                songs. </rdg>
-                            <rdg wit="#Brereton_1957">-- </rdg>
-                            <rdg wit="#Zipes_1989">-- </rdg>
-                            <rdg wit="#Philip_1993">-- </rdg>
-                            <rdg wit="#Appelbaum_2002">-- </rdg>
-                            <rdg wit="#Betts_2009">And if they don’t do as they ought, </rdg>
-                            <rdg wit="#Jones_2016">-- </rdg>
-                            <rdg wit="#Tatar_2017">-- </rdg>
-                            <rdg wit="#MoogSeifert_2021">-- </rdg>
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">Et que ce n’est pas chose étrange </rdg>
-                            <rdg wit="#Perrault_1697">Et que ce n'est pas chose étrange, </rdg>
-                            <rdg wit="#Samber_1729">No wonder therefore 'tis if over-power'd, </rdg>
-                            <rdg wit="#Samber_1741">No wonder therefore 'tis if over-power'd, </rdg>
-                            <rdg wit="#Neaulme_1745">-- </rdg>
-                            <rdg wit="#Lang_1889">-- </rdg>
-                            <rdg wit="#Welsh_1901">-- </rdg>
-                            <rdg wit="#Johnson_1921">-- </rdg>
-                            <rdg wit="#Mansion_1922">No wonder therefore 'tis, if
-                                over-power'd, </rdg>
-                            <rdg wit="#Brereton_1957">Small wonder if these guileless young
-                                beginners </rdg>
-                            <rdg wit="#Zipes_1989">Or they may serve one day as feast </rdg>
-                            <rdg wit="#Philip_1993">If this simple advice beats them, </rdg>
-                            <rdg wit="#Appelbaum_2002">and that it is not strange </rdg>
-                            <rdg wit="#Betts_2009">It’s no surprise that some are caught </rdg>
-                            <rdg wit="#Jones_2016">And that it’s no surprise </rdg>
-                            <rdg wit="#Tatar_2017">And it's not at all strange, </rdg>
-                            <rdg wit="#MoogSeifert_2021">And that it’s not a strange thing, </rdg>
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">S’il en est tant que le Loup mange </rdg>
-                            <rdg wit="#Perrault_1697">S'il en est tant que le loup mange. </rdg>
-                            <rdg wit="#Samber_1729">So many of them has the Wolfe devour'd. </rdg>
-                            <rdg wit="#Samber_1741">So many of them has the Wolf devour'd. </rdg>
-                            <rdg wit="#Neaulme_1745">-- </rdg>
-                            <rdg wit="#Lang_1889">-- </rdg>
-                            <rdg wit="#Welsh_1901">-- </rdg>
-                            <rdg wit="#Johnson_1921">-- </rdg>
-                            <rdg wit="#Mansion_1922">So many of them has the Wolf devour'd. </rdg>
-                            <rdg wit="#Brereton_1957">Provide the wolf with some of his best
-                                dinners.é </rdg>
-                            <rdg wit="#Zipes_1989">For a wolf or other beast. </rdg>
-                            <rdg wit="#Philip_1993">It's no surprise if a wolf eats them. </rdg>
-                            <rdg wit="#Appelbaum_2002">if so many are eaten by the wolf. </rdg>
-                            <rdg wit="#Betts_2009">By wolves who take them off to eat. </rdg>
-                            <rdg wit="#Jones_2016">If the wolf takes many a prize. </rdg>
-                            <rdg wit="#Tatar_2017">If a wolf ends up eating them. </rdg>
-                            <rdg wit="#MoogSeifert_2021">If there are so many the wolf eats. </rdg>
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">*on prononce ces mots d’une voix forte pour
-                                faire peur à l’enfant comme si le loup l’allait manger. </rdg>
-                            <rdg wit="#Perrault_1697">"Je dis le loup, car tous les loups ;" </rdg>
-                            <rdg wit="#Samber_1729">The Wolfe, I say, for Wolves too sure there
-                                are </rdg>
-                            <rdg wit="#Samber_1741">The Wolf, I say, for Wolves too sure there
-                                are </rdg>
-                            <rdg wit="#Neaulme_1745">-- </rdg>
-                            <rdg wit="#Lang_1889">-- </rdg>
-                            <rdg wit="#Welsh_1901">-- </rdg>
-                            <rdg wit="#Johnson_1921">-- </rdg>
-                            <rdg wit="#Mansion_1922">The Wolf, I say, for Wolves too sure there
-                                are </rdg>
-                            <rdg wit="#Brereton_1957">I say the wolf, for every wolf that
-                                roams </rdg>
-                            <rdg wit="#Zipes_1989">I say a wolf since not all are wild </rdg>
-                            <rdg wit="#Philip_1993">And this warning take, I beg: </rdg>
-                            <rdg wit="#Appelbaum_2002">"I say ""the wolf, "" because not all
-                                wolves" </rdg>
-                            <rdg wit="#Betts_2009">I call them wolves, but you will find </rdg>
-                            <rdg wit="#Jones_2016">I say the wolf because </rdg>
-                            <rdg wit="#Tatar_2017">I say a wolf, but not all wolves </rdg>
-                            <rdg wit="#MoogSeifert_2021">I say the wolf, for all wolves </rdg>
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg>
-                            <rdg wit="#Perrault_1697">"Ne sont pas de la même sorte ;" </rdg>
-                            <rdg wit="#Samber_1729">Of every sort, and every character. </rdg>
-                            <rdg wit="#Samber_1741">Of every sort, and every character. </rdg>
-                            <rdg wit="#Neaulme_1745">-- </rdg>
-                            <rdg wit="#Lang_1889">-- </rdg>
-                            <rdg wit="#Welsh_1901">-- </rdg>
-                            <rdg wit="#Johnson_1921">-- </rdg>
-                            <rdg wit="#Mansion_1922">Of every sort, and every character. </rdg>
-                            <rdg wit="#Brereton_1957">Is not the same. </rdg>
-                            <rdg wit="#Zipes_1989">Or are indeed the same in kind. </rdg>
-                            <rdg wit="#Philip_1993">Not every wolf runs on four legs. </rdg>
-                            <rdg wit="#Appelbaum_2002">"are of the same type;" </rdg>
-                            <rdg wit="#Betts_2009">That some are not the savage kind, </rdg>
-                            <rdg wit="#Jones_2016">not all wolves are the same. </rdg>
-                            <rdg wit="#Tatar_2017">Are exactly the same. </rdg>
-                            <rdg wit="#MoogSeifert_2021">"Are not of the same sort;" </rdg>
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg>
-                            <rdg wit="#Perrault_1697">Il en est d'une humeur accorte, </rdg>
-                            <rdg wit="#Samber_1729">Some of them mild and gentle-humour'd be, </rdg>
-                            <rdg wit="#Samber_1741">Some of them mild and gentle humour'd be, </rdg>
-                            <rdg wit="#Neaulme_1745">-- </rdg>
-                            <rdg wit="#Lang_1889">-- </rdg>
-                            <rdg wit="#Welsh_1901">-- </rdg>
-                            <rdg wit="#Johnson_1921">-- </rdg>
-                            <rdg wit="#Mansion_1922">Some of them mild and gentle-humour'd be, </rdg>
-                            <rdg wit="#Brereton_1957">Some, in appearance tame, </rdg>
-                            <rdg wit="#Zipes_1989">For some are winning and have sharp minds. </rdg>
-                            <rdg wit="#Philip_1993">The smooth tongue of a smooth-skinned
-                                creature </rdg>
-                            <rdg wit="#Appelbaum_2002">there are some with affable manners, </rdg>
-                            <rdg wit="#Betts_2009">"Not howling, ravening or raging;" </rdg>
-                            <rdg wit="#Jones_2016">There are those of courteous fame, </rdg>
-                            <rdg wit="#Tatar_2017">Some are perfectly charming, </rdg>
-                            <rdg wit="#MoogSeifert_2021">There are some of an affable
-                                disposition, </rdg>
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg>
-                            <rdg wit="#Perrault_1697">Sans bruit, sans fiel et sans courroux, </rdg>
-                            <rdg wit="#Samber_1729">"Of noise and gall, and rancour wholly
-                                free;" </rdg>
-                            <rdg wit="#Samber_1741">"Of noise and gall, and rancour wholly
-                                free;" </rdg>
-                            <rdg wit="#Neaulme_1745">-- </rdg>
-                            <rdg wit="#Lang_1889">-- </rdg>
-                            <rdg wit="#Welsh_1901">-- </rdg>
-                            <rdg wit="#Johnson_1921">-- </rdg>
-                            <rdg wit="#Mansion_1922">"Of noise and gall, and rancour wholly
-                                free;" </rdg>
-                            <rdg wit="#Brereton_1957">Gentle, well-mannered, affable and gay, </rdg>
-                            <rdg wit="#Zipes_1989">Some are loud, smooth, or mild. </rdg>
-                            <rdg wit="#Philip_1993">May mask a rough and wolfish nature. </rdg>
-                            <rdg wit="#Appelbaum_2002">quiet, free of spite and anger, </rdg>
-                            <rdg wit="#Betts_2009">Their manners seem, instead, engaging, </rdg>
-                            <rdg wit="#Jones_2016">No noise or bile or rage, </rdg>
-                            <rdg wit="#Tatar_2017">Not loud, brutal, or angry, </rdg>
-                            <rdg wit="#MoogSeifert_2021">Without clamor, without bile, without
-                                anger, </rdg>
-
-                        </app></l>
-                    <l><app>
-                        <note resp="editor" xml:lang="fr">« apprivoisé […] signifie aussi, Familier. En ce sens il ne se dit guère que pour marquer trop de familiarité » (Académie).</note>
-<note resp="editor" xml:lang="en">“Tame…also means familiar. In this sense, it is only used to point out excessive familiarity” (Académie).</note>
-                            <rdg wit="#Perrault_1695">-- </rdg>
-                            <rdg wit="#Perrault_1697">Qui privés, complaisants et doux </rdg>
-                            <rdg wit="#Samber_1729">Who tame, familiar, full of complaisance </rdg>
-                            <rdg wit="#Samber_1741">Who tame, familiar, full of complaisance </rdg>
-                            <rdg wit="#Neaulme_1745">-- </rdg>
-                            <rdg wit="#Lang_1889">-- </rdg>
-                            <rdg wit="#Welsh_1901">-- </rdg>
-                            <rdg wit="#Johnson_1921">-- </rdg>
-                            <rdg wit="#Mansion_1922">Who tame, familiar, full of complaisance </rdg>
-                            <rdg wit="#Brereton_1957">Trotting beside them in the friendliest
-                                way, </rdg>
-                            <rdg wit="#Zipes_1989">Others appear plain kind or unriled. </rdg>
-                            <rdg wit="#Philip_1993">-- </rdg>
-                            <rdg wit="#Appelbaum_2002">who, tame, obliging, and gentle, </rdg>
-                            <rdg wit="#Betts_2009">They’re softly-spoken and discreet. </rdg>
-                            <rdg wit="#Jones_2016">But reserved, compliant, and sage, </rdg>
-                            <rdg wit="#Tatar_2017">But tame, pleasant and gentle, </rdg>
-                            <rdg wit="#MoogSeifert_2021">Who, overly friendly, obliging and
-                                gentle, </rdg>
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg>
-                            <rdg wit="#Perrault_1697">-- </rdg>
-                            <rdg wit="#Samber_1729">"Ogle and leer, languish, cajole and
-                                glance;" </rdg>
-                            <rdg wit="#Samber_1741">"Ogle and leer, languish, cajole and
-                                glance;" </rdg>
-                            <rdg wit="#Neaulme_1745">-- </rdg>
-                            <rdg wit="#Lang_1889">-- </rdg>
-                            <rdg wit="#Welsh_1901">-- </rdg>
-                            <rdg wit="#Johnson_1921">-- </rdg>
-                            <rdg wit="#Mansion_1922">"languish, Ogle and leer, cajole and
-                                glance;" </rdg>
-                            <rdg wit="#Brereton_1957">-- </rdg>
-                            <rdg wit="#Zipes_1989">-- </rdg>
-                            <rdg wit="#Philip_1993">-- </rdg>
-                            <rdg wit="#Appelbaum_2002">-- </rdg>
-                            <rdg wit="#Betts_2009">-- </rdg>
-                            <rdg wit="#Jones_2016">-- </rdg>
-                            <rdg wit="#Tatar_2017">-- </rdg>
-                            <rdg wit="#MoogSeifert_2021">-- </rdg>
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg>
-                            <rdg wit="#Perrault_1697">-- </rdg>
-                            <rdg wit="#Samber_1729">With luring tongues, and language wondrous
-                                sweet, </rdg>
-                            <rdg wit="#Samber_1741">With luring tongues, and language wond'rous
-                                sweet, </rdg>
-                            <rdg wit="#Neaulme_1745">-- </rdg>
-                            <rdg wit="#Lang_1889">-- </rdg>
-                            <rdg wit="#Welsh_1901">-- </rdg>
-                            <rdg wit="#Johnson_1921">-- </rdg>
-                            <rdg wit="#Mansion_1922">With luring tongues, and language wond'rous
-                                sweet, </rdg>
-                            <rdg wit="#Brereton_1957">-- </rdg>
-                            <rdg wit="#Zipes_1989">-- </rdg>
-                            <rdg wit="#Philip_1993">-- </rdg>
-                            <rdg wit="#Appelbaum_2002">-- </rdg>
-                            <rdg wit="#Betts_2009">Young ladies whom they talk to on the
-                                street </rdg>
-                            <rdg wit="#Jones_2016">-- </rdg>
-                            <rdg wit="#Tatar_2017">-- </rdg>
-                            <rdg wit="#MoogSeifert_2021">-- </rdg>
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg>
-                            <rdg wit="#Perrault_1697">Suiv[e]nt les jeunes Demoiselles, </rdg>
-                            <rdg wit="#Samber_1729">Follow young ladies as they walk the
-                                street, </rdg>
-                            <rdg wit="#Samber_1741">Follow young ladies as they walk the
-                                street, </rdg>
-                            <rdg wit="#Neaulme_1745">-- </rdg>
-                            <rdg wit="#Lang_1889">-- </rdg>
-                            <rdg wit="#Welsh_1901">-- </rdg>
-                            <rdg wit="#Johnson_1921">-- </rdg>
-                            <rdg wit="#Mansion_1922">Follow young ladies as they walk the
-                                street, </rdg>
-                            <rdg wit="#Brereton_1957">Follow young ladies  </rdg>
-                            <rdg wit="#Zipes_1989">They follow young ladies wherever they go, </rdg>
-                            <rdg wit="#Philip_1993">-- </rdg>
-                            <rdg wit="#Appelbaum_2002">follow young ladies </rdg>
-                            <rdg wit="#Betts_2009">They follow to their homes and through the
-                                hall, </rdg>
-                            <rdg wit="#Jones_2016">Who will trail a girl well bred </rdg>
-                            <rdg wit="#Tatar_2017">Following young ladies </rdg>
-                            <rdg wit="#MoogSeifert_2021">Follow young Ladies </rdg>
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg>
-                            <rdg wit="#Perrault_1697">"Jusque dans les maisons, jusque dans les
-                                ruelles ;" </rdg>
-                            <rdg wit="#Samber_1729">Ev'n to their very houses and bedside, </rdg>
-                            <rdg wit="#Samber_1741">Ev'n to their very houses, nay, be[d]side, </rdg>
-                            <rdg wit="#Neaulme_1745">-- </rdg>
-                            <rdg wit="#Lang_1889">-- </rdg>
-                            <rdg wit="#Welsh_1901">-- </rdg>
-                            <rdg wit="#Johnson_1921">-- </rdg>
-                            <rdg wit="#Mansion_1922">Ev'n to their very houses, nay, bedside, </rdg>
-                            <rdg wit="#Brereton_1957">right into their homes. </rdg>
-                            <rdg wit="#Zipes_1989">Right into the halls of their very own
-                                homes. </rdg>
-                            <rdg wit="#Philip_1993">-- </rdg>
-                            <rdg wit="#Appelbaum_2002">"even into their homes, even into their
-                                alcoves;" </rdg>
-                            <rdg wit="#Betts_2009">"And upstairs to their rooms;" </rdg>
-                            <rdg wit="#Jones_2016">All the way home, into her bed. </rdg>
-                            <rdg wit="#Tatar_2017">Right into their homes, into their
-                                chambers, </rdg>
-                            <rdg wit="#MoogSeifert_2021">"Right into their homes, right to their
-                                bedsides;" </rdg>
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg>
-                            <rdg wit="#Perrault_1697">-- </rdg>
-                            <rdg wit="#Samber_1729">And though their true designs they artful
-                                hide, </rdg>
-                            <rdg wit="#Samber_1741">And, artful, tho' their true designs they
-                                hide: </rdg>
-                            <rdg wit="#Neaulme_1745">-- </rdg>
-                            <rdg wit="#Lang_1889">-- </rdg>
-                            <rdg wit="#Welsh_1901">-- </rdg>
-                            <rdg wit="#Johnson_1921">-- </rdg>
-                            <rdg wit="#Mansion_1922">"And, artful, tho' their true designs they
-                                hide;" </rdg>
-                            <rdg wit="#Brereton_1957">-- </rdg>
-                            <rdg wit="#Zipes_1989">-- </rdg>
-                            <rdg wit="#Philip_1993">-- </rdg>
-                            <rdg wit="#Appelbaum_2002">-- </rdg>
-                            <rdg wit="#Betts_2009">when they’re there </rdg>
-                            <rdg wit="#Jones_2016">-- </rdg>
-                            <rdg wit="#Tatar_2017">-- </rdg>
-                            <rdg wit="#MoogSeifert_2021">-- </rdg>
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg>
-                            <rdg wit="#Perrault_1697">Mais hélas ! qui ne sait que ces Loups
-                                doucereux, </rdg>
-                            <rdg wit="#Samber_1729">Yet ah! these simpering Wolves, who does not
-                                see </rdg>
-                            <rdg wit="#Samber_1741">Yet ah! these simpering Wolves who does not
-                                see </rdg>
-                            <rdg wit="#Neaulme_1745">-- </rdg>
-                            <rdg wit="#Lang_1889">-- </rdg>
-                            <rdg wit="#Welsh_1901">-- </rdg>
-                            <rdg wit="#Johnson_1921">-- </rdg>
-                            <rdg wit="#Mansion_1922">Yet ah! these simpering Wolves! Who does not
-                                see </rdg>
-                            <rdg wit="#Brereton_1957">Alas, how many to their cost do find </rdg>
-                            <rdg wit="#Zipes_1989">Alas for those girls who've refused the
-                                truth: </rdg>
-                            <rdg wit="#Philip_1993">These quiet types, for all their charm, </rdg>
-                            <rdg wit="#Appelbaum_2002">but alas! everyone knows that these
-                                soft-spoken wolves </rdg>
-                            <rdg wit="#Betts_2009">They’re not as friendly as they might
-                                appear: </rdg>
-                            <rdg wit="#Jones_2016">Ah! But as everyone knows, it’s the saccharine
-                                tongues, </rdg>
-                            <rdg wit="#Tatar_2017">But watch out if you haven’t learned that tame
-                                wolves </rdg>
-                            <rdg wit="#MoogSeifert_2021">But alas! Who doesn’t know that these
-                                sweet-talking Wolves, </rdg>
-
-                        </app></l>
-                    <l><app>
-                        <note resp="editor" xml:lang="fr">« Faire le doucereux auprès d’une femme, pour dire, Affecter par ses façons de lui faire croire que l’on est amoureux d’elle » (Académie, s.v. « Doucereux »).
-Ute Heidman (« Reconfigurer les contes pour moraliser autrement », Féeries [En ligne], n°13, 2016) fait le rapprochement avec la nouvelle L’Adroite Princesse ou les Aventures de Finette (1695) de Lhéritier :
-Craignez les Blondins doucereux
-Qui fatiguent les Ruelles,
-Et ne sachant que dire aux Belles
-Soupirent sans être amoureux
-L’on peut penser aussi à la réflexion psychologique de La Bruyère (La Pléiade 1951:297-298)
-« Dire d'un homme colère, inégal, querelleux, chagrin, pointilleux, capricieux : « c'est son humeur », n'est pas l'excuser, comme on le croit, mais avouer sans y penser que de si grands défauts sont irrémédiables. Ce qu'on appelle humeur est une chose trop négligée parmi les hommes ; ils devraient comprendre qu'il ne leur suffit pas d'être bons, mais qu'ils doivent encore paraître tels, du moins s'ils tendent à être sociables, capables d'union et de commerce, c'est-à-dire à être des hommes. L'on n'exige pas des âmes malignes qu'elles aient de la douceur et de la souplesse ; elle ne leur manque jamais, et elle leur sert de piège pour surprendre les simples, et pour faire valoir leurs artifices : l'on désirerait de ceux qui ont un bon cœur qu'ils fussent toujours pliants, faciles, complaisants ; et qu'il fût moins vrai quelquefois que ce sont les méchants qui nuisent, et les bons qui font souffrir. »
-</note>
-<note resp="editor" xml:lang="en">“To sweet talk a woman (faire le doucereux auprès d’une femme), to mean, affecting by one’s manner to make her believe that one is in love with her” (Académie, “doucereux”). Ute Heidman (« Reconfigurer les contes pour moraliser autrement », Féeries https://doi.org/10.4000/feeries.997, n°13, 2016) makes the comparison with the moral at the end of Lhéritier’s L’Adroite Princesse ou les Aventures de Finette (1695): “Fear the sweet-talking Youths / Who stalk women’s bedsides / And not knowing what to say to the Beauties / Sigh without being in love.” La Bruyère’s caractère (“Of Mankind,” 9) in is also relevant: “If we say of an angry, captious, quarrelsome, melancholy, formal, capricious person, that it is all owing to his temper, it is not to find an excuse for him, whatever people may think, but an involuntary acknowledgment that such great faults admit of no remedy. What we call good temper is a thing too much neglected among men; they ought to understand that they should not alone be good, but also appear to be so, at least if they are inclined to be sociable and disposed to friendly intercourse; in other words, if they would be men. We do not require wicked men to be gentle and urbane; in these qualities they are never wanting, for they employ them to ensnare the simple, and to find a larger field for their operations; but we wish kind-hearted men always to be tractable, accessible, and courteous; so that there should no longer be any reason for saying that wicked men do harm and that good men make others uncomfortable.” (https://www.gutenberg.org/files/46633/46633-h/46633-h.htm)</note>
-                            <rdg wit="#Perrault_1695">-- </rdg>
-                            <rdg wit="#Perrault_1697">De tous les Loups sont les plus
-                                dangereux. </rdg>
-                            <rdg wit="#Samber_1729">Most dang’rous of all Wolves in fact to
-                                be? </rdg>
-                            <rdg wit="#Samber_1741">Most dang’rous of all Wolves in fact to
-                                be. </rdg>
-                            <rdg wit="#Neaulme_1745">-- </rdg>
-                            <rdg wit="#Lang_1889">-- </rdg>
-                            <rdg wit="#Welsh_1901">-- </rdg>
-                            <rdg wit="#Johnson_1921">-- </rdg>
-                            <rdg wit="#Mansion_1922">Most dangerous of Wolves indeed they be? </rdg>
-                            <rdg wit="#Brereton_1957">These plausible wolves are the most dangerous
-                                kind. </rdg>
-                            <rdg wit="#Zipes_1989">The sweetest tongue has the sharpest tooth. </rdg>
-                            <rdg wit="#Philip_1993">Can be the cause of the worse harm. </rdg>
-                            <rdg wit="#Appelbaum_2002">are the most dangerous wolves of all. </rdg>
-                            <rdg wit="#Betts_2009">These are the most dangerous wolves of all. </rdg>
-                            <rdg wit="#Jones_2016">Of all the wolves, who are the most dangerous
-                                ones. </rdg>
-                            <rdg wit="#Tatar_2017">Are the most dangerous of all. </rdg>
-                            <rdg wit="#MoogSeifert_2021">Of all the Wolves are the most
-                                dangerous. </rdg>
-                        </app></l>
-                </lg>
+                <app>
+    <rdg wit="#Perrault_1695">
+        <lg>
+            <l>Moralité </l>
+            <l>Dans ce conte on peut voir qu’à de jeunes enfants </l>
+            <l>Et surtout à de jeunes filles </l>
+            <l>Belles, bien faites et gentilles </l>
+            <l>Il prend mal d’écouter toutes sortes de gens </l>
+            <l>Et que ce n’est pas chose étrange </l>
+            <l>S’il en est tant que le Loup mange </l>
+            <l>*on prononce ces mots d’une voix forte pour faire peur à l’enfant comme si le loup
+                l’allait manger. </l>
+        </lg>
+    </rdg>
+    <rdg wit="#Perrault_1697">
+        <lg>
+            <l>MORALITÉ </l>
+            <l>On voit ici que de jeunes enfant, </l>
+            <l>Surtout de jeunes filles, </l>
+            <l>Belles, bien faites, et gentilles, </l>
+            <l>Font très mal d'écouter toute sorte de gens, </l>
+            <l>Et que ce n'est pas chose étrange, </l>
+            <l>S'il en est tant que le loup mange. </l>
+            <l>"Je dis le loup, car tous les loups ;" </l>
+            <l>"Ne sont pas de la même sorte ;" </l>
+            <l>Il en est d'une humeur accorte, </l>
+            <l>Sans bruit, sans fiel et sans courroux, </l>
+            <l>Qui privés, complaisants et doux </l>
+            <l>Suiv[e]nt les jeunes Demoiselles, </l>
+            <l>"Jusque dans les maisons, jusque dans les ruelles ;" </l>
+            <l>Mais hélas ! qui ne sait que ces Loups doucereux, </l>
+            <l>De tous les Loups sont les plus dangereux. </l>
+        </lg>
+    </rdg>
+    <rdg wit="#Samber_1729">
+        <lg>
+            <l>The Moral </l>
+            <l>From this short story easy we discern </l>
+            <l>What conduct all young people ought to learn. </l>
+            <l>But above all, the growing ladies fair, </l>
+            <l>Whose orient rosy blooms begin t’appear: </l>
+            <l>Who, Beauties in the fragrant spring of age! </l>
+            <l>With pretty airs young hearts are apt t’engage. </l>
+            <l>Ill do they listen to all sorts of tongues, </l>
+            <l>Since some enchant and lure like Syrens songs. </l>
+            <l>No wonder therefore 'tis if over-power'd, </l>
+            <l>So many of them has the Wolfe devour'd. </l>
+            <l>The Wolfe, I say, for Wolves too sure there are </l>
+            <l>Of every sort, and every character. </l>
+            <l>Some of them mild and gentle-humour'd be, </l>
+            <l>"Of noise and gall, and rancour wholly free;" </l>
+            <l>Who tame, familiar, full of complaisance </l>
+            <l>"Ogle and leer, languish, cajole and glance;" </l>
+            <l>With luring tongues, and language wondrous sweet, </l>
+            <l>Follow young ladies as they walk the street, </l>
+            <l>Ev'n to their very houses and bedside, </l>
+            <l>And though their true designs they artful hide, </l>
+            <l>Yet ah! these simpering Wolves, who does not see </l>
+            <l>Most dang’rous of all Wolves in fact to be? </l>
+        </lg>
+    </rdg>
+    <rdg wit="#Samber_1741">
+        <lg>
+            <l>The Moral </l>
+            <l>From this short story easy we discern </l>
+            <l>What conduct all young people ought to learn. </l>
+            <l>But above all, young, growing misses fair, </l>
+            <l>Whose orient rosy blooms begin t’appear: </l>
+            <l>Who, beauties in the fragrant springs of age, </l>
+            <l>With pretty airs young hearts are apt t’engage. </l>
+            <l>Ill do they listen to all sorts of tongues, </l>
+            <l>Since some inchant and lure like Syrens songs. </l>
+            <l>No wonder therefore 'tis if over-power'd, </l>
+            <l>So many of them has the Wolf devour'd. </l>
+            <l>The Wolf, I say, for Wolves too sure there are </l>
+            <l>Of every sort, and every character. </l>
+            <l>Some of them mild and gentle humour'd be, </l>
+            <l>"Of noise and gall, and rancour wholly free;" </l>
+            <l>Who tame, familiar, full of complaisance </l>
+            <l>"Ogle and leer, languish, cajole and glance;" </l>
+            <l>With luring tongues, and language wond'rous sweet, </l>
+            <l>Follow young ladies as they walk the street, </l>
+            <l>Ev'n to their very houses, nay, be[d]side, </l>
+            <l>And, artful, tho' their true designs they hide: </l>
+            <l>Yet ah! these simpering Wolves who does not see </l>
+            <l>Most dang’rous of all Wolves in fact to be. </l>
+        </lg>
+    </rdg>
+    <rdg wit="#Neaulme_1745">
+        <lg>
+            <l>Mind this Tale, </l>
+            <l>pretty Ladies stil young &amp; unacquainted with all the dangers of your age &amp;
+                sex. </l>
+            <l>"Woolfs there are every where;" </l>
+            <l>take heed how you listen to ‘em. </l>
+        </lg>
+    </rdg>
+    <rdg wit="#Lang_1889">
+        <lg/>
+    </rdg>
+    <rdg wit="#Welsh_1901">
+        <lg/>
+    </rdg>
+    <rdg wit="#Johnson_1921">
+        <lg/>
+    </rdg>
+    <rdg wit="#Mansion_1922">
+        <lg>
+            <l>The Moral </l>
+            <l>From this short story easy we discern </l>
+            <l>What conduct all young people ought to learn. </l>
+            <l>But above all, young, growing misses fair, </l>
+            <l>Whose orient rosy blooms begin t'appear: </l>
+            <l>Who, beauties in the fragrant spring of age, </l>
+            <l>With pretty airs young hearts are apt t'engage. </l>
+            <l>Ill do they listen to all sorts of tongues, </l>
+            <l>Since some inchant and lure like Syrens' songs. </l>
+            <l>No wonder therefore 'tis, if over-power'd, </l>
+            <l>So many of them has the Wolf devour'd. </l>
+            <l>The Wolf, I say, for Wolves too sure there are </l>
+            <l>Of every sort, and every character. </l>
+            <l>Some of them mild and gentle-humour'd be, </l>
+            <l>"Of noise and gall, and rancour wholly free;" </l>
+            <l>Who tame, familiar, full of complaisance </l>
+            <l>"languish, Ogle and leer, cajole and glance;" </l>
+            <l>With luring tongues, and language wond'rous sweet, </l>
+            <l>Follow young ladies as they walk the street, </l>
+            <l>Ev'n to their very houses, nay, bedside, </l>
+            <l>"And, artful, tho' their true designs they hide;" </l>
+            <l>Yet ah! these simpering Wolves! Who does not see </l>
+            <l>Most dangerous of Wolves indeed they be? </l>
+        </lg>
+    </rdg>
+    <rdg wit="#Brereton_1957">
+        <lg>
+            <l>Moral </l>
+            <l>This story teaches that the very young, </l>
+            <l>And little girls more surely than the rest, </l>
+            <l>- sweet, dainty things, clothed in their Sunday best - </l>
+            <l>Should never trust a stranger's artful tongue. </l>
+            <l>Small wonder if these guileless young beginners </l>
+            <l>Provide the wolf with some of his best dinners.é </l>
+            <l>I say the wolf, for every wolf that roams </l>
+            <l>Is not the same. </l>
+            <l>Some, in appearance tame, </l>
+            <l>Gentle, well-mannered, affable and gay, </l>
+            <l>Trotting beside them in the friendliest way, </l>
+            <l>Follow young ladies </l>
+            <l>right into their homes. </l>
+            <l>Alas, how many to their cost do find </l>
+            <l>These plausible wolves are the most dangerous kind. </l>
+        </lg>
+    </rdg>
+    <rdg wit="#Zipes_1989">
+        <lg>
+            <l>MORAL </l>
+            <l>One sees here that young children, </l>
+            <l>Especially pretty girls, </l>
+            <l>Who're bred as pure as pearls, </l>
+            <l>Should question words addressed by men. </l>
+            <l>Or they may serve one day as feast </l>
+            <l>For a wolf or other beast. </l>
+            <l>I say a wolf since not all are wild </l>
+            <l>Or are indeed the same in kind. </l>
+            <l>For some are winning and have sharp minds. </l>
+            <l>Some are loud, smooth, or mild. </l>
+            <l>Others appear plain kind or unriled. </l>
+            <l>They follow young ladies wherever they go, </l>
+            <l>Right into the halls of their very own homes. </l>
+            <l>Alas for those girls who've refused the truth: </l>
+            <l>The sweetest tongue has the sharpest tooth. </l>
+        </lg>
+    </rdg>
+    <rdg wit="#Philip_1993">
+        <lg>
+            <l>MORAL </l>
+            <l>Young children, as we clearly see, </l>
+            <l>Pretty girls, especially, </l>
+            <l>Innocent of all life's dangers, </l>
+            <l>Shouldn't stop and chat with strangers. </l>
+            <l>If this simple advice beats them, </l>
+            <l>It's no surprise if a wolf eats them. </l>
+            <l>And this warning take, I beg: </l>
+            <l>Not every wolf runs on four legs. </l>
+            <l>The smooth tongue of a smooth-skinned creature </l>
+            <l>May mask a rough and wolfish nature. </l>
+            <l>These quiet types, for all their charm, </l>
+            <l>Can be the cause of the worse harm. </l>
+        </lg>
+    </rdg>
+    <rdg wit="#Appelbaum_2002">
+        <lg>
+            <l>Moral </l>
+            <l>It is seen here that young children, </l>
+            <l>especially young girls </l>
+            <l>who are beautiful, shapely, and pretty, </l>
+            <l>are in the wrong when they listen to just anybody, </l>
+            <l>and that it is not strange </l>
+            <l>if so many are eaten by the wolf. </l>
+            <l>"I say ""the wolf, "" because not all wolves" </l>
+            <l>"are of the same type;" </l>
+            <l>there are some with affable manners, </l>
+            <l>quiet, free of spite and anger, </l>
+            <l>who, tame, obliging, and gentle, </l>
+            <l>follow young ladies </l>
+            <l>"even into their homes, even into their alcoves;" </l>
+            <l>but alas! everyone knows that these soft-spoken wolves </l>
+            <l>are the most dangerous wolves of all. </l>
+        </lg>
+    </rdg>
+    <rdg wit="#Betts_2009">
+        <lg>
+            <l>The moral of this tale </l>
+            <l>Young children, as this tale will show, </l>
+            <l>And mainly pretty girls with charm, </l>
+            <l>Do wrong and often come to harm </l>
+            <l>In letting those they do not know </l>
+            <l>Stay talking to them when they meet. </l>
+            <l>And if they don’t do as they ought, </l>
+            <l>It’s no surprise that some are caught </l>
+            <l>By wolves who take them off to eat. </l>
+            <l>I call them wolves, but you will find </l>
+            <l>That some are not the savage kind, </l>
+            <l>"Not howling, ravening or raging;" </l>
+            <l>Their manners seem, instead, engaging, </l>
+            <l>They’re softly-spoken and discreet. </l>
+            <l>Young ladies whom they talk to on the street </l>
+            <l>They follow to their homes and through the hall, </l>
+            <l>"And upstairs to their rooms;" </l>
+            <l>when they’re there </l>
+            <l>They’re not as friendly as they might appear: </l>
+            <l>These are the most dangerous wolves of all. </l>
+        </lg>
+    </rdg>
+    <rdg wit="#Jones_2016">
+        <lg>
+            <l>Moral </l>
+            <l>Here we see that children so young, </l>
+            <l>Especially young girls, </l>
+            <l>Beautiful, striking pearls, </l>
+            <l>Fare very badly when they listen to just anyone. </l>
+            <l>And that it’s no surprise </l>
+            <l>If the wolf takes many a prize. </l>
+            <l>I say the wolf because </l>
+            <l>not all wolves are the same. </l>
+            <l>There are those of courteous fame, </l>
+            <l>No noise or bile or rage, </l>
+            <l>But reserved, compliant, and sage, </l>
+            <l>Who will trail a girl well bred </l>
+            <l>All the way home, into her bed. </l>
+            <l>Ah! But as everyone knows, it’s the saccharine tongues, </l>
+            <l>Of all the wolves, who are the most dangerous ones. </l>
+        </lg>
+    </rdg>
+    <rdg wit="#Tatar_2017">
+        <lg>
+            <l>Moral </l>
+            <l>From this story one learns that children, </l>
+            <l>Especially young girls, </l>
+            <l>Pretty, well-bred, and genteel, </l>
+            <l>Are wrong to listen to just anyone, </l>
+            <l>And it's not at all strange, </l>
+            <l>If a wolf ends up eating them. </l>
+            <l>I say a wolf, but not all wolves </l>
+            <l>Are exactly the same. </l>
+            <l>Some are perfectly charming, </l>
+            <l>Not loud, brutal, or angry, </l>
+            <l>But tame, pleasant and gentle, </l>
+            <l>Following young ladies </l>
+            <l>Right into their homes, into their chambers, </l>
+            <l>But watch out if you haven’t learned that tame wolves </l>
+            <l>Are the most dangerous of all. </l>
+        </lg>
+    </rdg>
+    <rdg wit="#MoogSeifert_2021">
+        <lg>
+            <l>Moral </l>
+            <l>One sees here that young children, </l>
+            <l>Especially young girls, </l>
+            <l>Beautiful, well shaped, and nice, </l>
+            <l>Are very wrong to listen to all manner of people, </l>
+            <l>And that it’s not a strange thing, </l>
+            <l>If there are so many the wolf eats. </l>
+            <l>I say the wolf, for all wolves </l>
+            <l>"Are not of the same sort;" </l>
+            <l>There are some of an affable disposition, </l>
+            <l>Without clamor, without bile, without anger, </l>
+            <l>Who, overly friendly, obliging and gentle, </l>
+            <l>Follow young Ladies </l>
+            <l>"Right into their homes, right to their bedsides;" </l>
+            <l>But alas! Who doesn’t know that these sweet-talking Wolves, </l>
+            <l>Of all the Wolves are the most dangerous. </l>
+        </lg>
+    </rdg>
+</app>
             </div>
         </body>
     </text>
