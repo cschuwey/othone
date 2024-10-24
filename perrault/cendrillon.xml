@@ -6566,56 +6566,132 @@
 <app>
     <rdg wit="#Perrault_1697">
         <lg>
-            <l>Autre moralité</l>
-            <l>C'est sans doute un grand avantage, </l>
-            <l>D'avoir de l'esprit, du courage, </l>
-            <l>De la naissance, du bon sens, </l>
-            <l>Et d'autres semblables talents, </l>
-            <l>Qu'on reçoit du Ciel en partage ; </l>
-            <l>Mais vous aurez beau les avoir, </l>
-            <l>Pour votre avancement ce seront choses vaines, </l>
+            <l>Moralité</l>
+            <l>La beauté pour le sexe est un rare trésor,</l>
+            <l>De l'admirer jamais on ne se lasse ;</l>
+            <l>Mais ce qu'on nomme bonne grâce,</l>
+            <l>Est sans prix, et vaut mieux encor.</l>
+            <l>C'est ce qu'à Cendrillon fit avoir sa Marraine,</l>
+            <l>En la dressant, en l'instruisant,</l>
+            <l>Tant et si bien qu'elle en fit une Reine :</l>
+            <l>(Car ainsi sur ce Conte on va moralisant.)</l>
+            <l>Belles, ce don vaut mieux que d'être bien coiffées,</l>
+            <l>Pour engager un coeur, pour en venir à bout,</l>
+            <l>La bonne grâce est le vrai don des Fées ;</l>
+            <l>Sans elle on ne peut rien,</l>
+            <l>avec elle, on peut tout.</l>
+            </lg><lg><l>Autre moralité</l>
+            <l>C'est sans doute un grand avantage,</l>
+            <l>D'avoir de l'esprit, du courage,</l>
+            <l>De la naissance, du bon sens,</l>
+            <l>Et d'autres semblables talents,</l>
+            <l>Qu'on reçoit du Ciel en partage ;</l>
+            <l>Mais vous aurez beau les avoir,</l>
+            <l>Pour votre avancement ce seront choses vaines,</l>
             <l>Si vous n'avez, pour les faire valoir, </l>
-            <l>Ou des parrains ou des Marraines. </l>
+            <l>Ou des parrains ou des Marraines.</l>
         </lg>
     </rdg>
     <rdg wit="#Samber_1729">
         <lg>
-            <l>Another</l>
-            <l>A great advantage 'tis, no doubt, to man, </l>
-            <l>To have wit, courage, birth, good sense, and brain, </l>
+            <l>The Moral</l>
+            <l>Beauty's to the sex a treasure,</l>
+            <l>We still admire it without measure,</l>
+            <l>And never yet was any known,</l>
+            <l>By still admiring weary grown.</l>
+            <l>But that thing, which we call good grace,</l>
+            <l>Exceeds by far a handsome face;</l>
+            <l>Its charms by far surpass the other,</l>
+            <l>And this was what her good godmother</l>
+            <l>Bestow'd on CINDERILLA fair,</l>
+            <l>Whom she instructed with such care,</l>
+            <l>She gave her such a graceful mien,</l>
+            <l>That she thereby became a Queen.</l>
+            <l>For thus (may ever truth prevail)</l>
+            <l>We draw our moral from this Tale.</l>
+            <l>This quality, fair ladies, know</l>
+            <l>Prevails much more, you'll find it so,</l>
+            <l>T'engage and captivate a heart,</l>
+            <l>Than a fine head dress'd up with art;</l>
+            <l>‘Tis the true gift of heaven and fate,</l>
+            <l>Without it none in any state</l>
+            <l>Effectual anything can do;</l>
+            <l>But with it all things well and true.</l>
+            </lg><lg><l>Another</l>
+            <l>A great advantage 'tis, no doubt, to man,</l>
+            <l>To have wit, courage, birth, good sense, and brain,</l>
             <l>And other like Qualities, which we</l>
-            <l>Receiv'd from heaven's kind hand, and destiny. </l>
-            <l>But none of these rich graces from above, </l>
+            <l>Receiv'd from heaven's kind hand, and destiny.</l>
+            <l>But none of these rich graces from above,</l>
             <l>In your advancement in the world will prove</l>
-            <l>Of any use, if Godsires make delay, </l>
-            <l>Or Godmothers your merit to display. </l>
+            <l>Of any use, if Godsires make delay,</l>
+            <l>Or Godmothers your merit to display.</l>
         </lg>
     </rdg>
     <rdg wit="#Samber_1741">
         <lg>
-            <l>Another</l>
-            <l>A great advantage 'tis, no doubt, to man, </l>
-            <l>To have wit, courage, birth, good sense, and brain, </l>
+            <l>The Moral</l>
+            <l>Beauty's to the sex a treasure,</l>
+            <l>We still admire it without measure,</l>
+            <l>And never yet was any known,</l>
+            <l>By still admiring weary grown.</l>
+            <l>But that which we call good grace,</l>
+            <l>Exceeds by far a handsome face;</l>
+            <l>Its charms by far surpass the other,</l>
+            <l>And this was what her good godmother</l>
+            <l>Bestow'd on CINDERILLA fair,</l>
+            <l>Whom she instructed with such care,</l>
+            <l>She gave her such a graceful mien,</l>
+            <l>That she thereby became a Queen.</l>
+            <l>For thus (may ever truth prevail)</l>
+            <l>We draw our moral from this Tale.</l>
+            <l>This quality, fair ladies, know</l>
+            <l>Prevails much more, you'll find it so,</l>
+            <l>T'engage and captivate a heart,</l>
+            <l>Than a fine head dress'd up with art;</l>
+            <l>‘Tis true, the gift of heaven and fate,</l>
+            <l>Without it none in any state</l>
+            <l>Effectual anything can do;</l>
+            <l>But with it all things well and true.</l>
+            </lg><lg><l>Another</l>
+            <l>A great advantage 'tis, no doubt, to man,</l>
+            <l>To have wit, courage, birth, good sense, and brain,</l>
             <l>And other such-like Qualities, which we</l>
-            <l>Receiv'd from heaven's kind hand, and destiny. </l>
-            <l>But none of these rich graces from above, </l>
+            <l>Receiv'd from heaven's kind hand, and destiny.</l>
+            <l>But none of these rich graces from above,</l>
             <l>To your advancement in the world will prove</l>
-            <l>Of any use, if Godsires make delay, </l>
-            <l>Or Godmothers your merit to display. </l>
+            <l>Of any use, if Godsires make delay,</l>
+            <l>Or Godmothers your merit to display.</l>
         </lg>
     </rdg>
     <rdg wit="#Neaulme_1745">
-        <lg/>
-    </rdg>
-    <rdg wit="#Planche_1858">
         <lg>
-            <l>Also</l>
+            <l>Let one value, as much as he pleaseth,</l>
+            <l>find Cloaths, good Nature, and good manners,</l>
+            <l>good grace is at last all and all.</l>
+        </lg>
+    </rdg>
+    <rdg wit="#Planché_1858">
+        <lg>
+            <l>Beauty in woman is a treasure rare</l>
+            <l>Which we are never weary of admiring;</l>
+            <l>But a sweet temper is a gift more fair</l>
+            <l>And better worth the youthful maid's desiring.</l>
+            <l>That was the boon bestowed on Cinderella</l>
+            <l>By her wise Godmother—her truest glory.</l>
+            <l>The rest was "nought but leather and prunella.</l>
+            <l>"Such is the moral of this little story—</l>
+            <l>Beauties, that charm becomes you more than dress,</l>
+            <l>And wins a heart with far greater facility.</l>
+            <l>In short, in all things to ensure success,</l>
+            <l>The real Fairy gift is Amiability!</l>
+            </lg><lg><l>Also</l>
             <l>Talent, courage, wit, and worth</l>
-            <l>Are rare gifts to own on earth. </l>
+            <l>Are rare gifts to own on earth.</l>
             <l>But if you want to thrive at court—</l>
             <l>So, at least, the wise report—</l>
-            <l>You will find you need some others, </l>
-            <l>Such as god-fathers or mothers. </l>
+            <l>You will find you need some others,</l>
+            <l>Such as god-fathers or mothers.</l>
         </lg>
     </rdg>
     <rdg wit="#Lang_1889">
@@ -6629,113 +6705,228 @@
     </rdg>
     <rdg wit="#Mansion_1922">
         <lg>
-            <l>Another</l>
+            <l>The Moral</l>
+            <l>Beauty's to the sex a treasure,</l>
+            <l>Still admir'd beyond all measure,</l>
+            <l>And never yet was any known,</l>
+            <l>By still admiring, weary grown.</l>
+            <l>But that rare quality call'd grace,</l>
+            <l>Exceeds, by far, a handsome face;</l>
+            <l>Its lasting charms surpass the other,</l>
+            <l>And this rich gift her kind godmother</l>
+            <l>Bestow'd on Cinderilla fair,</l>
+            <l>Whom she instructed with such care.</l>
+            <l>She gave to her such graceful mien,</l>
+            <l>That she, thereby, became a queen.</l>
+            <l>For thus (may ever truth prevail)</l>
+            <l>We draw our moral from this tale.</l>
+            <l>This quality, fair ladies, know</l>
+            <l>Prevails much more (you'll find it so)</l>
+            <l>T'ingage and captivate a heart,</l>
+            <l>Than a fine head dress'd up with art.</l>
+            <l>The fairies' gift of greatest worth</l>
+            <l>Is grace of bearing, not high birth;</l>
+            <l>Without this gift we'll miss the prize;</l>
+            <l>Possession gives us wings to rise.</l>
+            </lg><lg><l>Another</l>
             <l>A great advantage 'tis, no doubt, to man, </l>
-            <l>To have wit, courage, birth, good sense, and brain, </l>
+            <l>To have wit, courage, birth, good sense, and brain,</l>
             <l>And other such-like qualities, which we</l>
-            <l>Receiv'd from heaven's kind hand, and destiny. </l>
-            <l>But none of these rich graces from above, </l>
+            <l>Receiv'd from heaven's kind hand, and destiny.</l>
+            <l>But none of these rich graces from above,</l>
             <l>To your advancement in the world will prove</l>
-            <l>If godmothers and sires you disobey, </l>
-            <l>Or 'gainst their strict advice too long you stay. </l>
+            <l>If godmothers and sires you disobey,</l>
+            <l>Or 'gainst their strict advice too long you stay.</l>
         </lg>
     </rdg>
     <rdg wit="#Brereton_1957">
         <lg>
-            <l>Second moral</l>
+            <l>Moral</l>
+            <l>Beauty in a girl is a priceless treasure;</l>
+            <l>Simply to admire it gives endless pleasure.</l>
+            <l>But one quality is even more precious:</l>
+            <l>It's the gift that is known as being gracious.</l>
+            <l>Cinderella's godmother, as we have seen,</l>
+            <l>Drilled her in this from the head to the toes,</l>
+            <l>To such perfection that she made her a queen,</l>
+            <l>(so upon this tale the moralizing goes).</l>
+            <l>Girls, this gift is better than the latest hair-style;</l>
+            <l>To capture a heart, beyond question to win it,</l>
+            <l>Graciousness is the gift with true magic in it.</l>
+            <l>With a frown you get nothing, you get all with a smile.</l>
+            </lg><lg><l>Second moral</l>
             <l>To have wit and courage</l>
-            <l>Is a great advantage; </l>
+            <l>Is a great advantage;</l>
             <l>Good breeding, good sense</l>
             <l>And similar talents</l>
-            <l>Are all heaven-sent. </l>
-            <l>But, though they are good, </l>
-            <l>These alone will not do; </l>
+            <l>Are all heaven-sent.</l>
+            <l>But, though they are good,</l>
+            <l>These alone will not do;</l>
             <l>To succeed as you should</l>
-            <l>You need godmothers, too. </l>
+            <l>You need godmothers, too.</l>
         </lg>
     </rdg>
     <rdg wit="#Zipes_1989">
         <lg>
-            <l>ANOTHER MORAL</l>
+            <l>MORAL</l>
+            <l>A woman's beauty is quite a treasure</l>
+            <l>We never cease to admire.</l>
+            <l>Yet graciousness exceeds all measure.</l>
+            <l>There's nothing of virtue higher.</l>
+            <l>The fairy, according to our story,</l>
+            <l>Contributed it to Cinderella's glory</l>
+            <l>And taught her what becomes a queen,</l>
+            <l>(Left in a moral to be gleaned.)</l>
+            <l>Beautiful ladies, it's kindness more than dress</l>
+            <l>That wins a man's heart with greater success.</l>
+            <l>So, if you want a life filled with bliss,</l>
+            <l>The truest gift is graciousness.</l>
+            </lg><lg><l>ANOTHER MORAL</l>
             <l>No doubt it is a benefit</l>
-            <l>To have strong courage and fine wit, </l>
+            <l>To have strong courage and fine wit,</l>
             <l>To be endowed with common sense</l>
             <l>And other virtues to possess</l>
-            <l>That Heaven may dispense. </l>
+            <l>That Heaven may dispense.</l>
             <l>But these may prove quite useless­ </l>
             <l>As well as many others-</l>
             <l>If you strive to gain success</l>
-            <l>And neglect godfathers or godmothers. </l>
+            <l>And neglect godfathers or godmothers.</l>
         </lg>
     </rdg>
     <rdg wit="#Philip_1993">
         <lg>
-            <l>ANOTHER MORAL</l>
+            <l>MORAL</l>
+            <l>Beauty in woman is a very rare treasure:</l>
+            <l>Of it we can never tire.</l>
+            <l>But what's worth more, a priceless pleasure,</l>
+            <l>Is charm, which we must all admire.</l>
+            <l>That wise instructress, the godmother,</l>
+            <l>While dressing her fit for a queen</l>
+            <l>Was giving her power to charm another,</l>
+            <l>That is what this story means.</l>
+            <l>Ladies, better than teased-up hair is</l>
+            <l>To win a heart, and conquer a ball.</l>
+            <l>Charm is the true gift of the fairies;</l>
+            <l>Without it you've nothing; with it, all.</l>
+            </lg><lg><l>ANOTHER MORAL</l>
             <l>It is no doubt a great advantage</l>
-            <l>To have shrewdness, wit, and courage; </l>
+            <l>To have shrewdness, wit, and courage;</l>
             <l>To be well born, with every sense</l>
             <l>And have all sorts of other talents</l>
-            <l>Which Heaven gives you for your share. </l>
-            <l>But with or without them, when all is said, </l>
+            <l>Which Heaven gives you for your share.</l>
+            <l>But with or without them, when all is said,</l>
             <l>They'll never help you get ahead</l>
             <l>Unless to spread your talents farther</l>
-            <l>You've a willing godmother, or godfather. </l>
+            <l>You've a willing godmother, or godfather.</l>
         </lg>
     </rdg>
     <rdg wit="#Appelbaum_2002">
         <lg>
-            <l>Second Moral</l>
+            <l>Moral</l>
+            <l>Beauty is a rare treasure for the fair sex,</l>
+            <l>and people never tire of admiring it;</l>
+            <l>but the quality known as graciousnessis beyond price,</l>
+            <l>and is worth even more.</l>
+            <l>That is what Cinderella's godmother bestowed on her</l>
+            <l>when she was training and instructing her,</l>
+            <l>with the result that she made her a queen</l>
+            <l>(for that is the moral drawn from this tale).</l>
+            <l>Beauties, that gift is more valuable than a fine hairdo</l>
+            <l>to entice a man's heart and to capture it;</l>
+            <l>graciousness is the true gift of the fairies:</l>
+            <l>without it you are powerless;</l>
+            <l>with it, all-powerful.</l>
+            </lg><lg><l>Second Moral</l>
             <l>It is no doubt a great advantage</l>
-            <l>to have wit, pluck, high birth, good sense, </l>
+            <l>to have wit, pluck, high birth, good sense,</l>
             <l>and other similar talents</l>
-            <l>that Heaven allots to you; </l>
-            <l>but you will possess all this in vain, </l>
-            <l>and they will do nothing for your advancement, </l>
+            <l>that Heaven allots to you;</l>
+            <l>but you will possess all this in vain,</l>
+            <l>and they will do nothing for your advancement,</l>
             <l>unless, to turn them to account, you have</l>
-            <l>either godfathers or godmothers. </l>
+            <l>either godfathers or godmothers.</l>
         </lg>
     </rdg>
     <rdg wit="#Betts_2009">
         <lg>
-            <l>Another moral</l>
-            <l>You have a great advantage, I admit, </l>
+            <l>The moral of this tale</l>
+            <l>Though beauty's a treasure that women desire,</l>
+            <l>For everyone's fond of a pretty young face,</l>
+            <l>Cinderella had gifts with a value much higher,</l>
+            <l>As she showed in behaving with charm and with grace.</l>
+            <l>Some say, when they're asked what this story might mean,</l>
+            <l>That these were the gifts that her godmother gave;</l>
+            <l>Cinderella had learned from her how to behave</l>
+            <l>With such grace and such charm that it made her a queen.</l>
+            <l>Young ladies in quest of a prince, you'll discover</l>
+            <l>That in winning and keeping the heart of a lover</l>
+            <l>These gifts from the fairies are always the best,</l>
+            <l>And count for much more than the way you are dressed;</l>
+            <l>For with them you will get what you're after with ease,</l>
+            <l>But without them whatever you do will displease.</l>
+            </lg><lg><l>Another moral</l>
+            <l>You have a great advantage, I admit,</l>
             <l>If you receive from Heaven at your birth</l>
-            <l>Good breeding, courage, sense, a ready wit, </l>
-            <l>And other things of comparable worth; </l>
+            <l>Good breeding, courage, sense, a ready wit,</l>
+            <l>And other things of comparable worth;</l>
             <l>But that is not enough, unless you know</l>
             <l>How best to use such precious gifts: you need</l>
             <l>A godfather or godmother' to show</l>
-            <l>What you must do in order to succeed. </l>
+            <l>What you must do in order to succeed.</l>
         </lg>
     </rdg>
     <rdg wit="#Jones_2016">
         <lg>
-            <l>Another Moral</l>
+            <l>Moral</l>
+            <l>In the ladies, beauty is a rare treasure</l>
+            <l>Its marvelous features we tirelessly praise</l>
+            <l>But to have what we call good grace</l>
+            <l>Is priceless and the greater pleasure.</l>
+            <l>Ashkins’s godmother gave her grace on loan.</l>
+            <l>Dressed her, taught her not to fail,</l>
+            <l>So much and so well that she grabbed a throne.</l>
+            <l>(For such is the moral we’ll give this tale.)</l>
+            </lg><lg><l>Another Moral</l>
             <l>No doubt it gives a girl a strong lead</l>
-            <l>To have wit, bravery, Breeding, good sense, </l>
+            <l>To have wit, bravery, Breeding, good sense,</l>
             <l>And other similarly fine talents</l>
-            <l>That the heavens dole out as meed. </l>
+            <l>That the heavens dole out as meed.</l>
             <l>But in you they will came to nothing</l>
-            <l>Bloom in vain, try as you might, </l>
+            <l>Bloom in vain, try as you might,</l>
             <l>If you have not godfather or godmother</l>
-            <l>To bring their worth to light. </l>
+            <l>To bring their worth to light.</l>
         </lg>
     </rdg>
     <rdg wit="#MoogSeifert_2021">
         <lg>
-            <l>Other moral</l>
-            <l>It is doubtless a great advantage, </l>
+            <l>Moral</l>
+            <l>Beauty for the fair sex is a rare treasure,</l>
+            <l>Of admiring it one never tires;</l>
+            <l>But what one calls good grace,</l>
+            <l>Is priceless and worth even more.</l>
+            <l>This is what her Godmother had Ashinella get,</l>
+            <l>By grooming her, by instructing her,</l>
+            <l>So much so that she made her into a Queen:</l>
+            <l>(For thus on this Tale one goes moralizing.)</l>
+            <l>Beauties, this gift is worth more than being well coiffed,</l>
+            <l>To engage a heart, to conclude the matter,</l>
+            <l>Good grace is the true gift of the Fairies;</l>
+            <l>Without it one can do nothing, </l>
+            <l>with it, one can do everything.</l>
+            </lg><lg><l>Other moral</l>
+            <l>It is doubtless a great advantage,</l>
             <l>To have wit, courage, </l>
-            <l>Birth, good sense, </l>
-            <l>And other similar talents, </l>
-            <l>Of which one receives from the Heavens a share; </l>
+            <l>Birth, good sense,</l>
+            <l>And other similar talents,</l>
+            <l>Of which one receives from the Heavens a share;</l>
             <l>But even though you have them</l>
-            <l>For your getting a good position they will be useless things, </l>
-            <l>If you do not have, to assert them, </l>
-            <l>Either godfathers or godmothers. </l>
+            <l>For your getting a good position they will be useless things,</l>
+            <l>If you do not have, to assert them,</l>
+            <l>Either godfathers or godmothers.</l>
         </lg>
     </rdg>
 </app>
+
 
             </div>
         </body>
