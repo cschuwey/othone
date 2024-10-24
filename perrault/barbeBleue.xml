@@ -5931,1171 +5931,300 @@
             </div>
 
             <div type="moral">
-                <head>
-                    <app>
-                        <rdg wit="#Perrault_1695">Moralité </rdg> 
-                        <rdg wit="#Perrault_1697">MORALITÉ </rdg> 
-                        <rdg wit="#Samber_1729">The Moral </rdg> 
-                        <rdg wit="#Samber_1741">The Moral </rdg> 
-                        <rdg wit="#Neaulme_1745">-- </rdg> 
-                        <rdg wit="#Planché_1858">-- </rdg> 
-                        <rdg wit="#Lang_1889">-- </rdg> 
-                        <rdg wit="#Welsh_1901">-- </rdg> 
-                        <rdg wit="#Johnson_1921">-- </rdg> 
-                        <rdg wit="#Mansion_1922">The Moral </rdg> 
-                        <rdg wit="#Brereton_1957">Moral </rdg> 
-                        <rdg wit="#Zipes_1989">MORAL </rdg> 
-                        <rdg wit="#Philip_1993">MORAL </rdg> 
-                        <rdg wit="#Appelbaum_2002">Moral </rdg> 
-                        <rdg wit="#Jones_2016">Moral </rdg> 
-                        <rdg wit="#Tatar_2017">Moral </rdg> 
-                        <rdg wit="#MoogSeifert_2021">MORAL </rdg> 
+                <app>
+    <rdg wit="#Perrault_1695">
+        <lg>
+            <l>Moralité</l>
+            <l>La curiosité malgré tous ses attraits </l>
+            <l>Cause souvent bien des regrets </l>
+            <l>On en voit tous les jours mille exemples paraître </l>
+            <l>C’est n’en déplaise au sexe un plaisir bien léger </l>
+            <l>Dès qu’on le prend il cesse d’être </l>
+            <l>Et toujours il coûte trop cher </l>
+        </lg>
+    </rdg>
+    <rdg wit="#Perrault_1697">
+        <lg>
+            <l>MORALITÉ </l>
+            <l>La curiosité malgré tous ses attraits, </l>
+            <l>"Coûte souvent bien des regrets ;" </l>
+            <l>On en voit tous les jours mille exemples paraître, </l>
+            <l>C'est, n'en déplaise au sexe, un plaisir bien léger, </l>
+            <l>Dès qu'on le prend il cesse d'être, </l>
+            <l>Et toujours il coûte trop cher. </l>
+            <l>AUTRE MORALITÉ </l>
+            <l>Pour peu qu'on ait l'esprit sensé, </l>
+            <l>Et que du Monde on sache le grimoire, </l>
+            <l>On voit bientôt que cette histoire </l>
+            <l>"Est un conte du temps passé ;" </l>
+            <l>Il n'est plus d'Epoux si terrible, </l>
+            <l>"Ni qui demande l'impossible ;" </l>
+            <l>Fût-il malcontent et jaloux, </l>
+            <l>"Près de sa femme on le voit filer doux ;" </l>
+            <l>Et de quelque couleur que sa barbe puisse être, </l>
+            <l>On a peine à juger qui des deux est le maître. </l>
+        </lg>
+    </rdg>
+    <rdg wit="#Samber_1729">
+        <lg>
+            <l>The Moral </l>
+            <l>O curiosity, thou mortal bane! </l>
+            <l>Spite of thy charms, thou causest often pain </l>
+            <l>And sore regret, of which we daily find A thousand instances attend mankind: </l>
+            <l>For thou, O may it not displease the fair, </l>
+            <l>"A flitting pleasure art, but lasting care;" </l>
+            <l>And always costs, alas! too dear the prize, </l>
+            <l>Which, in the moment of possession, dies. </l>
+            <l>Another </l>
+            <l>A very little share of common sense, </l>
+            <l>And knowledge of the world, will soon evince, </l>
+            <l>That this a story is of time long past, </l>
+            <l>"No husbands now such panic terrors cast;" </l>
+            <l>Nor weakly, with a vain despotick hand, </l>
+            <l>Imperious, what's impossible, command: </l>
+            <l>And be they discontented, or the fire </l>
+            <l>Of wicked jealousy their hearts inspire, </l>
+            <l>"They softly sing; and of whatever hue" </l>
+            <l>Their beards may chance to be, or black, or blue, </l>
+            <l>Grizzled, or russet, it is hard to say </l>
+            <l>Which of the two, the man or wife, bears sway. </l>
+        </lg>
+    </rdg>
+    <rdg wit="#Samber_1741">
+        <lg>
+            <l>The Moral </l>
+            <l>O curiosity, thou mortal bane! </l>
+            <l>Spite of thy charms, thou causest often pain </l>
+            <l>And sore regret, of which we daily find A thousand instances attend mankind: </l>
+            <l>For thou, O may it not displease the fair, </l>
+            <l>"A fleeting pleasure art, but lasting care;" </l>
+            <l>And always proves, alas! too dear the prize, </l>
+            <l>Which, in the moment of possession, dies. </l>
+            <l>Another </l>
+            <l>A very little share of common sense, </l>
+            <l>And knowledge of the world, will soon evince </l>
+            <l>That this a story is of time long past, </l>
+            <l>"No husbands now such panic terrors cast;" </l>
+            <l>Nor weakly, with a vain despotic hand, </l>
+            <l>Imperious, what's impossible, command: </l>
+            <l>And be they discontented, or the fire </l>
+            <l>Of wicked jealousy their hearts inspire, </l>
+            <l>"They softly sing; and of whatever hue" </l>
+            <l>Their beards may chance to be, or black, or blue, </l>
+            <l>Grizeld, or russet, it is hard to say </l>
+            <l>Which of the two, the man or wife, bears sway. </l>
+        </lg>
+    </rdg>
+    <rdg wit="#Neaulme_1745">
+        <lg>
+            <l>All Husbands are not Blue Beards, </l>
+            <l>but see here how dangerous it is to marry such a one, </l>
+            <l>&amp; how uncertain it may be to survive. </l>
+        </lg>
+    </rdg>
+    <rdg wit="#Planché_1858">
+        <lg>
+            <l>Provided one has common sense, </l>
+            <l>And of the world but knows the ways, </l>
+            <l>This story bears the evidence </l>
+            <l>Of being one of bygone days. </l>
+            <l>No husband now is so terrific, </l>
+            <l>Impossibilities, expecting: </l>
+            <l>Though jealous, he is still pacific, </l>
+            <l>Indifference to his wife affecting. </l>
+            <l>And of his beard, whate'er the hue, </l>
+            <l>His spouse need fear no such disaster. </l>
+            <l>Indeed, 'twould often puzzle you </l>
+            <l>To say which of the twain is master. </l>
+        </lg>
+    </rdg>
+    <rdg wit="#Lang_1889">
+        <lg/>
+    </rdg>
+    <rdg wit="#Welsh_1901">
+        <lg/>
+    </rdg>
+    <rdg wit="#Johnson_1921">
+        <lg/>
+    </rdg>
+    <rdg wit="#Mansion_1922">
+        <lg>
+            <l>The Moral </l>
+            <l>O curiosity, thou mortal bane! </l>
+            <l>Spite of thy charms, thou causest often pain </l>
+            <l>And sore regret, of which we daily find A thousand instances attend mankind: </l>
+            <l>For thou—O may it not displease the fair— </l>
+            <l>A fleeting pleasure art, but lasting care. </l>
+            <l>And always proves, alas! too dear the prize, </l>
+            <l>Which, in the moment of possession, dies. </l>
+            <l>Another </l>
+            <l>A very little share of common sense, </l>
+            <l>And knowledge of the world, will soon evince </l>
+            <l>"That this a story is of time long pass'd;" </l>
+            <l>"No husbands now such panic terrors cast;" </l>
+            <l>Nor weakly, with a vain despotic hand, </l>
+            <l>Imperious, what's impossible, command: </l>
+            <l>And be they discontented, or the fire </l>
+            <l>Of wicked jealousy their hearts inspire, </l>
+            <l>"They softly sing; and of whatever hue" </l>
+            <l>Their beards may chance to be, or black, or blue, </l>
+            <l>Grizeld, or russet, it is hard to say </l>
+            <l>Which of the two, the man or wife, bears sway. </l>
+        </lg>
+    </rdg>
+    <rdg wit="#Brereton_1957">
+        <lg>
+            <l>Moral </l>
+            <l>Though great the charms of curiosity, </l>
+            <l>It often brings regrets in greater measure, </l>
+            <l>As everyday new instances make clear. </l>
+            <l>No sooner seized than it bas ceased to be, </l>
+            <l>Despite the fair sex, it's an empty pleasure, </l>
+            <l>- And always bought too dear. </l>
+            <l>Second moral </l>
+            <l>A little sense is all you need, </l>
+            <l>And rightly the world's book to read, </l>
+            <l>To know this story happened long ago. </l>
+            <l>Such monsters have gone out of date, </l>
+            <l>And no wife risks so cruel a fate </l>
+            <l>In any couple that we know. </l>
+            <l>Grumbling and jealous though the husband be, </l>
+            <l>If either calls the tune, it will be she. </l>
+            <l>To-day, however black or blue his beard, </l>
+            <l>It's less the husband than the wife that's feared. </l>
+        </lg>
+    </rdg>
+    <rdg wit="#Zipes_1989">
+        <lg>
+            <l>MORAL </l>
+            <l>Curiosity, in spite of its charm, </l>
+            <l>Too often causes a great deal of harm. </l>
+            <l>A thousand new cases arise each day. </l>
+            <l>With due respect, ladies, the thrill is slight, </l>
+            <l>For as soon as you're satisfied, it goes away, </l>
+            <l>And the price one pays is never right. </l>
+            <l>ANOTHER MORAL </l>
+            <l>Provided one has common sense </l>
+            <l>And learns to study complex texts, </l>
+            <l>It's easy to trace the evidence </l>
+            <l>Of long ago in this tale's events. </l>
+            <l>No longer are husbands so terrible, </l>
+            <l>Or insist on having the impossible. </l>
+            <l>Though he may be jealous and dissatisfied, </l>
+            <l>He tries to do as he's obliged. </l>
+            <l>And whatever color his beard may be, </l>
+            <l>It's difficult to know who the master be. </l>
+        </lg>
+    </rdg>
+    <rdg wit="#Philip_1993">
+        <lg>
+            <l>MORAL </l>
+            <l>Curiosity has its lure, </l>
+            <l>But all the same </l>
+            <l>It's a paltry kind of pleasure </l>
+            <l>And a risky game. </l>
+            <l>"The thrill of peeping is soon over;" </l>
+            <l>And then the cost is to discover. </l>
+            <l>ANOTHER MORAL </l>
+            <l>Anyone with half an eye </l>
+            <l>Can see this tale's of times gone by. </l>
+            <l>No husband wants his wife to cower, </l>
+            <l>Or thinks that she is in his power. </l>
+            <l>Once the wife's made up her mind, </l>
+            <l>The husband meekly trails behind. </l>
+            <l>If you see a man and wife at large, </l>
+            <l>No need to guess just who's in charge. </l>
+        </lg>
+    </rdg>
+    <rdg wit="#Appelbaum_2002">
+        <lg>
+            <l>Moral </l>
+            <l>Despite all its attractions, curiosity </l>
+            <l>"often leads to regrets;" </l>
+            <l>every day a thousand examples come to our notice. </l>
+            <l>"May this not displease the ladies: it is a very unsubstantial pleasure;" </l>
+            <l>the moment you indulge it, it ceases to exist, </l>
+            <l>and it is always too costly. </l>
+            <l>Second Moral </l>
+            <l>Anyone who has the least bit of common sense, </l>
+            <l>and is familiar with the ways of the world, </l>
+            <l>"will soon see that this storyis a tale of days long gone by;" </l>
+            <l>such a fearsome husband no longer exists, </l>
+            <l>or one who asks the impossible, </l>
+            <l>even though he may be disgruntled and jealous. </l>
+            <l>"In his wife's company he is meek and mild;" </l>
+            <l>and whatever color his beard may be, </l>
+            <l>it is hard to tell which of the two is the master. </l>
+        </lg>
+    </rdg>
+    <rdg wit="#Jones_2016">
+        <lg>
+            <l>Moral </l>
+            <l>Curiosity, in spite of its mirth, </l>
+            <l>Often costs more than it’s worth. </l>
+            <l>Everywhere and always examples abound. </l>
+            <l>No offense to the ladies, it’s an illusory crutch. </l>
+            <l>As soon as you seize it, it is nowhere to be found </l>
+            <l>And it always costs too much. </l>
+            <l>Another Moral </l>
+            <l>Even a wit of the dimmest cast, </l>
+            <l>Who is not so very worldly, </l>
+            <l>Will discover anon that this story </l>
+            <l>Is a tale of times long past. </l>
+            <l>No more the horrible husband of old </l>
+            <l>Whose demands were impossibly bold. </l>
+            <l>Though now he be discontent and domineering </l>
+            <l>Still with his wife he’s endearing. </l>
+            <l>The color of his beard no longer stands </l>
+            <l>To show among them who wears the pants. </l>
+        </lg>
+    </rdg>
+    <rdg wit="#Tatar_2017">
+        <lg>
+            <l>Moral </l>
+            <l>Curiosity, in spite of its many charms, </l>
+            <l>"Can bring with it serious regrets;" </l>
+            <l>You can see a thousand examples of it every day. </l>
+            <l>"Women succumb, but it's a fleeting pleasure;" </l>
+            <l>As soon as you satisfy it, it ceases to be. </l>
+            <l>And it always proves very, very costly. </l>
+            <l>Another Moral </l>
+            <l>If you just take a sensible point of view, </l>
+            <l>And study this grim little story, </l>
+            <l>You will understand that this tale </l>
+            <l>Is one that took place many years ago. </l>
+            <l>No longer are husbands so terrible, </l>
+            <l>Demanding the impossible, </l>
+            <l>Acting unhappy and jealous. </l>
+            <l>"With their wives they toe the line;" </l>
+            <l>And whatever color their beards might be, </l>
+            <l>It's not hard to tell which of the pair is master. </l>
+        </lg>
+    </rdg>
+    <rdg wit="#MoogSeifert_2021">
+        <lg>
+            <l>MORAL </l>
+            <l>Curiosity in spite of all its attractions, </l>
+            <l>"Often costs so much in regrets;" </l>
+            <l>Of this one sees every day a thousand examples appear. </l>
+            <l>"It is, whatever the fair sex may believe, a very fickle pleasure;" </l>
+            <l>As soon as one takes it, it ceases to be, </l>
+            <l>And always costs too much. </l>
+            <l>OTHER MORAL </l>
+            <l>Even a mind with common sense, </l>
+            <l>And knowledge of the World’s spell book, </l>
+            <l>Quickly sees that this story </l>
+            <l>Is a tale of times past. </l>
+            <l>There no longer exists a Husband so terrible, </l>
+            <l>"Nor who asks for the impossible;" </l>
+            <l>Even if he is displeased and jealous, </l>
+            <l>"Next to his wife he tows the line;" </l>
+            <l>And no matter what color his beard may be, </l>
+            <l>One is at pains to tell which one is the master. </l>
+        </lg>
+    </rdg>
+</app>
 
-                    </app></head>
-                <lg>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">La curiosité malgré tous ses attraits </rdg> 
-                            <rdg wit="#Perrault_1697">La curiosité malgré tous ses attraits, </rdg> 
-                            <rdg wit="#Samber_1729">O curiosity, thou mortal bane! </rdg> 
-                            <rdg wit="#Samber_1741">O curiosity, thou mortal bane! </rdg> 
-                            <rdg wit="#Neaulme_1745">All Husbands are not Blue Beards, </rdg> 
-                            <rdg wit="#Planché_1858">-- </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">O curiosity, thou mortal bane! </rdg> 
-                            <rdg wit="#Brereton_1957">Though great the charms of curiosity, </rdg> 
-                            <rdg wit="#Zipes_1989">Curiosity, in spite of its charm, </rdg> 
-                            <rdg wit="#Philip_1993">Curiosity has its lure, </rdg> 
-                            <rdg wit="#Appelbaum_2002">Despite all its attractions, curiosity </rdg> 
-                            <rdg wit="#Jones_2016">Curiosity, in spite of its mirth, </rdg> 
-                            <rdg wit="#Tatar_2017">Curiosity, in spite of its many charms, </rdg> 
-                            <rdg wit="#MoogSeifert_2021">Curiosity in spite of all its
-                                attractions, </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">Cause souvent bien des regrets </rdg> 
-                            <rdg wit="#Perrault_1697">"Coûte souvent bien des regrets ;" </rdg> 
-                            <rdg wit="#Samber_1729">Spite of thy charms, thou causest often
-                                pain </rdg> 
-                            <rdg wit="#Samber_1741">Spite of thy charms, thou causest often
-                                pain </rdg> 
-                            <rdg wit="#Neaulme_1745">but see here how dangerous it is to marry such
-                                a one, </rdg> 
-                            <rdg wit="#Planché_1858">-- </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">Spite of thy charms, thou causest often
-                                pain </rdg> 
-                            <rdg wit="#Brereton_1957">It often brings regrets in greater
-                                measure, </rdg> 
-                            <rdg wit="#Zipes_1989">Too often causes a great deal of harm. </rdg> 
-                            <rdg wit="#Philip_1993">But all the same </rdg> 
-                            <rdg wit="#Appelbaum_2002">"often leads to regrets;" </rdg> 
-                            <rdg wit="#Jones_2016">Often costs more than it’s worth. </rdg> 
-                            <rdg wit="#Tatar_2017">"Can bring with it serious regrets;" </rdg> 
-                            <rdg wit="#MoogSeifert_2021">"Often costs so much in regrets;" </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">On en voit tous les jours mille exemples
-                                paraître </rdg> 
-                            <rdg wit="#Perrault_1697">On en voit tous les jours mille exemples
-                                paraître, </rdg> 
-                            <rdg wit="#Samber_1729">And sore regret, of which we daily find A
-                                thousand instances attend mankind: </rdg> 
-                            <rdg wit="#Samber_1741">And sore regret, of which we daily find A
-                                thousand instances attend mankind: </rdg> 
-                            <rdg wit="#Neaulme_1745">&amp; how uncertain it may be to survive. </rdg> 
-                            <rdg wit="#Planché_1858">-- </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">And sore regret, of which we daily find A
-                                thousand instances attend mankind: </rdg> 
-                            <rdg wit="#Brereton_1957">As everyday new instances make clear. </rdg> 
-                            <rdg wit="#Zipes_1989">A thousand new cases arise each day. </rdg> 
-                            <rdg wit="#Philip_1993">It's a paltry kind of pleasure </rdg> 
-                            <rdg wit="#Appelbaum_2002">every day a thousand examples come to our
-                                notice. </rdg> 
-                            <rdg wit="#Jones_2016">Everywhere and always examples abound. </rdg> 
-                            <rdg wit="#Tatar_2017">You can see a thousand examples of it every
-                                day. </rdg> 
-                            <rdg wit="#MoogSeifert_2021">Of this one sees every day a thousand
-                                examples appear. </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">C’est n’en déplaise au sexe un plaisir bien
-                                léger </rdg> 
-                            <rdg wit="#Perrault_1697">C'est, n'en déplaise au sexe, un plaisir bien
-                                léger, </rdg> 
-                            <rdg wit="#Samber_1729">For thou, O may it not displease the fair, </rdg> 
-                            <rdg wit="#Samber_1741">For thou, O may it not displease the fair, </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Planché_1858">-- </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">For thou—O may it not displease the fair— </rdg> 
-                            <rdg wit="#Brereton_1957">No sooner seized than it bas ceased to
-                                be, </rdg> 
-                            <rdg wit="#Zipes_1989">With due respect, ladies, the thrill is
-                                slight, </rdg> 
-                            <rdg wit="#Philip_1993">And a risky game. </rdg> 
-                            <rdg wit="#Appelbaum_2002">"May this not displease the ladies: it is a
-                                very unsubstantial pleasure;" </rdg> 
-                            <rdg wit="#Jones_2016">No offense to the ladies, it’s an illusory
-                                crutch. </rdg> 
-                            <rdg wit="#Tatar_2017">"Women succumb, but it's a fleeting
-                                pleasure;" </rdg> 
-                            <rdg wit="#MoogSeifert_2021">"It is, whatever the fair sex may believe,
-                                a very fickle pleasure;" </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">Dès qu’on le prend il cesse d’être </rdg> 
-                            <rdg wit="#Perrault_1697">Dès qu'on le prend il cesse d'être, </rdg> 
-                            <rdg wit="#Samber_1729">"A flitting pleasure art, but lasting
-                                care;" </rdg> 
-                            <rdg wit="#Samber_1741">"A fleeting pleasure art, but lasting
-                                care;" </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Planché_1858">-- </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">A fleeting pleasure art, but lasting
-                                care. </rdg> 
-                            <rdg wit="#Brereton_1957">Despite the fair sex, it's an empty
-                                pleasure, </rdg> 
-                            <rdg wit="#Zipes_1989">For as soon as you're satisfied, it goes
-                                away, </rdg> 
-                            <rdg wit="#Philip_1993">"The thrill of peeping is soon over;" </rdg> 
-                            <rdg wit="#Appelbaum_2002">the moment you indulge it, it ceases to
-                                exist, </rdg> 
-                            <rdg wit="#Jones_2016">As soon as you seize it, it is nowhere to be
-                                found </rdg> 
-                            <rdg wit="#Tatar_2017">As soon as you satisfy it, it ceases to be. </rdg> 
-                            <rdg wit="#MoogSeifert_2021">As soon as one takes it, it ceases to
-                                be, </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">Et toujours il coûte trop cher </rdg> 
-                            <rdg wit="#Perrault_1697">Et toujours il coûte trop cher. </rdg> 
-                            <rdg wit="#Samber_1729">And always costs, alas! too dear the
-                                prize, </rdg> 
-                            <rdg wit="#Samber_1741">And always proves, alas! too dear the
-                                prize, </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Planché_1858">-- </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">And always proves, alas! too dear the
-                                prize, </rdg> 
-                            <rdg wit="#Brereton_1957">- And always bought too dear. </rdg> 
-                            <rdg wit="#Zipes_1989">And the price one pays is never right. </rdg> 
-                            <rdg wit="#Philip_1993">And then the cost is to discover. </rdg> 
-                            <rdg wit="#Appelbaum_2002">and it is always too costly. </rdg> 
-                            <rdg wit="#Jones_2016">And it always costs too much. </rdg> 
-                            <rdg wit="#Tatar_2017">And it always proves very, very costly. </rdg> 
-                            <rdg wit="#MoogSeifert_2021">And always costs too much. </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg> 
-                            <rdg wit="#Perrault_1697">AUTRE MORALITÉ </rdg> 
-                            <rdg wit="#Samber_1729">Which, in the moment of possession, dies. </rdg> 
-                            <rdg wit="#Samber_1741">Which, in the moment of possession, dies. </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Planché_1858">-- </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">Which, in the moment of possession, dies. </rdg> 
-                            <rdg wit="#Brereton_1957">Second moral </rdg> 
-                            <rdg wit="#Zipes_1989">ANOTHER MORAL </rdg> 
-                            <rdg wit="#Philip_1993">ANOTHER MORAL </rdg> 
-                            <rdg wit="#Appelbaum_2002">Second Moral </rdg> 
-                            <rdg wit="#Jones_2016">Another Moral </rdg> 
-                            <rdg wit="#Tatar_2017">Another Moral </rdg> 
-                            <rdg wit="#MoogSeifert_2021">OTHER MORAL </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg> 
-                            <rdg wit="#Perrault_1697">Pour peu qu'on ait l'esprit sensé, </rdg> 
-                            <rdg wit="#Samber_1729">Another </rdg> 
-                            <rdg wit="#Samber_1741">Another </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Planché_1858">Provided one has common sense, </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">Another </rdg> 
-                            <rdg wit="#Brereton_1957">A little sense is all you need, </rdg> 
-                            <rdg wit="#Zipes_1989">Provided one has common sense </rdg> 
-                            <rdg wit="#Philip_1993">Anyone with half an eye </rdg> 
-                            <rdg wit="#Appelbaum_2002">Anyone who has the least bit of common
-                                sense, </rdg> 
-                            <rdg wit="#Jones_2016">Even a wit of the dimmest cast, </rdg> 
-                            <rdg wit="#Tatar_2017">If you just take a sensible point of view, </rdg> 
-                            <rdg wit="#MoogSeifert_2021">Even a mind with common sense, </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg> 
-                            <rdg wit="#Perrault_1697">Et que du Monde on sache le grimoire, </rdg> 
-                            <rdg wit="#Samber_1729">A very little share of common sense, </rdg> 
-                            <rdg wit="#Samber_1741">A very little share of common sense, </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Planché_1858">And of the world but knows the ways, </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">A very little share of common sense, </rdg> 
-                            <rdg wit="#Brereton_1957">And rightly the world's book to read, </rdg> 
-                            <rdg wit="#Zipes_1989">And learns to study complex texts, </rdg> 
-                            <rdg wit="#Philip_1993">Can see this tale's of times gone by. </rdg> 
-                            <rdg wit="#Appelbaum_2002">and is familiar with the ways of the
-                                world, </rdg> 
-                            <rdg wit="#Jones_2016">Who is not so very worldly, </rdg> 
-                            <rdg wit="#Tatar_2017">And study this grim little story, </rdg> 
-                            <rdg wit="#MoogSeifert_2021">And knowledge of the World’s spell
-                                book, </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg> 
-                            <rdg wit="#Perrault_1697">On voit bientôt que cette histoire </rdg> 
-                            <rdg wit="#Samber_1729">And knowledge of the world, will soon
-                                evince, </rdg> 
-                            <rdg wit="#Samber_1741">And knowledge of the world, will soon
-                                evince </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Planché_1858">This story bears the evidence </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">And knowledge of the world, will soon
-                                evince </rdg> 
-                            <rdg wit="#Brereton_1957">To know this story happened long ago. </rdg> 
-                            <rdg wit="#Zipes_1989">It's easy to trace the evidence </rdg> 
-                            <rdg wit="#Philip_1993">No husband wants his wife to cower, </rdg> 
-                            <rdg wit="#Appelbaum_2002">"will soon see that this storyis a tale of
-                                days long gone by;" </rdg> 
-                            <rdg wit="#Jones_2016">Will discover anon that this story </rdg> 
-                            <rdg wit="#Tatar_2017">You will understand that this tale </rdg> 
-                            <rdg wit="#MoogSeifert_2021">Quickly sees that this story </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg> 
-                            <rdg wit="#Perrault_1697">"Est un conte du temps passé ;" </rdg> 
-                            <rdg wit="#Samber_1729">That this a story is of time long past, </rdg> 
-                            <rdg wit="#Samber_1741">That this a story is of time long past, </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Planché_1858">Of being one of bygone days. </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">"That this a story is of time long
-                                pass'd;" </rdg> 
-                            <rdg wit="#Brereton_1957">Such monsters have gone out of date, </rdg> 
-                            <rdg wit="#Zipes_1989">Of long ago in this tale's events. </rdg> 
-                            <rdg wit="#Philip_1993">Or thinks that she is in his power. </rdg> 
-                            <rdg wit="#Appelbaum_2002">such a fearsome husband no longer
-                                exists, </rdg> 
-                            <rdg wit="#Jones_2016">Is a tale of times long past. </rdg> 
-                            <rdg wit="#Tatar_2017">Is one that took place many years ago. </rdg> 
-                            <rdg wit="#MoogSeifert_2021">Is a tale of times past. </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg> 
-                            <rdg wit="#Perrault_1697">Il n'est plus d'Epoux si terrible, </rdg> 
-                            <rdg wit="#Samber_1729">"No husbands now such panic terrors cast;" </rdg> 
-                            <rdg wit="#Samber_1741">"No husbands now such panic terrors cast;" </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Planché_1858">No husband now is so terrific, </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">"No husbands now such panic terrors
-                                cast;" </rdg> 
-                            <rdg wit="#Brereton_1957">And no wife risks so cruel a fate </rdg> 
-                            <rdg wit="#Zipes_1989">No longer are husbands so terrible, </rdg> 
-                            <rdg wit="#Philip_1993">Once the wife's made up her mind, </rdg> 
-                            <rdg wit="#Appelbaum_2002">or one who asks the impossible, </rdg> 
-                            <rdg wit="#Jones_2016">No more the horrible husband of old </rdg> 
-                            <rdg wit="#Tatar_2017">No longer are husbands so terrible, </rdg> 
-                            <rdg wit="#MoogSeifert_2021">There no longer exists a Husband so
-                                terrible, </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg> 
-                            <rdg wit="#Perrault_1697">"Ni qui demande l'impossible ;" </rdg> 
-                            <rdg wit="#Samber_1729">Nor weakly, with a vain despotick hand, </rdg> 
-                            <rdg wit="#Samber_1741">Nor weakly, with a vain despotic hand,  </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Planché_1858">Impossibilities, expecting: </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">Nor weakly, with a vain despotic hand, </rdg> 
-                            <rdg wit="#Brereton_1957">In any couple that we know. </rdg> 
-                            <rdg wit="#Zipes_1989">Or insist on having the impossible. </rdg> 
-                            <rdg wit="#Philip_1993">The husband meekly trails behind. </rdg> 
-                            <rdg wit="#Appelbaum_2002">even though he may be disgruntled and
-                                jealous. </rdg> 
-                            <rdg wit="#Jones_2016">Whose demands were impossibly bold. </rdg> 
-                            <rdg wit="#Tatar_2017">Demanding the impossible, </rdg> 
-                            <rdg wit="#MoogSeifert_2021">"Nor who asks for the impossible;" </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg> 
-                            <rdg wit="#Perrault_1697">Fût-il malcontent et jaloux, </rdg> 
-                            <rdg wit="#Samber_1729">Imperious, what's impossible, command: </rdg> 
-                            <rdg wit="#Samber_1741">Imperious, what's impossible, command: </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Planché_1858">Though jealous, he is still pacific, </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">Imperious, what's impossible, command: </rdg> 
-                            <rdg wit="#Brereton_1957">Grumbling and jealous though the husband
-                                be, </rdg> 
-                            <rdg wit="#Zipes_1989">Though he may be jealous and dissatisfied, </rdg> 
-                            <rdg wit="#Philip_1993">If you see a man and wife at large, </rdg> 
-                            <rdg wit="#Appelbaum_2002">"In his wife's company he is meek and
-                                mild;" </rdg> 
-                            <rdg wit="#Jones_2016">Though now he be discontent and domineering </rdg> 
-                            <rdg wit="#Tatar_2017">Acting unhappy and jealous. </rdg> 
-                            <rdg wit="#MoogSeifert_2021">Even if he is displeased and
-                                jealous, </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg> 
-                            <rdg wit="#Perrault_1697">"Près de sa femme on le voit filer doux
-                                ;" </rdg> 
-                            <rdg wit="#Samber_1729">And be they discontented, or the fire </rdg> 
-                            <rdg wit="#Samber_1741">And be they discontented, or the fire </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Planché_1858">Indifference to his wife affecting. </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">And be they discontented, or the fire </rdg> 
-                            <rdg wit="#Brereton_1957">If either calls the tune, it will be
-                                she. </rdg> 
-                            <rdg wit="#Zipes_1989">He tries to do as he's obliged. </rdg> 
-                            <rdg wit="#Philip_1993">No need to guess just who's in charge. </rdg> 
-                            <rdg wit="#Appelbaum_2002">and whatever color his beard may be, </rdg> 
-                            <rdg wit="#Jones_2016">Still with his wife he’s endearing. </rdg> 
-                            <rdg wit="#Tatar_2017">"With their wives they toe the line;" </rdg> 
-                            <rdg wit="#MoogSeifert_2021">"Next to his wife he tows the line;" </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg> 
-                            <rdg wit="#Perrault_1697">Et de quelque couleur que sa barbe puisse
-                                être, </rdg> 
-                            <rdg wit="#Samber_1729">Of wicked jealousy their hearts inspire, </rdg> 
-                            <rdg wit="#Samber_1741">Of wicked jealousy their hearts inspire, </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Planché_1858">And of his beard, whate'er the hue, </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">Of wicked jealousy their hearts inspire, </rdg> 
-                            <rdg wit="#Brereton_1957">To-day, however black or blue his beard, </rdg> 
-                            <rdg wit="#Zipes_1989">And whatever color his beard may be, </rdg> 
-                            <rdg wit="#Philip_1993">-- </rdg> 
-                            <rdg wit="#Appelbaum_2002">it is hard to tell which of the two is the
-                                master. </rdg> 
-                            <rdg wit="#Jones_2016">The color of his beard no longer stands </rdg> 
-                            <rdg wit="#Tatar_2017">And whatever color their beards might be, </rdg> 
-                            <rdg wit="#MoogSeifert_2021">And no matter what color his beard may
-                                be, </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg> 
-                            <rdg wit="#Perrault_1697">On a peine à juger qui des deux est le
-                                maître. </rdg> 
-                            <rdg wit="#Samber_1729">"They softly sing; and of whatever hue" </rdg> 
-                            <rdg wit="#Samber_1741">"They softly sing; and of whatever hue" </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Planché_1858">His spouse need fear no such disaster. </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">"They softly sing; and of whatever hue" </rdg> 
-                            <rdg wit="#Brereton_1957">It's less the husband than the wife that's
-                                feared. </rdg> 
-                            <rdg wit="#Zipes_1989">It's difficult to know who the master be. </rdg> 
-                            <rdg wit="#Philip_1993">-- </rdg> 
-                            <rdg wit="#Appelbaum_2002">-- </rdg> 
-                            <rdg wit="#Jones_2016">To show among them who wears the pants. </rdg> 
-                            <rdg wit="#Tatar_2017">It's not hard to tell which of the pair is
-                                master. </rdg> 
-                            <rdg wit="#MoogSeifert_2021">One is at pains to tell which one is the
-                                master. </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg> 
-                            <rdg wit="#Perrault_1697">-- </rdg> 
-                            <rdg wit="#Samber_1729">Their beards may chance to be, or black, or
-                                blue, </rdg> 
-                            <rdg wit="#Samber_1741">Their beards may chance to be, or black, or
-                                blue,  </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Planché_1858">Indeed, 'twould often puzzle you </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">Their beards may chance to be, or black, or
-                                blue, </rdg> 
-                            <rdg wit="#Brereton_1957">-- </rdg> 
-                            <rdg wit="#Zipes_1989">-- </rdg> 
-                            <rdg wit="#Philip_1993">-- </rdg> 
-                            <rdg wit="#Appelbaum_2002">-- </rdg> 
-                            <rdg wit="#Jones_2016">-- </rdg> 
-                            <rdg wit="#Tatar_2017">-- </rdg> 
-                            <rdg wit="#MoogSeifert_2021">-- </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg> 
-                            <rdg wit="#Perrault_1697">-- </rdg> 
-                            <rdg wit="#Samber_1729">Grizzled, or russet, it is hard to say </rdg> 
-                            <rdg wit="#Samber_1741">Grizeld, or russet, it is hard to say </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Planché_1858">To say which of the twain is master. </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">Grizeld, or russet, it is hard to say </rdg> 
-                            <rdg wit="#Brereton_1957">-- </rdg> 
-                            <rdg wit="#Zipes_1989">-- </rdg> 
-                            <rdg wit="#Philip_1993">-- </rdg> 
-                            <rdg wit="#Appelbaum_2002">-- </rdg> 
-                            <rdg wit="#Jones_2016">-- </rdg> 
-                            <rdg wit="#Tatar_2017">-- </rdg> 
-                            <rdg wit="#MoogSeifert_2021">-- </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg> 
-                            <rdg wit="#Perrault_1697">-- </rdg> 
-                            <rdg wit="#Samber_1729">Which of the two, the man or wife, bears
-                                sway. </rdg> 
-                            <rdg wit="#Samber_1741">Which of the two, the man or wife, bears
-                                sway. </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Planché_1858">-- </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">Which of the two, the man or wife, bears
-                                sway. </rdg> 
-                            <rdg wit="#Brereton_1957">-- </rdg> 
-                            <rdg wit="#Zipes_1989">-- </rdg> 
-                            <rdg wit="#Philip_1993">-- </rdg> 
-                            <rdg wit="#Appelbaum_2002">-- </rdg> 
-                            <rdg wit="#Jones_2016">-- </rdg> 
-                            <rdg wit="#Tatar_2017">-- </rdg> 
-                            <rdg wit="#MoogSeifert_2021">-- </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg> 
-                            <rdg wit="#Perrault_1697">-- </rdg> 
-                            <rdg wit="#Samber_1729">-- </rdg> 
-                            <rdg wit="#Samber_1741">-- </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Planché_1858">-- </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">-- </rdg> 
-                            <rdg wit="#Brereton_1957">-- </rdg> 
-                            <rdg wit="#Zipes_1989">-- </rdg> 
-                            <rdg wit="#Philip_1993">-- </rdg> 
-                            <rdg wit="#Appelbaum_2002">-- </rdg> 
-                            <rdg wit="#Jones_2016">-- </rdg> 
-                            <rdg wit="#Tatar_2017">-- </rdg> 
-                            <rdg wit="#MoogSeifert_2021">-- </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg> 
-                            <rdg wit="#Perrault_1697">-- </rdg> 
-                            <rdg wit="#Samber_1729">-- </rdg> 
-                            <rdg wit="#Samber_1741">-- </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Planché_1858">-- </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">-- </rdg> 
-                            <rdg wit="#Brereton_1957">-- </rdg> 
-                            <rdg wit="#Zipes_1989">-- </rdg> 
-                            <rdg wit="#Philip_1993">-- </rdg> 
-                            <rdg wit="#Appelbaum_2002">-- </rdg> 
-                            <rdg wit="#Jones_2016">-- </rdg> 
-                            <rdg wit="#Tatar_2017">-- </rdg> 
-                            <rdg wit="#MoogSeifert_2021">-- </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg> 
-                            <rdg wit="#Perrault_1697">-- </rdg> 
-                            <rdg wit="#Samber_1729">-- </rdg> 
-                            <rdg wit="#Samber_1741">-- </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Planché_1858">-- </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">-- </rdg> 
-                            <rdg wit="#Brereton_1957">-- </rdg> 
-                            <rdg wit="#Zipes_1989">-- </rdg> 
-                            <rdg wit="#Philip_1993">-- </rdg> 
-                            <rdg wit="#Appelbaum_2002">-- </rdg> 
-                            <rdg wit="#Jones_2016">-- </rdg> 
-                            <rdg wit="#Tatar_2017">-- </rdg> 
-                            <rdg wit="#MoogSeifert_2021">-- </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg> 
-                            <rdg wit="#Perrault_1697">-- </rdg> 
-                            <rdg wit="#Samber_1729">-- </rdg> 
-                            <rdg wit="#Samber_1741">-- </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Planché_1858">-- </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">-- </rdg> 
-                            <rdg wit="#Brereton_1957">-- </rdg> 
-                            <rdg wit="#Zipes_1989">-- </rdg> 
-                            <rdg wit="#Philip_1993">-- </rdg> 
-                            <rdg wit="#Appelbaum_2002">-- </rdg> 
-                            <rdg wit="#Jones_2016">-- </rdg> 
-                            <rdg wit="#Tatar_2017">-- </rdg> 
-                            <rdg wit="#MoogSeifert_2021">-- </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg> 
-                            <rdg wit="#Perrault_1697">-- </rdg> 
-                            <rdg wit="#Samber_1729">-- </rdg> 
-                            <rdg wit="#Samber_1741">-- </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Planché_1858">-- </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">-- </rdg> 
-                            <rdg wit="#Brereton_1957">-- </rdg> 
-                            <rdg wit="#Zipes_1989">-- </rdg> 
-                            <rdg wit="#Philip_1993">-- </rdg> 
-                            <rdg wit="#Appelbaum_2002">-- </rdg> 
-                            <rdg wit="#Jones_2016">-- </rdg> 
-                            <rdg wit="#Tatar_2017">-- </rdg> 
-                            <rdg wit="#MoogSeifert_2021">-- </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg> 
-                            <rdg wit="#Perrault_1697">-- </rdg> 
-                            <rdg wit="#Samber_1729">-- </rdg> 
-                            <rdg wit="#Samber_1741">-- </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Planché_1858">-- </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">-- </rdg> 
-                            <rdg wit="#Brereton_1957">-- </rdg> 
-                            <rdg wit="#Zipes_1989">-- </rdg> 
-                            <rdg wit="#Philip_1993">-- </rdg> 
-                            <rdg wit="#Appelbaum_2002">-- </rdg> 
-                            <rdg wit="#Jones_2016">-- </rdg> 
-                            <rdg wit="#Tatar_2017">-- </rdg> 
-                            <rdg wit="#MoogSeifert_2021">-- </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg> 
-                            <rdg wit="#Perrault_1697">-- </rdg> 
-                            <rdg wit="#Samber_1729">-- </rdg> 
-                            <rdg wit="#Samber_1741">-- </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Planché_1858">-- </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">-- </rdg> 
-                            <rdg wit="#Brereton_1957">-- </rdg> 
-                            <rdg wit="#Zipes_1989">-- </rdg> 
-                            <rdg wit="#Philip_1993">-- </rdg> 
-                            <rdg wit="#Appelbaum_2002">-- </rdg> 
-                            <rdg wit="#Jones_2016">-- </rdg> 
-                            <rdg wit="#Tatar_2017">-- </rdg> 
-                            <rdg wit="#MoogSeifert_2021">-- </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg> 
-                            <rdg wit="#Perrault_1697">-- </rdg> 
-                            <rdg wit="#Samber_1729">-- </rdg> 
-                            <rdg wit="#Samber_1741">-- </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Planché_1858">-- </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">-- </rdg> 
-                            <rdg wit="#Brereton_1957">-- </rdg> 
-                            <rdg wit="#Zipes_1989">-- </rdg> 
-                            <rdg wit="#Philip_1993">-- </rdg> 
-                            <rdg wit="#Appelbaum_2002">-- </rdg> 
-                            <rdg wit="#Jones_2016">-- </rdg> 
-                            <rdg wit="#Tatar_2017">-- </rdg> 
-                            <rdg wit="#MoogSeifert_2021">-- </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg> 
-                            <rdg wit="#Perrault_1697">-- </rdg> 
-                            <rdg wit="#Samber_1729">-- </rdg> 
-                            <rdg wit="#Samber_1741">-- </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Planché_1858">-- </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">-- </rdg> 
-                            <rdg wit="#Brereton_1957">-- </rdg> 
-                            <rdg wit="#Zipes_1989">-- </rdg> 
-                            <rdg wit="#Philip_1993">-- </rdg> 
-                            <rdg wit="#Appelbaum_2002">-- </rdg> 
-                            <rdg wit="#Jones_2016">-- </rdg> 
-                            <rdg wit="#Tatar_2017">-- </rdg> 
-                            <rdg wit="#MoogSeifert_2021">-- </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg> 
-                            <rdg wit="#Perrault_1697">-- </rdg> 
-                            <rdg wit="#Samber_1729">-- </rdg> 
-                            <rdg wit="#Samber_1741">-- </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Planché_1858">-- </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">-- </rdg> 
-                            <rdg wit="#Brereton_1957">-- </rdg> 
-                            <rdg wit="#Zipes_1989">-- </rdg> 
-                            <rdg wit="#Philip_1993">-- </rdg> 
-                            <rdg wit="#Appelbaum_2002">-- </rdg> 
-                            <rdg wit="#Jones_2016">-- </rdg> 
-                            <rdg wit="#Tatar_2017">-- </rdg> 
-                            <rdg wit="#MoogSeifert_2021">-- </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg> 
-                            <rdg wit="#Perrault_1697">-- </rdg> 
-                            <rdg wit="#Samber_1729">-- </rdg> 
-                            <rdg wit="#Samber_1741">-- </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Planché_1858">-- </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">-- </rdg> 
-                            <rdg wit="#Brereton_1957">-- </rdg> 
-                            <rdg wit="#Zipes_1989">-- </rdg> 
-                            <rdg wit="#Philip_1993">-- </rdg> 
-                            <rdg wit="#Appelbaum_2002">-- </rdg> 
-                            <rdg wit="#Jones_2016">-- </rdg> 
-                            <rdg wit="#Tatar_2017">-- </rdg> 
-                            <rdg wit="#MoogSeifert_2021">-- </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg> 
-                            <rdg wit="#Perrault_1697">-- </rdg> 
-                            <rdg wit="#Samber_1729">-- </rdg> 
-                            <rdg wit="#Samber_1741">-- </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Planché_1858">-- </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">-- </rdg> 
-                            <rdg wit="#Brereton_1957">-- </rdg> 
-                            <rdg wit="#Zipes_1989">-- </rdg> 
-                            <rdg wit="#Philip_1993">-- </rdg> 
-                            <rdg wit="#Appelbaum_2002">-- </rdg> 
-                            <rdg wit="#Jones_2016">-- </rdg> 
-                            <rdg wit="#Tatar_2017">-- </rdg> 
-                            <rdg wit="#MoogSeifert_2021">-- </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg> 
-                            <rdg wit="#Perrault_1697">-- </rdg> 
-                            <rdg wit="#Samber_1729">-- </rdg> 
-                            <rdg wit="#Samber_1741">-- </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Planché_1858">-- </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">-- </rdg> 
-                            <rdg wit="#Brereton_1957">-- </rdg> 
-                            <rdg wit="#Zipes_1989">-- </rdg> 
-                            <rdg wit="#Philip_1993">-- </rdg> 
-                            <rdg wit="#Appelbaum_2002">-- </rdg> 
-                            <rdg wit="#Jones_2016">-- </rdg> 
-                            <rdg wit="#Tatar_2017">-- </rdg> 
-                            <rdg wit="#MoogSeifert_2021">-- </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg> 
-                            <rdg wit="#Perrault_1697">-- </rdg> 
-                            <rdg wit="#Samber_1729">-- </rdg> 
-                            <rdg wit="#Samber_1741">-- </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Planché_1858">-- </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">-- </rdg> 
-                            <rdg wit="#Brereton_1957">-- </rdg> 
-                            <rdg wit="#Zipes_1989">-- </rdg> 
-                            <rdg wit="#Philip_1993">-- </rdg> 
-                            <rdg wit="#Appelbaum_2002">-- </rdg> 
-                            <rdg wit="#Jones_2016">-- </rdg> 
-                            <rdg wit="#Tatar_2017">-- </rdg> 
-                            <rdg wit="#MoogSeifert_2021">-- </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg> 
-                            <rdg wit="#Perrault_1697">-- </rdg> 
-                            <rdg wit="#Samber_1729">-- </rdg> 
-                            <rdg wit="#Samber_1741">-- </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Planché_1858">-- </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">-- </rdg> 
-                            <rdg wit="#Brereton_1957">-- </rdg> 
-                            <rdg wit="#Zipes_1989">-- </rdg> 
-                            <rdg wit="#Philip_1993">-- </rdg> 
-                            <rdg wit="#Appelbaum_2002">-- </rdg> 
-                            <rdg wit="#Jones_2016">-- </rdg> 
-                            <rdg wit="#Tatar_2017">-- </rdg> 
-                            <rdg wit="#MoogSeifert_2021">-- </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg> 
-                            <rdg wit="#Perrault_1697">-- </rdg> 
-                            <rdg wit="#Samber_1729">-- </rdg> 
-                            <rdg wit="#Samber_1741">-- </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Planché_1858">-- </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">-- </rdg> 
-                            <rdg wit="#Brereton_1957">-- </rdg> 
-                            <rdg wit="#Zipes_1989">-- </rdg> 
-                            <rdg wit="#Philip_1993">-- </rdg> 
-                            <rdg wit="#Appelbaum_2002">-- </rdg> 
-                            <rdg wit="#Jones_2016">-- </rdg> 
-                            <rdg wit="#Tatar_2017">-- </rdg> 
-                            <rdg wit="#MoogSeifert_2021">-- </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg> 
-                            <rdg wit="#Perrault_1697">-- </rdg> 
-                            <rdg wit="#Samber_1729">-- </rdg> 
-                            <rdg wit="#Samber_1741">-- </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Planché_1858">-- </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">-- </rdg> 
-                            <rdg wit="#Brereton_1957">-- </rdg> 
-                            <rdg wit="#Zipes_1989">-- </rdg> 
-                            <rdg wit="#Philip_1993">-- </rdg> 
-                            <rdg wit="#Appelbaum_2002">-- </rdg> 
-                            <rdg wit="#Jones_2016">-- </rdg> 
-                            <rdg wit="#Tatar_2017">-- </rdg> 
-                            <rdg wit="#MoogSeifert_2021">-- </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg> 
-                            <rdg wit="#Perrault_1697">-- </rdg> 
-                            <rdg wit="#Samber_1729">-- </rdg> 
-                            <rdg wit="#Samber_1741">-- </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Planché_1858">-- </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">-- </rdg> 
-                            <rdg wit="#Brereton_1957">-- </rdg> 
-                            <rdg wit="#Zipes_1989">-- </rdg> 
-                            <rdg wit="#Philip_1993">-- </rdg> 
-                            <rdg wit="#Appelbaum_2002">-- </rdg> 
-                            <rdg wit="#Jones_2016">-- </rdg> 
-                            <rdg wit="#Tatar_2017">-- </rdg> 
-                            <rdg wit="#MoogSeifert_2021">-- </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg> 
-                            <rdg wit="#Perrault_1697">-- </rdg> 
-                            <rdg wit="#Samber_1729">-- </rdg> 
-                            <rdg wit="#Samber_1741">-- </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Planché_1858">-- </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">-- </rdg> 
-                            <rdg wit="#Brereton_1957">-- </rdg> 
-                            <rdg wit="#Zipes_1989">-- </rdg> 
-                            <rdg wit="#Philip_1993">-- </rdg> 
-                            <rdg wit="#Appelbaum_2002">-- </rdg> 
-                            <rdg wit="#Jones_2016">-- </rdg> 
-                            <rdg wit="#Tatar_2017">-- </rdg> 
-                            <rdg wit="#MoogSeifert_2021">-- </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg> 
-                            <rdg wit="#Perrault_1697">-- </rdg> 
-                            <rdg wit="#Samber_1729">-- </rdg> 
-                            <rdg wit="#Samber_1741">-- </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Planché_1858">-- </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">-- </rdg> 
-                            <rdg wit="#Brereton_1957">-- </rdg> 
-                            <rdg wit="#Zipes_1989">-- </rdg> 
-                            <rdg wit="#Philip_1993">-- </rdg> 
-                            <rdg wit="#Appelbaum_2002">-- </rdg> 
-                            <rdg wit="#Jones_2016">-- </rdg> 
-                            <rdg wit="#Tatar_2017">-- </rdg> 
-                            <rdg wit="#MoogSeifert_2021">-- </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg> 
-                            <rdg wit="#Perrault_1697">-- </rdg> 
-                            <rdg wit="#Samber_1729">-- </rdg> 
-                            <rdg wit="#Samber_1741">-- </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Planché_1858">-- </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">-- </rdg> 
-                            <rdg wit="#Brereton_1957">-- </rdg> 
-                            <rdg wit="#Zipes_1989">-- </rdg> 
-                            <rdg wit="#Philip_1993">-- </rdg> 
-                            <rdg wit="#Appelbaum_2002">-- </rdg> 
-                            <rdg wit="#Jones_2016">-- </rdg> 
-                            <rdg wit="#Tatar_2017">-- </rdg> 
-                            <rdg wit="#MoogSeifert_2021">-- </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg> 
-                            <rdg wit="#Perrault_1697">-- </rdg> 
-                            <rdg wit="#Samber_1729">-- </rdg> 
-                            <rdg wit="#Samber_1741">-- </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Planché_1858">-- </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">-- </rdg> 
-                            <rdg wit="#Brereton_1957">-- </rdg> 
-                            <rdg wit="#Zipes_1989">-- </rdg> 
-                            <rdg wit="#Philip_1993">-- </rdg> 
-                            <rdg wit="#Appelbaum_2002">-- </rdg> 
-                            <rdg wit="#Jones_2016">-- </rdg> 
-                            <rdg wit="#Tatar_2017">-- </rdg> 
-                            <rdg wit="#MoogSeifert_2021">-- </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg> 
-                            <rdg wit="#Perrault_1697">-- </rdg> 
-                            <rdg wit="#Samber_1729">-- </rdg> 
-                            <rdg wit="#Samber_1741">-- </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Planché_1858">-- </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">-- </rdg> 
-                            <rdg wit="#Brereton_1957">-- </rdg> 
-                            <rdg wit="#Zipes_1989">-- </rdg> 
-                            <rdg wit="#Philip_1993">-- </rdg> 
-                            <rdg wit="#Appelbaum_2002">-- </rdg> 
-                            <rdg wit="#Jones_2016">-- </rdg> 
-                            <rdg wit="#Tatar_2017">-- </rdg> 
-                            <rdg wit="#MoogSeifert_2021">-- </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg> 
-                            <rdg wit="#Perrault_1697">-- </rdg> 
-                            <rdg wit="#Samber_1729">-- </rdg> 
-                            <rdg wit="#Samber_1741">-- </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Planché_1858">-- </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">-- </rdg> 
-                            <rdg wit="#Brereton_1957">-- </rdg> 
-                            <rdg wit="#Zipes_1989">-- </rdg> 
-                            <rdg wit="#Philip_1993">-- </rdg> 
-                            <rdg wit="#Appelbaum_2002">-- </rdg> 
-                            <rdg wit="#Jones_2016">-- </rdg> 
-                            <rdg wit="#Tatar_2017">-- </rdg> 
-                            <rdg wit="#MoogSeifert_2021">-- </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg> 
-                            <rdg wit="#Perrault_1697">-- </rdg> 
-                            <rdg wit="#Samber_1729">-- </rdg> 
-                            <rdg wit="#Samber_1741">-- </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Planché_1858">-- </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">-- </rdg> 
-                            <rdg wit="#Brereton_1957">-- </rdg> 
-                            <rdg wit="#Zipes_1989">-- </rdg> 
-                            <rdg wit="#Philip_1993">-- </rdg> 
-                            <rdg wit="#Appelbaum_2002">-- </rdg> 
-                            <rdg wit="#Jones_2016">-- </rdg> 
-                            <rdg wit="#Tatar_2017">-- </rdg> 
-                            <rdg wit="#MoogSeifert_2021">-- </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg> 
-                            <rdg wit="#Perrault_1697">-- </rdg> 
-                            <rdg wit="#Samber_1729">-- </rdg> 
-                            <rdg wit="#Samber_1741">-- </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Planché_1858">-- </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">-- </rdg> 
-                            <rdg wit="#Brereton_1957">-- </rdg> 
-                            <rdg wit="#Zipes_1989">-- </rdg> 
-                            <rdg wit="#Philip_1993">-- </rdg> 
-                            <rdg wit="#Appelbaum_2002">-- </rdg> 
-                            <rdg wit="#Jones_2016">-- </rdg> 
-                            <rdg wit="#Tatar_2017">-- </rdg> 
-                            <rdg wit="#MoogSeifert_2021">-- </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg> 
-                            <rdg wit="#Perrault_1697">-- </rdg> 
-                            <rdg wit="#Samber_1729">-- </rdg> 
-                            <rdg wit="#Samber_1741">-- </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Planché_1858">-- </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">-- </rdg> 
-                            <rdg wit="#Brereton_1957">-- </rdg> 
-                            <rdg wit="#Zipes_1989">-- </rdg> 
-                            <rdg wit="#Philip_1993">-- </rdg> 
-                            <rdg wit="#Appelbaum_2002">-- </rdg> 
-                            <rdg wit="#Jones_2016">-- </rdg> 
-                            <rdg wit="#Tatar_2017">-- </rdg> 
-                            <rdg wit="#MoogSeifert_2021">-- </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg> 
-                            <rdg wit="#Perrault_1697">-- </rdg> 
-                            <rdg wit="#Samber_1729">-- </rdg> 
-                            <rdg wit="#Samber_1741">-- </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Planché_1858">-- </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">-- </rdg> 
-                            <rdg wit="#Brereton_1957">-- </rdg> 
-                            <rdg wit="#Zipes_1989">-- </rdg> 
-                            <rdg wit="#Philip_1993">-- </rdg> 
-                            <rdg wit="#Appelbaum_2002">-- </rdg> 
-                            <rdg wit="#Jones_2016">-- </rdg> 
-                            <rdg wit="#Tatar_2017">-- </rdg> 
-                            <rdg wit="#MoogSeifert_2021">-- </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg> 
-                            <rdg wit="#Perrault_1697">-- </rdg> 
-                            <rdg wit="#Samber_1729">-- </rdg> 
-                            <rdg wit="#Samber_1741">-- </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Planché_1858">-- </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">-- </rdg> 
-                            <rdg wit="#Brereton_1957">-- </rdg> 
-                            <rdg wit="#Zipes_1989">-- </rdg> 
-                            <rdg wit="#Philip_1993">-- </rdg> 
-                            <rdg wit="#Appelbaum_2002">-- </rdg> 
-                            <rdg wit="#Jones_2016">-- </rdg> 
-                            <rdg wit="#Tatar_2017">-- </rdg> 
-                            <rdg wit="#MoogSeifert_2021">-- </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg> 
-                            <rdg wit="#Perrault_1697">-- </rdg> 
-                            <rdg wit="#Samber_1729">-- </rdg> 
-                            <rdg wit="#Samber_1741">-- </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Planché_1858">-- </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">-- </rdg> 
-                            <rdg wit="#Brereton_1957">-- </rdg> 
-                            <rdg wit="#Zipes_1989">-- </rdg> 
-                            <rdg wit="#Philip_1993">-- </rdg> 
-                            <rdg wit="#Appelbaum_2002">-- </rdg> 
-                            <rdg wit="#Jones_2016">-- </rdg> 
-                            <rdg wit="#Tatar_2017">-- </rdg> 
-                            <rdg wit="#MoogSeifert_2021">-- </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg> 
-                            <rdg wit="#Perrault_1697">-- </rdg> 
-                            <rdg wit="#Samber_1729">-- </rdg> 
-                            <rdg wit="#Samber_1741">-- </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Planché_1858">-- </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">-- </rdg> 
-                            <rdg wit="#Brereton_1957">-- </rdg> 
-                            <rdg wit="#Zipes_1989">-- </rdg> 
-                            <rdg wit="#Philip_1993">-- </rdg> 
-                            <rdg wit="#Appelbaum_2002">-- </rdg> 
-                            <rdg wit="#Jones_2016">-- </rdg> 
-                            <rdg wit="#Tatar_2017">-- </rdg> 
-                            <rdg wit="#MoogSeifert_2021">-- </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg> 
-                            <rdg wit="#Perrault_1697">-- </rdg> 
-                            <rdg wit="#Samber_1729">-- </rdg> 
-                            <rdg wit="#Samber_1741">-- </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Planché_1858">-- </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">-- </rdg> 
-                            <rdg wit="#Brereton_1957">-- </rdg> 
-                            <rdg wit="#Zipes_1989">-- </rdg> 
-                            <rdg wit="#Philip_1993">-- </rdg> 
-                            <rdg wit="#Appelbaum_2002">-- </rdg> 
-                            <rdg wit="#Jones_2016">-- </rdg> 
-                            <rdg wit="#Tatar_2017">-- </rdg> 
-                            <rdg wit="#MoogSeifert_2021">-- </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg> 
-                            <rdg wit="#Perrault_1697">-- </rdg> 
-                            <rdg wit="#Samber_1729">-- </rdg> 
-                            <rdg wit="#Samber_1741">-- </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Planché_1858">-- </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">-- </rdg> 
-                            <rdg wit="#Brereton_1957">-- </rdg> 
-                            <rdg wit="#Zipes_1989">-- </rdg> 
-                            <rdg wit="#Philip_1993">-- </rdg> 
-                            <rdg wit="#Appelbaum_2002">-- </rdg> 
-                            <rdg wit="#Jones_2016">-- </rdg> 
-                            <rdg wit="#Tatar_2017">-- </rdg> 
-                            <rdg wit="#MoogSeifert_2021">-- </rdg> 
-
-                        </app></l>
-                    <l><app>
-                            <rdg wit="#Perrault_1695">-- </rdg> 
-                            <rdg wit="#Perrault_1697">-- </rdg> 
-                            <rdg wit="#Samber_1729">-- </rdg> 
-                            <rdg wit="#Samber_1741">-- </rdg> 
-                            <rdg wit="#Neaulme_1745">-- </rdg> 
-                            <rdg wit="#Planché_1858">-- </rdg> 
-                            <rdg wit="#Lang_1889">-- </rdg> 
-                            <rdg wit="#Welsh_1901">-- </rdg> 
-                            <rdg wit="#Johnson_1921">-- </rdg> 
-                            <rdg wit="#Mansion_1922">-- </rdg> 
-                            <rdg wit="#Brereton_1957">-- </rdg> 
-                            <rdg wit="#Zipes_1989">-- </rdg> 
-                            <rdg wit="#Philip_1993">-- </rdg> 
-                            <rdg wit="#Appelbaum_2002">-- </rdg> 
-                            <rdg wit="#Jones_2016">-- </rdg> 
-                            <rdg wit="#Tatar_2017">-- </rdg> 
-                            <rdg wit="#MoogSeifert_2021">-- </rdg> 
-                        </app></l>
-                </lg>
             </div>
         </body>
     </text>
