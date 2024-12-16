@@ -1,0 +1,1794 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Encodage du journal de voyage de Louis François Gourreau</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority><lang xml:id="fr">Université Bretagne Sud</lang>
+                    <lang xml:id="eng">University of South Brittany</lang>
+                </authority>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl><title> </title>
+                    <author><persName>
+                            <forename>Louis François</forename>
+                            <surname>Gourreau</surname>
+                            <roleName>Seigneur de la Proustière et du Boisgillon</roleName>
+                        </persName></author>
+                    <date>1660-1661</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+<encodingDesc>
+            <projectDesc>
+                <p>Le texte du journal de voyage de Gourreau a été encodé ici afin de pouvoir
+                    assurer un travail d'édition numérique, au-delà du projet initial pour une
+                    édition papier tout public. Le code présenté ici sera utilisé et modifié par les
+                    étudiant·e·s des années suivantes afin de créer une éditions numérique, qu'elle
+                    soit présentée sous la forme d'un site web interactif ou d'un e-book, ou d'un autre
+                    type de support ou d'interface numérique.</p>
+            </projectDesc>
+            <editorialDecl>
+                <normalization>
+                    <p>Le texte présenté dans cette version du fichier de travail conserve les
+                        graphies présentées dans le manuscrit original.</p>
+                    <p>Il est cependant possible d'ajouter la modernisation du texte si les
+                        étudiant·e·s des prochaines promotions le veulent. Dans ce cas,
+                        l'intégration de cette modernisation pourra se faire selon un alignement des
+                        textes en français du XVIIe siècle et en français moderne (avec une balises
+                        p et un attribut xml:id pour un paragraphe dans une version du texte,
+                        identifiant qui sera rappelé dans l'attribut corresp de l'élément p du
+                        paragraphe correspondant dans l'autre version) ; ou à l'aide d'un balisage
+                        de variantes avec une balise choice ayant comme enfants les balises orig
+                        (pour le texte en français du XVIIe siècle) et reg (pour la
+                        modernisation).</p>
+                </normalization>
+                <punctuation>
+                    <p>La ponctuation du manuscrit original est conservée dans cette version du
+                        fichier TEI.</p>
+                    <p>Voir le deuxième paragraphe de la balise normalization pour plus
+                        d'informations sur la modernisation du texte en général, sachant que la
+                        ponctuation suit le même balisage utilisé pour la modernisation de mots et
+                        pour l'alignement de textes.</p>
+                </punctuation>
+                <segmentation>
+                    <p>Nous divisons ici le texte en quatre grandes parties :</p>
+                    <p>Le div1 représente le manuscrit lui-même, en entier.</p>
+                    <p>Les div2 représentent les différentes sous-parties, dont les "routes de
+                        [ville A] à [ville B]", ainsi que les dernières sous-parties contenant les
+                        illustrations peintes à la main, le récapitulatif des distances parcourues
+                        entre les routes et les gravures de portraits.</p>
+                    <p>Les div3 représentent les différentes entrées du journal. Autrement dit,
+                        chaque journée est consignée dans un élément div3.</p>
+                    <p>Les éléments div3 ont des paragraphes représentés par des éléments p, qui
+                        contiennent le contenu plus concret du journal, en dehors de la date de
+                        l'entrée de journal, qui sera encodée dans un élément head contenant un
+                        élément date.Pour rappel, l'élément date compte un attribut when présentant
+                        la date de l'entrée, qui est suit le format AAAA-MM-JJ.</p>
+                    <p>Pour cette étape du projet, nous n'avons pas encodé les changements de pages,
+                        du fait que notre analyse se centrait davantage sur le contenu du texte que
+                        sur le manuscrit comme objet.</p>
+                    <p>Pour le moment, nous n'avons pas encodé de front ou de back pour les pages de
+                        paratextes (préface pour l'élément front, et postface pour l'élément back).
+                        Ansi, nous hésitons à intégrer les illustrations à la main et les gravures
+                        de portraits d'électeurs dans des div2 (qui sont déjà dédiés aux routes
+                        empruntées par Gourreau durant son voyage) ou dans un élément back.</p>
+                    <p>Le présent fichier contient l'encodage des entrées du journal de Gourreau
+                        quand il passe par Vienne en juin 1661, et par Francfort en août de la même
+                        année. Ainsi, l'encodage n'est pas encore complet, et nécessitera des
+                        modifications et nouvelles balises que les prochain·e·s encodeureuses
+                        pourront ajouter selon les besoins du projet d'édition numérique, qu'iels
+                        définiront plus en détail dans les années à venir.</p>
+                    <p>Par exemple, nous souhaitions intégrer des balises person, accompagnées des
+                        balises persName et occupation, qui auraient permis de créer un index des
+                        titres nobiliaires ou des personnes mentionnées dans le texte, mais nous
+                        avons manqué de temps pour réaliser ce codage. Pour l'instant, nous avons
+                        ajouté un persName autour du nom de M. de Souches, personne accompagnant
+                        Gourreau lors de son exploration dans la ville de Vienne et ses environs.
+                        C'est pour ce même style d'index que nous avons commencé à baliser les noms de
+                        lieux avec des placeName.</p>
+                    <p>Enfin, nous avons aussi travaillé sur les différents types de ratures
+                        (lisibles et illisibles, avec ou sans mots de remplacement notés au-dessus
+                        de la rature), de mots à la transcription incertaine (une ou plusieurs
+                        possibilités de transcription/lecture du mot), et d'abréviations (notées
+                        dans les balises abbr, et accompagnées de balises expan pour indiquer le mot
+                        complet sous-entendu dans l'abréviation).Pour plus de détails, se référer à
+                        la section TEI du document de synthèse de l'année 2024-2025, sur le Google
+                        Drive du projet.</p>
+                </segmentation>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <list>
+                <item><date when="2024-11-17"/>Ajout de la partie transcrite par Mélissa (contenu
+                    des IMG 805 à 813), avec des balises de structuration de base (différents div,
+                    head et p) et des détails sur les notes marginales et les abréviations. Ajout de
+                    quelques éléments dans le sourceDesc, et ajout d'un revisionDesc.</item>
+                <item><date when="2024-11-18"/>Suite de l'encodage de Vienne (partie de Cléa)</item>
+<item><date when="2024-11-29"/>Début de l'encodage de la partie de Francfort (images
+                    845 à 850). Balisage de base (paragraphes, div2, div3). Ajout d'éléments
+                    placeNames pour les passages dans les images 805 à 813).</item>
+<item><date when="2024-12-01"/>Ajout d'un editorialDecl et ses enfants, ainsi que
+                    d'un projectDesc.</item>
+                <item><date when="2024-12-04"/>Régularisation du balisage pour les abréviations, les
+                    ratures et les mots ajoutés au-dessus des ratures. Encodage de quelques mots
+                    incertains (cf protocole TEI et/ou normes de transcription sur le Drive du
+                    projet).</item>
+                <item><date when="2024-12-06"/>Ajout des balises persName.</item>
+                <item><date when="2024-12-08"/>Ajout des attributs type pour les éléments
+                    placeName.</item>
+                <item><date when="2024-12-12"/>Ajouts dans le teiHeader, plus spécifiquement dans
+                    l'encodingDesc et le fileDesc.</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <div1>
+            <div2>
+                
+                    <head>Route De <placeName type="pays">Venize</placeName>
+                        A
+                        <placeName type="ville">Vienne</placeName> en <placeName type="pays">Austriche</placeName>
+                        Passant
+                        Par La <placeName type="region">marche Trevisane</placeName>
+                        <placeName type="fleuve">frioul</placeName>, <placeName type="region">Carinthie</placeName> et <placeName type="region">Styrie</placeName> 
+                        
+                    </head>   
+                    <div3>
+
+<!-- est-ce qu'on met des placeName même pour les quartiers ? -->
+
+                        <head><date when="1661-06-01">Mercredy 1. juin. 1661.</date></head>
+
+                        <p>Nous prismes a <placeName corresp="#Venise">venize</placeName> une gondole pour aller a mestre qui nen eſt
+                            esloigné que du 5.<choice>
+                                <abbr>m.</abbr>
+                                <expan>milles</expan>
+                            </choice> et ou
+                            nous monstasmes a cheval <placeName type="ville"><note place="margin">Trevise</note></placeName> nous allaſmes a <placeName type="ville">trevise</placeName>
+                            capitalle dela <placeName type="region">marche trevisane</placeName>, ville episcopalle et fortifiée, La
+                            rivierre de <placeName type="riviere">ſile</placeName> La traverse ; a 7.  <choice>
+                                <abbr>m.</abbr>
+                                <expan>milles</expan>
+                            </choice> de cette ville nous
+                            paſſasmes en bateau un fleuve nommé <placeName type="fleuve"><unclear reason="eccentric_ductus">
+                                    <interp cert="unknown">pinau</interp>
+                                </unclear></placeName> et fusmes <choice>
+                                <abbr>C.</abbr>
+                                <expan>coucher</expan>
+                            </choice> a
+                            <placeName type="village">conigliano</placeName> petit - <placeName type="village"><note place="margin">conigliano</note></placeName> village 15.<choice>
+                                <abbr>m.</abbr>
+                                <expan>milles</expan>
+                            </choice> pendant toute la
+                            journée nous coſtoyaſmes a gauche les montagnes, mais a droite ce ſont
+                            plaineſ a perte de veue. 30.<choice>
+                                <abbr>m.</abbr>
+                                <expan>milles</expan>
+                            </choice></p>
+                    </div3>
+
+    
+                    <div3>
+                        <head><date when="1661-06-02">Jeudy 2. juin</date></head>
+                      
+                        <p>
+                            <placeName type="ville"><note place="margin">sicill</note></placeName> nous allaſmes <choice>
+                                <abbr>d.</abbr>
+                                <expan>diner</expan>
+                            </choice>a <placeName type="ville">Sicill</placeName> 10.<choice>
+                                <abbr>m.</abbr>
+                                <expan>milles</expan>
+                            </choice> et
+                            coucher a <placeName type="ville">Spilemberg</placeName> 14.<choice>
+                                <abbr>m.</abbr>
+                                <expan>milles</expan>
+                            </choice> qui est 
+                            une petite ville du <placeName type="region">frioul</placeName>; lon coſtoye
+                            <placeName type="ville"><note place="margin">spilemberg</note></placeName>toujours les montagnes et 2.<choice>
+                                <abbr>m.</abbr>
+                                <expan>milles</expan>
+                            </choice> par-
+                            dela <placeName type="ville">sicill</placeName> lon este dans le <placeName type="region">frioul</placeName>;
+                            a 6. <choice>
+                                <abbr>m.</abbr>
+                                <expan>milles</expan>
+                            </choice> de <placeName type="ville">conigliano</placeName> lon paſſe le 
+                            <placeName type="riviere"><unclear reason="eccentric_ductus">
+                                    <interp cert="unknown">mesco</interp>
+                                    <interp cert="unknown">meses</interp>
+                                </unclear></placeName> petit fleuve et a <placeName type="ville">Sicill</placeName> <placeName type="riviere">La Liv=
+                                enza</placeName> autre petit ruisseau 24.<choice>
+                                <abbr>m.</abbr>
+                                <expan>milles</expan>
+                            </choice>                            
+                       </p>                        
+                    </div3>
+                    
+                    <div3>
+                        <head><date when="1661-06-03">Vendredy 3 juin </date></head>
+                        
+                        <p>
+                            
+                            Les pluyes nous incommoderent fort
+                            pendant cette journée, nous paſſaſmes 
+                            a 5.<choice>
+                                <abbr>m.</abbr>
+                                <expan>milles</expan>
+                            </choice> de <placeName type="ville">Spilemberg</placeName> <placeName type="fleuve">le taiamento</placeName>
+                            <note place="margin">st thomas</note>en barque et a La ſortie du dit torrent
+                            nous entraſmes dans les collines -
+                            voisines des hautes montagnes que
+                            nous trouvaſmes a 4.<choice>
+                                <abbr>m.</abbr>
+                                <expan>milles</expan>
+                            </choice> au dela; nous 
+                            allasmes <choice>
+                                <abbr>d.</abbr>
+                                <expan>diner</expan>
+                            </choice> a <placeName type="village">st thomas</placeName> village du 
+                            <placeName type="region">frioul</placeName> peu considerable et distant de 
+                            <placeName><note place="margin"><unclear reason="eccentric_ductus">Raziuta</unclear></note></placeName>9.<choice>
+                                <abbr>m.</abbr>
+                                <expan>milles</expan>
+                            </choice> du lieu ou nouſ avions couché 
+                            a 7.<choice>
+                                <abbr>m.</abbr>
+                                <expan>milles</expan>
+                            </choice> de <placeName type="village">St thomas</placeName> nous entrasmes 
+                            dans les montagnes du <placeName type="region">frioul</placeName> et fusmes
+                            <choice>
+                                <abbr>C.</abbr>
+                                <expan>coucher</expan>
+                            </choice> a <placeName type="village"><unclear reason="eccentric_ductus">Raziuta</unclear></placeName> petit village situé entre 
+                            des precipices et torrents. 25.<choice>
+                                <abbr>m.</abbr>
+                                <expan>milles</expan>
+                            </choice>
+                        </p>
+                        
+                    </div3>
+                    
+                    <div3>
+                        <head><date when="1661-06-04">Samedy 4 juin</date></head>
+                        
+                        <p>a 6.<choice>
+                                <abbr>m.</abbr>
+                                <expan>milles</expan>
+                            </choice> du <placeName type="village">Raziuta</placeName> nous trouvasmeſ 
+                            <placeName type="village"><note place="margin">Clausen</note></placeName> 	La chiusa ou <placeName type="village">clauſen</placeName> village fortifié 
+                            puis a 4.<choice>
+                                <abbr>m.</abbr>
+                                <expan>milles</expan>
+                            </choice> plus avant <placeName type="ville">ponteba</placeName> ou 
+                            <placeName type="ville"><note place="margin">Ponteba</note></placeName>	ou <placeName type="ville">pontafel</placeName> bourg qui eſt separé en 
+                            2. parties par un torrents qui y paſſe
+                            et sur lequel ilya un pont basty de 
+                            pierreſ souſtenu par 4 arches ſur 
+                            lequel eſt une espece de pavillon
+                            de forme quarrée de la largeur de 
+                            6. ou <subst>
+                                <del rend="crossed-out" extent=""><unclear reason="illegible"
+                                    /></del>
+                                <add place="above"><unclear reason="eccentric_ductus"/><interp
+                                        cert="medium">7</interp>
+                                    <interp cert="medium">9</interp></add>
+                            </subst> paſ aux 2. portes ceſt ce qui
+                            fait la ſeparation des eſtats des 
+                            venitiens de ceux de Lempereur ou
+                            des Levesque de Bamberg ceſt la
+                            ou commence <placeName type="region">La carinthie</placeName> province
+                            <placeName type="pays">dallemagne</placeName> et ou finit le <placeName type="region">frioul</placeName> dun
+                            coſtés du village on parle encore Italien
+                            et de lautre port allemande de ce costé
+                            mesme on conte les cures du jour et 
+                            de la nuit a la françoise 
+                            
+                            <placeName type="ville"><note type="margial">malborghetto</note></placeName>	nous paſſasmes lapresdinée par
+                            <placeName type="ville">malborghetto</placeName> eloignée de 5.<choice>
+                                <abbr>m.</abbr>
+                                <expan>milles</expan>
+                            </choice> de
+                            <placeName type="ville">ponteba</placeName> ou nouſ devions disné, a 3.<choice>
+                                <abbr>m.</abbr>
+                                <expan>milles</expan>
+                            </choice>
+                            au dela nouſ trouvaſmes un village
+                            nommé <placeName type="village">ſabiniry</placeName> puis <placeName type="ville">treviso</placeName> minor
+                            a 2.<choice>
+                                <abbr>m.</abbr>
+                                <expan>milles</expan>
+                            </choice> et a 5. autres plus avant 
+                            <placeName type="ville"><note type="marginal"><unclear reason="eccentric_ductus"><interp cert="unknown">Ferle</interp></unclear></note></placeName>		la porta ou <placeName>ferle</placeName> lieu ou nous couchaſmeſ 
+                            nous coſtoyasmes le fleuve <placeName type="fleuve">fella </placeName>
+                            pendant 16. ou 17.<choice>
+                                <abbr>m.</abbr>
+                                <expan>milles</expan>
+                            </choice>
+                            <del rend="crossed-out" extent="1-word"><unclear reason="illegible"
+                                /></del> ; 4.<choice>
+                                <abbr>m.</abbr>
+                                <expan>milles</expan>
+                            </choice>
+                            <del rend="crossed-out" extent="1-word"><unclear reason="illegible"
+                                /></del> ſont ordinairement contés en ce pays
+                            pour une <choice>
+                                <abbr>L.</abbr>
+                                <expan>lieue</expan>
+                            </choice> <placeName type="pays">dallemagne</placeName> 
+                            
+                            R. <placeName type="region">La carinthi</placeName>e se divise ordinaire=
+                            ment en 4. partieſ 2. desquelles appar=
+                            tiennent a Lempereur, les 2. autres 
+                            une a Larchevesque de saltsbourg
+                            
+                            et Lautre a Levesque de bamberg 
+                            dont la ville episcopalle est esloignée
+                            de <placeName type="region">la carrinthie</placeName> de 80 <choice>
+                                <abbr>L.</abbr>
+                                <expan>lieues</expan>
+                            </choice> <placeName type="pays">dallemagne</placeName>
+                            et pluſ.
+                            a 2.<choice>
+                                <abbr>m.</abbr>
+                                <expan>milles</expan>
+                            </choice> pres de <placeName type="ville"><unclear reason="eccentric_ductus">
+                                <interp cert="unknown">ferle</interp></unclear></placeName> on voit sur la 
+                            <placeName type="ville"><note place="margin"><unclear
+                                        reason="eccentric_ductus">
+                                        <interp cert="unknown">Franbourg</interp>
+                                    </unclear></note></placeName> cime dune montagne La fortereſſe de 
+                            <placeName type="ville"><unclear reason="eccentric_ductus">
+                                    <interp cert="unknown">Franbourg</interp>
+                                </unclear></placeName>                                       
+                            24.<choice>
+                                <abbr>m.</abbr>
+                                <expan>milles</expan>
+                            </choice>                           
+                        </p>
+                    </div3>
+                    
+                    <div3>
+                        <head><date when="1661-06-05">Dimanche 5. juin. </date>La pentecoſte </head>
+                        
+                        <p>
+                            nous continuaſmes noſtre route danſ 
+                            les montagnes et apres avoir fait 3.
+                            <placeName type="ville"><note place="margin">Villack</note></placeName> <choice>
+                                <abbr>L.</abbr>
+                                <expan>lieues</expan>
+                            </choice> de chemin nouſ arrivaſmes a 
+                            <placeName type="ville">villack</placeName> belle ville capitalle dune
+                            partie de <placeName type="region">la carinthie</placeName> et bien fortifié. -
+                            Lon commence a voir en ce lieu leſ 
+                            differentes modes et les changements
+                            <unclear reason="eccentric_ductus">
+                                <interp cert="unknown">Rijurres</interp>
+                            </unclear> d’habillements que portent
+                            leſ allemands hômes et femmeſ.
+                            aſſez bien que le peu de rapport 
+                            entre les façon de faire et moeurs 
+                            des italiens et de cette <del rend="crossed-out">ſorte de</del> nation;
+                            les femmes portent une cotte a mi jambe
+                            un pourpoint, un manteau d homme <del rend="crossed-out">et</del>
+                            une fraise et un chapeau a grands
+                            bords ceſt la la manierre de ſe
+                            veſtir  la pluſ commune celleſ qui nont 
+                            aux enterrements <del rend="crossed-out" extent="1-word"><unclear
+                                    reason="illegible"/></del> ſont touteſ
+                            couverteſ de toile blanche ; nouſ d.
+                            en cette ville a la ſortie de laquelle
+                            les montagnes commencent un peu
+                            a ſabaisser et le chemin a ſeslargir 
+                            
+                            a 1. <choice>
+                                <abbr>L.</abbr>
+                                <expan>lieue</expan>
+                            </choice> de <placeName type="ville">villack</placeName> lon voit en beau
+                            <placeName type="chateau"><note place="margin">Landscron</note></placeName>	chaſteau situé sur le haut dun roc fort
+                            escarpé <del rend="crossed-out"
+                                >et</del> que lon nomme Landscron   
+                            au bas duquel commence le Lac
+                            <placeName type="lac">oſſiack</placeName> qui a une <choice>
+                                <abbr>L.</abbr>
+                                <expan>lieue</expan>
+                            </choice> de long et un mil 
+                            <placeName type="lac"><note place="margin">Lac ossiack</note></placeName>	ditalie de Large, vers le milieu dust 
+                            Lac lon peut voir de Lautre coſté du
+                            rivage un couvent de benedictins dont
+                            lesglise eſt belle dans laquelle est enterré
+                            un roy de pologne nommé boleslanſ   
+                            celuy qui tua St stanislas et qui vint
+                            apres le meurtre commis en ce lieu
+                            faire penitence le reſte de ſes jours
+                            
+                            <placeName type="ville"><note place="margin">feilkeirken</note></placeName>	Nous allaſmes <choice>
+                                <abbr>C.</abbr>
+                                <expan>coucher</expan>
+                            </choice> a <placeName type="ville">feilkerchen</placeName> bourg 
+                            6.<choice>
+                                <abbr>L.</abbr>
+                                <expan>lieues</expan>
+                            </choice>                            
+                      </p>
+                    </div3>
+                    
+                    <div3>
+                        <head><date when="1661-06-06">Lundy 6. juin</date></head>
+                        
+                        <p>
+                            Le chemin ſe reſſerra fort pendant
+                            <placeName type="ville"><note place="margin">st veits</note></placeName> cette matinée jusques a <placeName type="ville">st veits</placeName> petite
+                            ville ou nous disnaſmes a la ſortie
+                            de laquelle Les montagnes ſoupirent
+                            et forment dagreables vallees par leſ-
+                            quelles nous paſſasmes coſtoyant 
+                            ſouvent La riviere de <placeName type="riviere">gurk</placeName> laquelle
+                            nous <subst>
+                                <del rend="crossed-out" extent="1-word">paſſasmes</del>
+                                <add place="above">traversasmes</add>
+                            </subst> en moins dune <choice>
+                                <abbr>h.</abbr>
+                                <expan>heure</expan>
+                            </choice> trois
+                            fois sur de ponts de bois fait de
+                            gros baſtons ronds et fort fragileſ
+                            <placeName type="ville"><note place="margin">hirt</note></placeName>		  	nous allaſmes <choice>
+                                <abbr>C.</abbr>
+                                <expan>coucher</expan>
+                            </choice> a <placeName type="ville">hirt</placeName> petit bourg
+                            <unclear
+                                reason="eccentric_ductus">
+                                <interp cert="unknown">R.</interp>
+                            </unclear> toute <placeName type="region">la carinthie</placeName> eſt remplie
+                            de foreſts de ſapins et pins dont lon
+                            voit toutes leſ montagnes couverteſ
+                            G.L.                                                                                    
+                        </p>
+                    </div3>
+                    
+                    <div3>
+                        <head><date when="1661-06-07">Mardy 7. juin </date></head>
+                        
+                        <p>
+                            a La ſortie de hirt les montagnes
+                            <placeName type="ville"><note place="margin">friesack</note></placeName>		  ſe reſſerrent fort et ſe rouvrent peu 
+                            après a <placeName type="ville">friesack</placeName> 1 <choice>
+                                <abbr>l.</abbr>
+                                <expan>lieue</expan>
+                            </choice> petite ville apparte-
+                            nant a Larchevesque de faltsbourg
+                            qui eſt defendüe dun chaſteau fortifié
+                            et qui La commande entierement eſtant 
+                            situé sur une eminence qui predomine
+                            a La ville, a un quart de <choice>
+                                <abbr>L.</abbr>
+                                <expan>lieue</expan>
+                            </choice> de cette 
+                            ville finit <placeName type="region">la carinthie</placeName> et commence 
+                            La <placeName type="region">ſtyrie</placeName> province en titre darchiduché 
+                            appartenante a Lempereur 
+                            
+                            <placeName type="ville"><note place="margin">neumark</note></placeName>		Nous allaſmes <choice>
+                                <abbr>d.</abbr>
+                                <expan>diner</expan>
+                            </choice>  a <placeName type="ville">neumark</placeName> a 2.<choice>
+                                <abbr>L.</abbr>
+                                <expan>lieues</expan>
+                            </choice>
+                            de ce bourg Lon trouve <placeName type="fleuve">le mura</placeName>
+                            <placeName type="fleuve"><note place="margin">le fleu. mura</note></placeName>		fleuve considerable qui vient des 
+                            montagnes <unclear reason="eccentric_ductus">
+                                <interp cert="unknown">deurs Saltzbourg</interp>
+                            </unclear> traverſe
+                            La <placeName type="region">ſtirie</placeName> puis va ſe jeter dans le drave
+                            ſur les confins de la <placeName type="pays">hongrie</placeName> nouſ
+                            Le coſtoyasmes pendant une  <unclear extent="1-word">m<unclear reason="illegible"
+                                /></unclear> peu
+                            <placeName type="village"><note place="margin">undsmark</note></placeName>		de temps apres nous trouvaſmes <placeName type="village">undsmark</placeName> 
+                            village ou nous <choice>
+                                <abbr>C.</abbr>
+                                <expan>couchâmes</expan>
+                            </choice> cet endroit eſt fort 
+                            <unclear reason="illegible" extent="1-word"/> des montagneſ ny ayant que 
+                            La place du <unclear reason="eccentric_ductus">
+                                <interp cert="unknown">hi</interp>
+                            </unclear> et du fleuve et quelques
+                            maisonſ 				G.L.
+                        </p>
+                    </div3>
+                    
+                    <div3>
+                        <head><date when="1661-06-08">Mercredy 8. juin </date></head>
+                        
+                        <p>
+                            nous paſſasmes <placeName type="fleuve">le fleuve mura</placeName> et 
+                            apres 2.<choice>
+                                <abbr>L.</abbr>
+                                <expan>lieues</expan>
+                            </choice> du chemin les montagneſ
+                            <placeName type="fleuve"><note place="margin">fleu. peite</note></placeName>		 ſeslargiſſant nous entraſmes dans une
+                            tres belle plaine arrousee du <unclear reason="eccentric_ductus">
+                                <interp cert="unknown">peite</interp>
+                            </unclear> au 
+                            <placeName type="ville"><note place="margin">enitelfeldt</note></placeName>	  bout de laquelle on trouve <placeName type="ville">enitelfeldt</placeName> 
+                            petite ville ou nouſ disnaſmes distante
+                            de 4.<choice>
+                                <abbr>L.</abbr>
+                                <expan>lieues</expan>
+                            </choice> de <placeName type="village">undsmark</placeName>, a la ſortie de 
+                            Laquelle leſ montagneſ ſe reſſerrent
+                            de nouveau et conduisent jusques a 
+                            <placeName type="ville" ><note place="margin">st michel</note></placeName>		<placeName type="ville">st michel</placeName> coſtoyant presque touſjours
+                            <placeName type="riviere">le mura</placeName> et le paſſant 2. ou 3. fois 
+                           <unclear
+                                reason="eccentric_ductus"><interp cert="unknown"
+                                >8</interp></unclear>.<choice>
+                                <abbr>L.</abbr>
+                                <expan>lieues</expan>
+                            </choice>
+                        </p>
+                    </div3>
+                    
+                    <div3>
+                        <head><date when="1661-06-09">Jeudy 9. juin</date></head>
+                        
+                        <p>
+                            nous allaſmes <choice>
+                                <abbr>d.</abbr>
+                                <expan>diner</expan>
+                            </choice> a <placeName type="ville">bruck</placeName> petite ville
+                            <placeName type="ville"><note place="margin">bruck</note></placeName>			avant que dy arriver nous paſſames 
+                            2. fois <placeName type="riviere">le mura</placeName> La 1ere fois un peu apres
+                            <placeName type="fleuve"><note place="margin">fleu. meirts</note></placeName>		<placeName type="ville">st michel</placeName> et La 2nd a <placeName type="ville">bruck</placeName> au ſortir
+                            de laquelle ville nous trouvaſmes le
+                            <placeName type="ville"><note place="margin">kienerg</note></placeName>		<placeName type="fleuve">fleuve meirts</placeName>, lequell nouſ ſuivismes 
+                            jusque a <placeName type="ville">kienberg</placeName> Lieu ou nous couchaſmeſ
+                            nous marchaſmes toujours entre de
+                            belles vallées bordés de collines toutes
+                            couvertes de sapinſ;
+                            a une demie <choice>
+                                <abbr>L.</abbr>
+                                <expan>lieue</expan>
+                            </choice> de <placeName type="ville">bruck</placeName> sur le bord
+                            de la meirts Lon paſſe par <placeName type="ville">kapfenberg </placeName>
+                            <placeName type="ville"><note place="margin">kapfenberg</note></placeName>		gros bourg commandé dune fortereſſe
+                            située ſur un haut 
+                            non loing de <placeName type="ville">bruck</placeName> ſe voit au pied
+                            dune colline un tres beau couvent de religieuſes 6.<choice>
+                                <abbr>L.</abbr>
+                                <expan>lieues</expan>
+                            </choice>                          
+                        </p>
+                    </div3>
+                    
+                    <div3>
+                        <head><date when="1661-06-10">Vendredy 10. juin</date></head>
+                        
+                        <p>
+                            <placeName type="ville"><note place="margin">morluschlad</note></placeName>	 	 nous allaſmes <choice>
+                                <abbr>d.</abbr>
+                                <expan>diner</expan>
+                            </choice> a <placeName type="ville">morzluschlad</placeName> petit
+                            bourg fermé de murailles esloigné dune
+                            <placeName type="ville"><note place="margin">spital</note></placeName>
+                            <choice>
+                                <abbr>L.</abbr>
+                                <expan>lieue</expan>
+                            </choice> de <placeName type="ville">spital</placeName> derniere place de la <placeName type="region">stirie </placeName>
+                            par laquelle nous paſſasmes au sortir
+                            de ce Lieu leſ montagnes ſe ferment
+                            entierement et il en faut monter une
+                            fort rude nommée <placeName type="col">ſmering</placeName> au haut
+                            de laquelle on trouve une petite plaine
+                            ou eſt une croix qui fait la separation
+                            de la <placeName type="region">stirie</placeName> d au ce <placeName type="pays">Lauſtriche</placeName> de
+                            ce Lieu lon peut jouyr de la plus belle
+                            vue du monde des courants a laiſe
+                            toutes ceſ belles et fertilles plaines
+                            dauſtriche au bas de cette montagne
+                            <placeName type="village"><note place="margin">schadrien</note></placeName>	 	 Lon passe par un village fort ſerré 
+                            entre des roches que lon nomme <placeName type="village">schadrien</placeName>
+                            1. Lieu <placeName type="pays">dauſtriche</placeName> eſloigné dune
+                            grande <choice>
+                                <abbr>L.</abbr>
+                                <expan>lieue</expan>
+                            </choice> de ſpital   
+                            
+                            a La ſortie de ce village Lon voit toutes
+                            les collines cultivés et couvertes de vignes
+                            <placeName type="ville"><note place="margin">glocknits</note></placeName>		accomodé a noſtre mode et apres une 
+                            <choice>
+                                <abbr>L.</abbr>
+                                <expan>lieue</expan>
+                            </choice> de chemin Lon trouve <placeName type="ville">glocknits</placeName> bourg 
+                            ou nous <choice>
+                                <abbr>C.</abbr>
+                                <expan>couchâmes</expan>
+                            </choice> et qui eſt des dependances dune
+                            abbaye de ſt benoiſt que lon voit
+                            ſiſe ſur une colline prés le dit bourg
+                            6.<choice>
+                                <abbr>L.</abbr>
+                                <expan>lieues</expan>
+                            </choice>
+                        </p>    
+                    </div3>
+                    
+                    <div3>
+                        <head><date when="1661-06-11">Samedy 11. juin </date></head>
+                        
+                        <p>
+                            Les collines disparaiſſent entierement 
+                            et laiſſent en Leur place des plaines
+                            dune eſtendue prodigieuſe et les plus
+                            <placeName type="ville"><note place="margin">neustad</note></placeName>		agreables du monde; lon Laiſſe a droite
+                            et a gauche quelques bois de sapins et
+                            nous en paſſasmes un prés de <placeName type="ville">neuſtad</placeName>  
+                            qui a prés dune <choice>
+                                <abbr>L.</abbr>
+                                <expan>lieue</expan>
+                            </choice> de largeur; nous <choice>
+                                <abbr>d.</abbr>
+                                <expan>dinâmes</expan>
+                            </choice>
+                            en cette ville belle et fortifiée et
+                            des plus conſiderables de toute <placeName type="pays">lauſtri-
+                                che</placeName> qui ſouſtint <unclear
+                                reason="eccentric_ductus">
+                                <interp cert="medium">genereuſement</interp>
+                            </unclear> le
+                            ſiege contre larmée que ſolymon 
+                            commendait en personne; ceſt un 
+                            evesché; dans son esgliſe cathedralle
+                            qui eſt belle et ornée de quantité
+                            de banniereſ ainsy que dans toutes 
+                            leſ esgliſe dallemagne Lon voit la
+                            ſepulture de 2. enfans dun empereur
+                            dont nous ne pusmes jamais ſcavoir
+                            Le nom
+                            
+                            a La sortie de cette ville les chemins
+                            ſe ſepare en 2. Lun des quels conduit
+                            a pres bourg en <placeName type="pays">hongrie</placeName> et lautre
+                            a <placeName type="ville">vienne</placeName>; nous fismes 3. <choice>
+                                <abbr>l.</abbr>
+                                <expan>lieues</expan>
+                            </choice> cette 
+                            apres dinée et nous allaſmes <choice>
+                                <abbr>C.</abbr>
+                                <expan>coucher</expan>
+                            </choice> a
+                            <placeName type="ville"><note place="margin">draskeirken</note></placeName>		<placeName type="ville">draskeirken</placeName> petit bourg, environ
+                            une <choice>
+                                <abbr>L.</abbr>
+                                <expan>lieue</expan>
+                            </choice> avant que dy arriver on decou-
+                            vre le haut clocher de <placeName type="ville">vienne</placeName>
+                            7.<choice>
+                                <abbr>L.</abbr>
+                                <expan>lieues</expan>
+                            </choice>                                                        
+                        </p>
+                    </div3>
+                    
+                    <div3>
+                        <head><date when="1661-06-12">Dimanche 12. juin. La trinité</date></head>
+
+                        <p> Apres avoir entendu la messe a <placeName type="ville">draskeirken</placeName> nous
+                            partismes pour aller <choice>
+                                <abbr>d.</abbr>
+                                <expan>diner</expan>
+                            </choice> a
+                                <placeName type="ville">vienne</placeName> qui nen est esloigné que de
+                                    4.<choice>
+                                <abbr>L.</abbr>
+                                <expan>lieues</expan>
+                            </choice> pendant cette
+                            petite route La messe eſt <unclear
+                                reason="eccentric_ductus">
+                                <interp cert="unknown">divertie</interp>
+                            </unclear> par mils beaux objects, jentends
+                            par un nombre infiny de villages et bourgs que lon voit de toutes part
+                            ou proches ou en esloignement par les plus belles campagnes du monde qui
+                            ne ſont pas desgarnieſ de petites collines couvertes de bois en quelques
+                            endroits pour charme d advantage La personne qui leſ contemple Nous
+                            arrivaſmes a <placeName type="ville">vienne</placeName> ſur les 11. <choice>
+                                <abbr>h.</abbr>
+                                <expan>heures</expan>
+                            </choice> du matin <note
+                                place="margin"><placeName type="ville">Vienne</placeName></note>
+                            <placeName type="ville">Vienne</placeName> capitalle de
+                                <placeName type="pays">Laustriche</placeName> et ville episcopalle eſt ſitué ſur
+                            un des braſ du <placeName type="fleuve">danude</placeName> dans le plus beau pays du
+                            monde, elle eſt petite mais bien baſtie et fort peuplée, ses
+                            fortifications ſont <subst>
+                                <del rend="crossed-out">fort</del>
+                                <add place="above">tres</add>
+                            </subst> condiderables et furent a les prenne deſ
+                            forces ottomaneſ en Lan 1429, La grande vaillance des chreſtiens jointes
+                            aux force de ſes murs et remparts fuſt cause que ſolyman levaſt le ſiege
+                            quil y avait mis a pres avoir un mois et pluſ attaquée cette forte
+                            place. Lesglise cathedralle dite de ſt estienne eſt grande et dune aſſez
+                            belle architecture Le tabernacle du maistre au tel eſt petit mais fort
+                            riche ; dans une chappelle a main droitte en entrant se voit la
+                            sepulture dun archiduc du mesme coſté eſt une tribune fort dorée ou ſe
+                            met Lempereur Lors quil va dans cette esglise ce qui anime ſouvent Le
+                            clocher de cette mesme esglise eſt eſtime un des plus beaux de toute
+                            lalle- magne, au plus haut de la pointe lon voit un croiſſant au lieu de
+                            croix que <del
+                                rend="crossed-out" extent="1-word"><unclear reason="illegible"
+                                /></del>
+                            <choice>
+                                <abbr>lemp.</abbr>
+                                <expan>l'empereur</expan>
+                            </choice> contraint par ſolyman fit mettre et
+                            a laiſſé d depuis. Le cimetierre qui eſt autour de lesglise eſt fort
+                            orné de croix de fer dorés que cha- que personne fait mettre ſur la
+                            foſſe de ſeſ parents Lorsquils y ſont enterrés cela eſt en usage par
+                            toute Lallemagne </p>
+                    </div3>
+
+                    <div3>
+                        <head><date when="1661-06-13">Lundy 13. juin </date></head>
+                        <p> Nous vismes plusieurs esglises entreſ autres celles des jesuisteſ mais
+                            touteſ rapprochent pas en beauté de celles
+                                d<placeName type="pays">italie</placeName> nouſ passasmes par le foire qui se
+                            faisait dans La grande place Ily avait pluſieurs jours quelle eſtait
+                            commencé et devait finir le jour ſuivant </p>
+                    </div3>
+                    <div3>
+                        <head><date when="1661-06-14">Mardy 14. juin</date></head>
+                        <p> Nous allaſmes ce matin visiter <choice>
+                                <abbr>mr.</abbr>
+                                <expan>monsieur</expan>
+                            </choice> de souches <choice>
+                                <abbr>gnal.</abbr>
+                                <expan>général</expan>
+                            </choice> de
+                            lartillerie et le seul francais qui <unclear
+                                reason="eccentric_ductus">
+                                <interp cert="unknown">ſoit</interp>
+                                <del rend="crossed_out" extent="1-word">fut</del></unclear> en recommandation danſ La
+                            cour de <choice>
+                                <abbr>Lemp.</abbr>
+                                <expan>L'empereur</expan>
+                            </choice> nouſ ne le rencontraſmes pas en ſon logis mais
+                            a la favorite maison de plaisance de Limperatrice aux portes de
+                                <placeName type="ville">vienne</placeName>, il nouſ fit milleſ amitiés et nous
+                            obligea de monter en carroſſe avec luy pour aller a
+                                <placeName type="propriete">Laxam-bourg</placeName>
+                            <placeName type="propriete"><note place="margin">Laxambourg</note></placeName> maison de
+                            campagne ou va ſouvent <choice>
+                                <abbr>Lemp.</abbr>
+                                <expan>L'empereur</expan>
+                            </choice> a 2.<choice>
+                                <abbr>L.</abbr>
+                                <expan>lieues</expan>
+                            </choice> de <placeName type="ville">vienne</placeName> et ou
+                            toute la cour devait ſe trouver <del rend="crossed-out" extent="1-word"><unclear
+                                    reason="illegible"/></del> pour jouer des divertiſſements
+                            que donnait Larchiduc en Lhonneur du jour de la naiſſance de <choice>
+                                <abbr>Lemp.</abbr>
+                                <expan>L'empereur</expan>
+                            </choice> nous y arrivaſmes ſur les dix h. du matin et come lon devait
+                            repreſenter une belle comedie en muſique dans le parc ſous des arbreſ
+                            <choice>
+                                <abbr>Lemp.</abbr>
+                                <expan>L'empereur</expan>
+                            </choice> disna de bonne heure, nous le vismes a table avec
+                            Limperatrice Larchiduc car le ſon frere et Larchiduc Leopold son oncle
+                            La comedie commenca ſur les 2.<choice>
+                                <abbr>h.</abbr>
+                                <expan>heures</expan>
+                            </choice> apres midy toutes les dames de
+                            la cour sy trouverent fort adjustées et veſtueſ a Ladvantage ſans
+                            masque; elles ſont pour la plus part dune belle taille, ont toutes
+                            <del rend="crossed-out"
+                                extent="1-word"><unclear reason="illegible"/></del> le teint fort blanc, et leſ cheveux blonds les yeux du plus
+                            beau bleu du monde et La gorge a descourvet Leur veſtement est demy
+                            <unclear
+                                reason="eccentric_ductus">
+                                <interp cert="unknown">prahen</interp>
+                            </unclear> et demy françois; Les ambaſſadeurs eſtoit demise <choice>
+                                <abbr>lemp.</abbr>
+                                <expan>L'empereur</expan>
+                            </choice> qui avait a ſa gauche Limperatrice et a celle de Limperatrice
+                            eſtoit Larchiduc leopold, le palatin de <placeName type="pays">hongrie</placeName> y
+                            aſſistait avec plsueiurs autres comtes et grands ſeigneurs dudit pays
+                            Ily avait auſſy plusieurs dames hongroises de grande qualité toutes
+                            belle et bienfaites proprement adjustés mais dune manière aſſez bizarre
+                            ornées de force chaisnes dor, en lignes, et fils de perles. </p>
+                        <p>Les principaux ſeigneurs qui estaient lors a la cour furent le comte
+                            <unclear reason="eccentric_ductus">
+                                <interp cert="unknown">posnia</interp>
+                            </unclear> premier ministre Italien, le palatin de
+                                hongrie, Le vice palatin dudit pays, le
+                            chancelier de hongrie enseigne, le nonce du pape,
+                            L’ambaſadeur despagne sece nommé le comte de
+                                fuentes, <choice>
+                                <abbr>Lemp.</abbr>
+                                <expan>l'ambassadeur</expan>
+                            </choice> de <placeName type="ville">venise</placeName> le
+                            prince d<unclear reason="eccentric_ductus">
+                                    <interp cert="unknown">osborg</interp>
+                                </unclear> et plusieurs autres</p>
+                        <p> Il y eut quelques entrées de ballet entre les actes de la comedie et ſur
+                            la fin particulierement, larchiducale y parut et dansa fort bien, la
+                            comedie ne fust pas fort nouvelle puisque ce fut le paſtor fido elle
+                            finit ſur le 6a 7<choice>
+                                <abbr>h.</abbr>
+                                <expan>heures</expan>
+                            </choice> du soir, <choice>
+                                <abbr>mr</abbr>
+                                <expan>monsieur</expan>
+                            </choice> de ſouches nous favorisa de son caroſſe
+                            et nous reconduisit a vienne</p>
+                        <p> Les hongrois portent un habillement ſemblable a celuy des turcs et la
+                            teste raze ainsy <unclear reason="eccentric_ductus">
+                                <interp cert="unknown">queux</interp>
+                            </unclear> fors en houpet qu’ils laiſſent au sommet de la
+                            teste et quil tournent autour de leur oreille lors quil est un peu grand
+                        </p>
+                    </div3>
+                    <div3>
+                        <head><date when="1661-06-15">Mercredy 15 juin</date></head>
+                        <p>Nous visitaſmes ce jour la favorite <note place="margin">la
+                                favorite</note> maison de plaisance de Limperatrice au bout du
+                            fauxbourg que lon trouve ſortant par la porte de
+                                <placeName type="region">ſtirie</placeName>, la maison n en est pas magnifique, le
+                            jardin mesme nest pas <del rend="crossed-out" extent="1-word">bien</del> grand mais aſſez propre et bien entretenu;
+                            ſur un haut Lon trouve un grand canal <unclear reason="illegible"/> reveſtu de pierre a hauteur
+                            dappuy il est long de 100. paſ et large de 24 Limperatrice demeure en ce
+                            lieu une bonne partie de leſté ; ſur le soir toutes les dames de la cour
+                            et toutes les filles dhonneur de <choice>
+                                <abbr>Limp.</abbr>
+                                <expan>L’impératrice</expan>
+                            </choice> qui ſont seulement 13. y viennent gouſter
+                            le fait et sy promenent avec fort grande liberté <choice>
+                                        <abbr>limp.</abbr>
+                                        <expan>l’impératrice</expan>
+                                    </choice> mesme y vient ſouvent avec les 2 petites
+                            filles qui paraiſſent belles; des quatre enfans quelle a eu de <choice>
+                                        <abbr>lemp.</abbr>
+                                        <expan>l'empereur</expan>
+                                    </choice> deffunt et il ne luy reste que les 2.
+                            princeſſes</p>
+                    </div3>
+                    <div3>
+                        <head><date when="1661-06-16">Jeudy 16 juin feste de dieu</date></head>
+                        <p>Lon fit ce jour la proceſſion de la feste de dieu a laquelle aſſistent
+                            dabord tous les meſſires de la ville en corps avec Leurs bannieres et
+                            bandrolles qui ne ſont pas en petit nombre ensuite toutes les
+                            confreries,et couvents de religieux et moynes qui ſont dans la ville ;
+                            apres ſuivroint quantité de bourgois et ſeigneurs tant allemands que
+                            hongrois puis immediatement apres le ſacrement qui estait porté par
+                            Leveisque de la ville marchait <choice>
+                                        <abbr>lemp.</abbr>
+                                        <expan>l'empereur</expan>
+                                    </choice> precedé des 2. archiducs et suivy des
+                            principaux de la cour en grand nombre et proprement veſtus, laphes porte
+                            a la françoise , <choice>
+                                        <abbr>lemp.</abbr>
+                                        <expan>l'empereur</expan>
+                                    </choice> avait un habit noir destoffe de
+                                <placeName type="ville">venise</placeName> tout couvert et chamarré de guipure
+                            Lautre chauſſe fort estroit et presque a lespagnolle le pourpoint a
+                            brenles basques, le baſ de ſoge, plumes et garniture de couleur de
+                            cerise un grand rabat uny fort empesé, et lorre de la toison par deſſus
+                            ſon manteau, les rües par ou passait la proceſſion reſtait point
+                            tapissés come en <placeName type="pays">france</placeName> il y en a voit seulement
+                            quelques pieces aux endroits ou eſtait leſ exposans , tous les soldats
+                            des gardes etaient énorme dans les places et a toutes les avenues; et
+                            lon entendait de tous cotes que timbaleſ, trompetteſ, et une infinité
+                            dautres Instruments qui ne ſont paſ en usage en france </p>
+                        <p>La proceſſion marcha pendant cinq ou ſix <choice>
+                                        <abbr>h.</abbr>
+                                        <expan>heures</expan>
+                                    </choice>, les portes de la ville furent fermées j
+                            usque a midy; les femmeſ naſſistent point a cette proceſſion mais la
+                            voyait paſſer des fenestres qui etaient toutes orneſ de tapis. </p>
+                        <p>K. au ſortir de la porte de <placeName type="ville">vienne</placeName> du coſté du
+                            fleuve lon trouve un pont de bois lequel paſſé lon entre dans un faux
+                            bourg qui est le quartier des juifs.</p>
+                    </div3>
+                    <div3>
+                        <head><date when="1661-06-17">Vendredy 17 juin</date></head>
+                        <p>Nous visitaſmes ce jour les galleries de Larchiduc Leopold en la
+                            compagnie de <persName><choice>
+                                        <abbr>mr</abbr>
+                                        <expan>monsieur</expan>
+                                    </choice> Le <choice>
+                                        <abbr>gnat</abbr>
+                                        <expan>général</expan>
+                                    </choice> de fouches</persName>; elles ſont Remplies de tres
+                            belles peintures; une grande partie desquelleſ vient de
+                                <placeName type="region">flandre</placeName> Le reste qui eſt néanmoins en aſſez
+                            bon nombre vient des principaux maistres d<placeName type="pays">italie</placeName>
+                            comme du baſſan, du titien du tintoret, du paul veroneſe, du michel
+                            ange, des caracheſ, du corregge et autreſ.</p>
+                        <p>Dans Lune des ſales lon voit plusieurs curiosités et pieceſ antiques tres
+                            remarquableſ, entre lesquelles il ſe trouve plusieurs pieces dor et
+                            medailleſ hornees danſ La ſepulture de chilperic Lun des 1er rois de
+                                <placeName type="pays">france</placeName>, ce fut a la prise de la ville de
+                                <placeName type="ville">tournay</placeName> que ledit archiduc donna ceſ morceaux
+                            dor Les uns venants de lespée ou ils eſtoint attachés et leſ autreſ des
+                            ornements et joyaux attachés a ſes veſtements; Lanneau dor ſurtout qui
+                            eſtait a son doigt est a remarquer Il est fort grand et tres espais, lon
+                            voit deſſus ſa figure dudit roy avec ceſ mots autour Chilperici Regis. </p>
+                        <p>La bibliotheque que lon voit dans ce palais eſt tres curieuſe le nombre
+                            des livres ne la rend pas recommandable parce quelle neſt pas fort ample
+                            mais confont livres baseſ et choiſiſ </p>
+                        <p>Ce mesme jour nouſ allaſmes ſur le ſoir a la favorite qui nous vismes
+                            danſ le jardin Limperatrice avec ſes 2. filles et quantité d autreſ
+                            dames de la cour Lon nous fit remarquer dans un baſſin dudit jardin,
+                            quatorze poiſſons d une couleur dorée et dun tres grand prix La valeur
+                            dun chacun montant <del rend="crossed-out" extent="1-word">mon</del> a milles florins, <choice>
+                                        <abbr>Lemp.</abbr>
+                                        <expan>L'empereur</expan>
+                                    </choice> deſfunt en avait en quinze mais
+                            limperatrice a ſa derniere groſſeſſe en voulut manger un, ce quelle
+                            fit;</p>
+                    </div3>
+                    <div3>
+                        <head><date when="1661-06-18">Samedy 18 juin</date></head>
+                        <p>Nous montaſmes aux clocher de la cathedralle dit <choice>
+                                        <abbr>ſt</abbr>
+                                        <expan>Saint</expan>
+                                    </choice> eſtienne, ceſt un des pluſ haut que lon
+                            puiſſe voir, lon arrive au Lieu le plus eslevé par quatre cent degrés de
+                            pierre de taille dou lon peut contempler avec plaisir la ſituation de la
+                            ville qui seſtend principalement <unclear reason="eccentric_ductus">
+                                <interp cert="medium">vers</interp>
+                                <interp cert="medium">sur</interp>
+                            </unclear> Loccident et le nord; du
+                            coſté de loccident environ a une <choice>
+                                        <abbr>L.</abbr>
+                                        <expan>lieue</expan>
+                                    </choice> de distance la veüe eſt bordée par des
+                            petites montagnes qui paraiſſent fort cultivés et mesmeſ couvertes de
+                            bois en quelques endroits; </p>
+                        <p>Du coſté du nord ſe voyent les 2. braſ du <placeName type="fleuve">danube</placeName>
+                            dont Lun paſſe au pied deſ fortifications de la ville et lautre a un
+                            quart de <choice>
+                                        <abbr>L.</abbr>
+                                        <expan>lieue</expan>
+                                    </choice> plus avant ſe voit ſerpentant dans la
+                            plaine; entre ces 2. braſ ſont de <del rend="crossed-out" extent="1-word"><unclear
+                                    reason="illegible"/></del> belles prairies et deſ bois
+                            fort hauts qui forment un des beaux objets et qui rendent le
+                                <placeName type="fleuve">Rhin</placeName> tres agreable La veüe na point de borneſ
+                            de ce coſté et seſtend jusqueſ a lhorizon excepté qun peu a droite on
+                            voit quelques pointes de montagneſ fortes esloignees, ce ſont celles de
+                            la <placeName type="region">moravie</placeName></p>
+                        <p>a L orient ſe voit le chemin qui conduit a
+                                <placeName type="ville">presbourg</placeName> en <placeName type="pays">hongrie</placeName>
+                            et lon ne perd presque point de veüe le danube </p>
+                        <p>Au midy ſe voit la plaine par ou lon arrive de
+                                <placeName type="region">ſtirie</placeName></p>
+                        <p>Nous disnaſmes ce jour chez <choice>
+                                        <abbr>mr</abbr>
+                                        <expan>monsieur</expan>
+                                    </choice> le <choice>
+                                        <abbr>gnat</abbr>
+                                        <expan>général</expan>
+                                    </choice> de ſouches qui nous en avait fait convier
+                            des la veille, <choice>
+                                        <abbr>mrs</abbr>
+                                        <expan>madame</expan>
+                                        <expan>mesieurs</expan>
+                                    </choice> de <unclear reason="eccentric_ductus">
+                                <interp cert="unknown">vins</interp>
+                            </unclear> en eſtant aussy priés; nous
+                            fismes le tour pendant laprèsdinée dune grande partie deſ fortifications
+                            de la ville qui ſont fort belles et tres reguliereſ</p>
+                    </div3>
+                    <div3>
+                        <head><date when="1661-06-19">Dimanche 19 juin</date></head>
+                        <p>Ce jour il y eut plusieurs proceſſions dans la ville ce qui fut cauſe que
+                            lonen ferma les portes jusques a midy come le jeudy precedent; les rues
+                            par ou devait paſſer le <choice>
+                                        <abbr>St</abbr>
+                                        <expan>Saint</expan>
+                                    </choice> ſacrement eſtaient bordées de brancheſ
+                            darbre en forme de tapiſſerie et la meilleure musique qui aſſistait aux
+                            diteſ proceſſions eſtait composée de trompettes et timbaleſ diviséeſ par
+                            groupes et qui sonnaient tour a tour faisants une harmonie belle et
+                            divertiſſantes</p>
+                    </div3>
+                </div2>
+                <div2>
+                    <head>Route de <placeName type="ville">Vienne</placeName> A
+                        <placeName type="ville">Presbourg</placeName></head>
+                    <div3>
+                        <head><date when="1661-06-20">Lundy 20 juin 1661</date></head>
+                        <p>Nous passasmes a une <choice>
+                                        <abbr>L.</abbr>
+                                        <expan>Lieue</expan>
+                                    </choice> et demie de vienne pres d une maison de
+                            plaisance appartenante a <choice>
+                                        <abbr>lemp.</abbr>
+                                        <expan>l'empereur</expan>
+                                    </choice> et qui se nome . . . . . . . . . . . . .
+                            . . . ce fut Soliman <choice>
+                                        <abbr>emp.</abbr>
+                                        <expan>empereur</expan>
+                                    </choice> deſ turcs qui la fit baſtir lorsquil vint
+                            aſſieger vienne et qui ſen servit de ferrail pendant quelque temps, elle
+                            eſt belle, composée dun grande corps de logis et de plusieurs pavillonſ
+                            qui ſont pour la plus part connues de vienne La maison mesme leſtait
+                            auſy autreſ fois mais on la descouvrit les architecteſ donnants a
+                            entendre que leſ fondements neſtaient pas capableſ de ſoutenir un fais
+                            si pesant; les murs qui forment Lenceinte est cloſ ſont hauts et ornés
+                            de croiſſants en forme de chapiteaux</p>
+                        <p>Non loing de ladite maiſon ſe voiſ <placeName type="ville">Ebersdorf</placeName> Lieu
+                            ou <choice>
+                                        <abbr>L'emp.</abbr>
+                                        <expan>L'empereur</expan>
+                                    </choice> va ſouvent prendre le divertiſſement de
+                            la chaſſe et qui neſt considerable qu'en cela seul ; a 2. <choice>
+                                        <abbr>L.</abbr>
+                                        <expan>lieue</expan>
+                                    </choice> de vienne lon paſſe par un village nommé
+                                <placeName type="village"><unclear
+                                    reason="eccentric_ductus">
+                                    <interp cert="unknown">Slucbarkt</interp>
+                                </unclear></placeName> qui tire ſon nom <note
+                                place="margin"><placeName type="village"><unclear
+                                    reason="eccentric_ductus">
+                                    <interp cert="unknown">Slucbarkt</interp>
+                                </unclear></placeName></note> dune
+                            rivierre qui y paſſe et qui va se jeter dans le
+                                <placeName type="fleuve">danube</placeName> au deſſous de
+                                <placeName type="ville">borsdorf</placeName></p>
+                        <p>2. <choice>
+                                        <abbr>m.</abbr>
+                                        <expan cert="unknown">mètres</expan>
+                                        <expan cert="unknown">milles</expan>
+                                    </choice> plus avant nous paſſasmes par un autre
+                            bourg qui ſe nomme <placeName type="ville"><unclear reason="eccentric_ductus">
+                                    <interp cert="unknown">Erischakt</interp>
+                                </unclear></placeName>
+                            <note place="margin"><placeName type="ville"><unclear reason="eccentric_ductus">
+                                    <interp cert="unknown">Erischakt</interp>
+                                </unclear></placeName></note> tirant
+                            encore ſon nom dune rivierre qui y paſſe et que nouſ traversaſmeſ en
+                            barque</p>
+                        <p> Nous nous egarasmes au ſortir dudit village et prenant a droiſte nouſ
+                            fismes 4. a 5 <choice>
+                                        <abbr>l.</abbr>
+                                        <expan>lieue</expan>
+                                    </choice> par un fort beau <unclear reason="eccentric_ductus"><interp
+                                    cert="unknown">temps</interp></unclear> mais extremement
+                            ruiné acauſe deſ guerres, nous pouvions descouvrir a <unclear
+                                reason="eccentric_ductus">
+                                <interp cert="unknown">Laise</interp>
+                            </unclear> pendant ce
+                            chemin /plusieurs petites villeſ et bourgades de
+                                <placeName type="pays">hongrie</placeName>.</p>
+                        <p>Nous disnaſmes a un mieſchant village <note place="margin"
+                                    ><placeName type="village">Brailkeirken</placeName></note> avant que dy arriver
+                            a une <choice>
+                                        <abbr>L.</abbr>
+                                        <expan>lieue</expan>
+                                    </choice> et demie en deux nous traversaſmes un
+                            grand bois au ſortir duquel nous appercevaſmeſ de fort prés
+                                <placeName type="ville">Bürstadt</placeName> petite ville ſur le chemin de
+                            javarin ſituée ſur le fleuve <placeName type="fleuve">leitha</placeName> qui ſepare de
+                            ce coſté la <placeName type="pays">hongrie</placeName> de
+                                L<placeName type="pays">auſtriche</placeName></p>
+                        <p>Avant que darriver a <placeName type="ville">preſbourg</placeName> Il nouſ fallut
+                            paſſer 2. fois en barque sur le <placeName type="fleuve">danube</placeName> aux <choice>
+                                        <abbr>p.er</abbr>
+                                        <expan>premier</expan>
+                                    </choice> endroit vu <del rend="crossed-out" extent="1-word"><unclear
+                                    reason="illegible"/></del> eſt qun braſ mais a la <choice>
+                                        <abbr>2.</abbr>
+                                        <abbr>de.</abbr>
+                                        <expan>deuxième</expan>
+                                    </choice> fois il le faut traverser dans toute sa
+                            largueur et en un <subst>
+                                <add place="above">endroit</add>
+                                <del rend="crossed-out" extent="1-word">lieu</del>
+                            </subst> extrêmement rapide a la ſortie de la
+                            barque L’on entre danſ leſ faubourgs de <placeName type="ville">presbourg</placeName>
+                            ou nouſ arrivaſmes tard apres avoir fait 10. ou 11. <choice>
+                                        <abbr>L.</abbr>
+                                        <expan>lieue</expan>
+                                    </choice> <unclear reason="illegible"/></p>
+                    </div3>
+                    <div3>
+                        <head><date when="1661-06-21">Mardy 21 juin</date></head>
+                        <p><placeName type="ville">Presbourg</placeName> ville capitale de la partie <note
+                                place="margin"><placeName type="ville">Presbourg</placeName></note> de
+                                <placeName type="pays">hongrie</placeName> que tient <choice>
+                                        <abbr>Lemp.</abbr>
+                                        <expan>L’empereur</expan>
+                                    </choice> est située au pied des collines ſur les
+                            bords du <placeName type="fleuve">danube</placeName> /et dans un des plus beaux et des
+                            plus petits pays du monde, Le <placeName type="fleuve">danube</placeName> Luy est dun
+                            coſté de remparts contre la terre ceſt pourquoy ses fortifications nen
+                            ſont pas fort regulieres, elle eſt neantmoinſ enfoncée de baſtions et
+                            demy Lunes mais le tout a lantique et non reverſtu; elle eſt haute et
+                            baſſe, les ruës ſont aſvez droiſteſ les maisons nenſont pas magnifiques
+                            et toutes generalement construite de bois, come dans la plus part de
+                                L<placeName type="pays">allemagne</placeName>; elle neſt pas episcopatte mais le
+                            chapitre de <unclear reason="eccentric_ductus">
+                                <interp cert="unknown">budé</interp>
+                            </unclear> y a efte tranſferé par les <choice>
+                                        <abbr>emp.</abbr>
+                                        <expan>empereurs</expan>
+                                    </choice> precedents apres la prise de la dite
+                            ville par les ottomants, il eft presentement dans lesglise de st martin
+                            de laquelle les chanoineſ jouiſſent; Ils ſont au nombre de 12. lapres-
+                            par desquels poſſede des <unclear reason="eccentric_ductus">
+                                <interp cert="unknown">duschés</interp>
+                            </unclear> dans leſ terres que tiennent
+                            presentement les turcs et qui dependaient autreſfois des empreurſ</p>
+                        <p>Larcheveque de <placeName type="ville">strigonie</placeName> <del rend="crossed-out" extent="1-word"><unclear reason="illegible"
+                                /></del> que lon appelle
+                            egalement de <placeName type="ville">presbourg</placeName> et qui y fait reſidence
+                            eſt primat de <placeName type="pays">hongrie</placeName> et ſouverain pour ce qui
+                            regarde lesglise, Il eſt legat né a <placeName type="ville"><unclear
+                                    reason="eccentric_ductus">
+                                    <interp cert="unknown">Latre</interp>
+                                </unclear></placeName> et
+                            grand chancelier dudit royaume, nouſ le ſaluaſmes dans une maison de
+                            plaisance quil a aux porteſ de <placeName type="ville">presbourg</placeName> dont le
+                            jardin eſt beau et cultivé Il y a plusieurs grottes fort enjolivées et
+                            ou lon voit quantité de fontaines jaliſſantes, un <unclear reason="eccentric_ductus">
+                                <interp cert="unknown">damſon</interp>
+                                <interp cert="unknown">danjon</interp>
+                                <interp cert="unknown">Samſon</interp>
+                            </unclear> au
+                            haut dune deſdites grottes; eſtant de Leau en a bondance, une Lermitage
+                            danſ une grotte ou ſont representeſ plusieurs hermiteſ de la
+                                thebaide en eſfigies, de cire, et plusieurs
+                            autreſ curiosités.</p>
+                        <p>ſur une colline voisine de <placeName type="ville">presbourg</placeName> Lon voit un
+                            chaſteau rebaſty de neuf ou ſe garde la couronne dont les roys de
+                                <placeName type="pays">hongrie</placeName> ſont couronnés et ou loge <choice>
+                                        <abbr>Lemp.</abbr>
+                                        <expan>L’empereur</expan>
+                                    </choice> lorsquil vient dans ladite ville Depuis
+                            100. ans leſ hongrois ſe ſont impoſés une loy de neslire des roys que de
+                            la maison d <placeName type="pays">autriche</placeName></p>
+                        <p>Les jesuistes /poſſedent jouiſſent en partie de la cathedralle
+                            conjointement avec les chanoineſ et la deſinent enſemble nous
+                            entendismes une meſſe fort solennelle a cauſe de la fette dun des
+                            patrons deſdits jesuistes, la musique eſtait composée de trompettes,
+                            timballeſ , theorbes, violonſ orgues et certains autreſ intruments faits
+                            en forme de trompetteſ de bois mais qui rendent un ſon tout different et
+                            que Lon joint aux voix, tous les eſcoliers du college y aſſisterent
+                            veſtuſ a la mode du pays <del rend="crossed-out">et</del>
+                            <subst>
+                                <del rend="crossed-out" extent="1-word"><unclear reason="illegible"
+                                    /></del>
+                                <add place="above">saint</add>
+                            </subst> ſur la teſte une couronne de
+                            cire bleue faite en forme de ficelleſ de chaisneſ</p>
+                        <p>K. Les hongrois ſont ennemis des allemands, /et tesmoignent aſſey d
+                            amitié pour La nation francaise; davoir oublie que chez Larchevesque
+                            nouſ fusmes regalés par ſon Intendant de plusieurs vins quil nouſ
+                            faiſait apporteſ dans de grands vaſes de vermeil doré; Ils ſont veſtus
+                            tous a la turque ceſt a dire le pantalon rouge, violet, ou bleu car ce
+                            font leſ cou- leurs predominanteſ avec ce jupon ou juſte a corps de
+                            meſme couleur ainsy que la veste quils mettent par deſſus et quils
+                            portent ſouvent a demy ſur un braſ ; Ils ont tous deſ bottineſ <del
+                                rend="crossed-out" extent="1-word"><unclear reason="illegible"
+                                /></del> ou
+                            brodequins de maroquin jaune ou rouge avec la ſandale au <subst>
+                                <del rend="crossed-out" extent="1-word"><unclear reason="illegible"
+                                    /></del>
+                                <add place="above">talon</add>
+                            </subst>
+                            de la quelle leſ plus qualifiés portent des petits espronſ quils n
+                            abandonnent jamais; Ils ont aussy une ceinture fort groſſe faite de
+                            plusieurs fils ou ſoyes torſeſ, les boutonſ de leurs veſtes ſont
+                            quelques fois dargent maſſif avec de longues queues dargent mais pour
+                            lordinaire ils emportent dargent filé ou de ſoye ou de fil selon les
+                            qualités deſ personneſ; leurs bonneſ ſont de mesme étoffe que leſ veſtes
+                            ornés d une plume d aigle a la difference deſ turcs qui la portent de
+                            coq</p>
+                        <p>Nous vismes dans lhoſtellerie ou nous eſtions plusieurs danſes a la mode
+                            du pays a cauſe dune nopce qui ſy faiſait</p>
+                    </div3>
+                    <div3>
+                        <head><date when="1661-06-22">Mercredy 22 juin</date></head>
+                        <p>a la ſortie du bateau qui nous avait traversé le
+                                <placeName type="fleuve">danube</placeName> nous priſmes le droit chemin pour
+                            retourner a <placeName type="ville">vienne</placeName> nous ne nous eloignaſmes que
+                            fort peu deſ riveſ du <placeName type="fleuve">danube</placeName>; a 3. <choice>
+                                        <abbr>L.</abbr>
+                                        <expan>lieue</expan>
+                                    </choice> de <note place="margin"
+                                    ><placeName type="ville">Embourg</placeName></note>
+                            <placeName type="ville">presbourg</placeName> nous paſſames par <del
+                                rend="crossed-out" extent="1-word"><unclear reason="illegible"
+                                /></del>
+                                <placeName type="ville">embourg</placeName> petite ville fort deſolée et qui eſt
+                            commandée par un chaſteau <unclear reason="eccentric_ductus">
+                                <interp cert="unknown">tis</interp>
+                            </unclear> ſur une eminence; a 3. <choice>
+                                        <abbr>L.</abbr>
+                                        <expan>lieues</expan>
+                                    </choice> par dela nouſ rencontraſmes un bourg
+                            nommé <note place="margin"><placeName type="ville">Vischamund</placeName></note>
+                            <placeName type="ville">Vischamund</placeName> lieu ou nous disnaſmeſ La pluspart des
+                            bourgs et villageſ que lon rencontra ſur cette route ſont baſtis de
+                            terre et de boue et ſont danſ une deſolation horrible; nouſ arrivaſmes a
+                            vienne ſur le ſoir et avec aſſez deprime ayant fait 20.<choice>
+                                        <abbr>L.</abbr>
+                                        <expan>lieues</expan>
+                                    </choice></p>
+                    </div3>
+                    <div3>
+                        <head><date when="1661-06-23">Jeudy 23 juin octave de la <choice>
+                                            <abbr>f.</abbr>
+                                            <expan>fête</expan>
+                                        </choice> de dieu</date></head>
+                        <p>Nous allasmes a la promenade au parc lieu fort agreable <del
+                                rend="crossed-out" extent="1-word"><unclear reason="illegible"
+                                /></del> près la
+                            porte par laquelle on ſort pour aller en <placeName>silevie</placeName>
+                            , et qui pourrait eſtre comparé au <placeName type="foret">bois de
+                                    vincennes</placeName> près
+                                <placeName type="ville">paris</placeName>, tous les jours de festes et autres il
+                            y a grand concours de carroſſes et de personneſ a cheval en ce lieu et
+                            il neſt pas permis aux personneſ qui ſont a pied d entrer, une /partie
+                            grande des belles routes que lon y voit et meſme du bois ſont composés
+                            de peupliers, un bras du <placeName type="fleuve">danube</placeName> et ledit fleuve
+                            luy meſme luy ſervent des murailles de 2. coſtes et aux autres endroits
+                            ce ſont des paliſſades de bois proprement des cloisonſ de planches de
+                            ſapin ainsy que lon voit danſ danſ une grande partie de
+                                L<placeName type="pays">allemagne</placeName> ces ſortes denceintes eſtant
+                            communeſ a cause de la grande abondance deſ ſapins que lon voit en ces
+                            quantites ou elle ne setrouve des carrieres de pierre qu’avec
+                            difficultés.</p>
+                        <p>Au reſte dans tout le contenu dudit parc ſoit dans le bois ou dans les
+                            prairies qui y ſont enfermes il y a une ſi grande quantités de beſtes
+                            fauves ſoit cerfs, fangliers, biches, daims et autres quil ne ſe peut
+                            pas plus ce qui est dun fort grand divertiſſement aux personnes qui vont
+                            jouir de la promenade en ceſ lieux.</p>
+                    </div3>
+                    <div3>
+                        <head><date when="1661-06-24">Vendredy 24 juin - <choice>
+                                            <abbr>s.t</abbr>
+                                            <expan>saint</expan>
+                                        </choice>jean</date></head>
+                        <p>Nous entendismes la messe aux minimes lesglise desquels est hors les
+                            portes de vienne pres la favorite, elle eſt aſſez belle et le couvent
+                            bien baſty et le plus propre mesme qui foit aux environſ et dans la
+                            ville meſme</p>
+                        <p>les ſoir nous fusmeſ voir le tres beau feu dartifice a la favorite pres
+                            le grand canal, limperatice en faisait la despence elle reſtait presente
+                            avec <choice>
+                                        <abbr>Lemp.</abbr>
+                                        <expan>L'empereur</expan>
+                                    </choice> et les 2. archiducs</p>
+                    </div3>
+                    <div3>
+                        <head><date when="1661-06-25">Samedy 25 juin</date></head>
+                        <p>Il y a danſ <placeName type="ville">vienne</placeName> un parlement composé de
+                            soixante <choice>
+                                        <abbr>con.er</abbr>
+                                        <expan>conseiller</expan>
+                                    </choice> tous gentilshommeſ; de toutes leſ cauſes
+                            plaidéſ aux juridictionſ ſubalterneſ il y a appel au dit parlement pour
+                            y eſtre jugés en dernierſ effort, il y a neantmoins plusieurs ſortes de
+                            cauſes qui nont au conſeil den haut ou assis toujourſ <choice>
+                                        <abbr>Lemp.</abbr>
+                                        <expan>L'empereur</expan>
+                                    </choice> qui decide luy mesme les proces; Lorsqu
+                            une affaire va devant <choice>
+                                        <abbr>Lemp.</abbr>
+                                        <expan>L'empereur</expan>
+                                    </choice> ce ſont les grands chanceliers qui
+                            examinent et qui la rapportent; Ils ſont 3. savoir <del rend="crossed-out" extent="1-word"
+                                    ><unclear reason="illegible"/></del> pour la
+                                <placeName type="pays">hongrie</placeName>, <placeName type="region">boheme</placeName> et
+                                <placeName type="pays">autriche</placeName>; il y a une jurisdiction qui eſt
+                            fort belle et que lon nomme du grand mareschal, elle regarde
+                            principalement les desmellés des gentillomeſ.</p>
+                    </div3>
+                    <div3>
+                        <head><date when="1661-06-26">Dimanche 26 juin</date></head>
+                        <p>K. les cinq voyelles que lon voit aux portes du palais de <choice>
+                                        <abbr>Lemp.</abbr>
+                                        <expan>L'empereur</expan>
+                                    </choice> et a celles de toutes les maisons
+                            signifient  <foreign
+                                xml:lang="lat">A. <placeName xml:lang="latin">auſtria</placeName> E. Eit I.
+                            imperatorñ O. omnium U. ultima</foreign> come ſur la maison d
+                                <placeName type="pays">autriche</placeName> ſe vantait par un esprit prophetique
+                            deſtre toujours maistreſſe de Lempire Il y a ſept portes a la ville de
+                                <placeName type="ville">vienne</placeName> 2. au nord savoir sur le fleuve ; une
+                            a L orient vers la <placeName type="pays">hongrie</placeName>. 2. au midy Lune que
+                            lon nomme d<placeName type="pays">italie</placeName> ou de
+                                <placeName type="region">carinthie</placeName> et <placeName type="region">ſtirie</placeName> ,
+                            Lautre tient au palais; les 2. devises ſont a Loccident</p>
+                        <p>K. Limperatrice d’aujourdhuy belle mere de <choice>
+                                        <abbr>Lemp.</abbr>
+                                        <expan>L'empereur</expan>
+                                    </choice> eſt ſoeur du duc de
+                              mantoüe, elle a 2 filles du defunt et <choice>
+                                        <abbr>emp.</abbr>
+                                        <expan>empereur</expan>
+                                    </choice>
+                                    <choice>
+                                        <abbr>Lemp.</abbr>
+                                        <expan>L'empereur</expan>
+                                    </choice> qui ſe nomme leopold 1er a un frere
+                            Larchiducale qui peut aussi dix a onze anſ. Logés pres la porte de
+                                <placeName>silevie</placeName> aux 3. couronnes.</p>
+                    </div3>
+                </div2>
+                <div2>
+                    <div3>
+                        <p> L'election ſe fait dans une fort petite chappelle en forme de ſacristie
+                            qui eſt a droite en entrant dans le choeur la touſ les electeurs
+                            aſſemblées esliſent <choice>
+                                <abbr>Lemp.</abbr>
+                                <expan>L'empereur</expan>
+                            </choice> apres que celui qui a eſté eſlu
+                            eſt conduit danſ le milieu de lesglise ou eſt dreſſé un ſuperbe
+                            eſchaffaut orné de <unclear
+                                reason="eccentric_ductus">
+                                <interp cert="unknown">furectapis</interp>
+                            </unclear> et dorureſ ſur lequel ſe fait le
+                            couronnement. Danſ le choeur de cette esglise ſe voit la ſepulture d'un
+                            empereur nommé gunteruſ qui ne tint Lempire que 3. mois ayant eſté
+                            empoisonné par ſon medecin. nouſ montaſmes a une haute tour qui eſt
+                            voisine de cette esglise dou nouſ peusmeſ a loiſir contempler la
+                            ſituation de la ville et les environſ. Joubliois a dire que dans lhostel
+                            de ville lon nous fit voir la bulle dor faite par charles 4. cest un
+                            livre dont leſ feuilles ſont de parchemin eteint a la main, il eſt groſ
+                            de deux doigts ou environ, il y en a un en langue allemande et lautre
+                            latins, celuy qui eſt escrit en latin est loriginal auquel on voit
+                            attaché un seau dor de la grandeur dun eſcu blanc ou eſt representé dun
+                            coſté un empereur avec 2. escuſſons a ſes coſtés, lun de lempire, lautre
+                            de <placeName type="region">boheme</placeName>, avec ceſ parolles autour <foreign xml:lang="lat">(<choice>
+                                    <abbr>Carol.</abbr>
+                                    <expan>Carolus</expan>
+                                </choice> 4. divina favente clementia <choice>
+                                    <abbr>R.</abbr>
+                                    <expan>Romanorum</expan>
+                                </choice>
+                                <choice>
+                                    <abbr>Imp.</abbr>
+                                    <expan>Imperator</expan>
+                                </choice>
+                            <choice>
+                                    <abbr>ſ.</abbr>
+                                    <expan>semper</expan>
+                                </choice> <choice>
+                                    <abbr>a.</abbr>
+                                    <expan>Augustus</expan>
+                                </choice> ungania ‘A <placeName xml:lang="latin"
+                                >bohemia</placeName>’ Rex)</foreign> de lautre coſté ſe voit une grande porte
+                            de ville au milieu de laquelle est escrit <foreign
+                                xml:lang="lat">(Roma aurea)</foreign> et autour <foreign
+                                xml:lang="lat">(Roma
+                            caput mundi regit orbis frena rotundi</foreign>.</p>
+                    </div3>
+                    <div3>
+                        <head><date when="1662-08-10">Mercredy 10. aouſt</date></head>
+                        <p>nous allaſmes a la promenade hors la ville dont les dehors ſont
+                            extremement beaux, nous vismes a noſtre retour de près une partie deſ
+                            fortificationſ de cette petite partie de la ville qui eſt audela du mein
+                            long la ville tous les jours que quelles ſoient desja en un eſtat
+                            capable de beaucoup de defence. La plus grande partie des habitants de
+                            cette ville ſuit leſ opinionſ de luther Il y a neantmoins pluſieurs
+                            esglises de catholiques mais qui ne ſont pas frequentés au point que ſe
+                            trouvent celuy deſ Lutherienſ le nombre deſ uns ſespaſſant de beaucoup
+                            celuy des autreſ et les juifs y voyent en tres grand nombre. Ils ont un
+                            cartier ſeparé ou ils habitent, ceſt une choſe pitoyable de voir la
+                            miſere et la pauvrete de la plus part de ces gens la <unclear
+                                reason="eccentric_ductus">
+                                <interp cert="unknown">pire</interp>
+                            </unclear> ont ils deſ
+                            habits pour les veſtes, leurs femmeſ ont le manteau et la fraiſe; pour
+                            eux ils ſhabillent de tout ce qu'il leur plaiſt et de ce quils peuvent
+                            trouver.</p>
+                    </div3>
+                    <div3>
+                        <head><date when="1662-08-11">Jeudy 11. Aouſt</date></head>
+                        <p>Nous partismes de <placeName type="ville">francfort</placeName> et prismes la
+                            commodite du mein qui nouſ conduisit a <placeName type="ville">mayence</placeName> en
+                            6. heures, nouſ y arrivaſmeſ ſur le midy ayant la ville le long du
+                            chemin a droite et a gauche pluſieurs villeſ et villages leſ uneſ deſ
+                            dependances de larcheveſque de <placeName type="ville">mayence</placeName>, et les
+                            autres appartenantſ aux Landtrave de <placeName type="ville">Darmſtat</placeName>.
+                                <placeName type="ville">Mayence</placeName> ville considerable pour ſon antiquité
+                            et pour eſtre le ſiege du premier electeur de lempire eſtablis ſur leſ
+                            bords du <placeName type="fleuve">rhin</placeName> qui recoit en un endroit le mein ce
+                            qui est cauſé <subst>
+                                <del rend="crossed-out" extent="1-word"><unclear reason="illegible"
+                                    /></del>
+                                <add place="above">que</add>
+                            </subst> en ce lieu, le <placeName type="fleuve">Rhin</placeName> eſt
+                            extremement large et rapide il eſt neantmoins couvert dun pont de
+                            baſteaux que lon tient eſtre placé en l'endroit ou jules ca’sar en fit
+                            auſtrefois fleuron lorsque la riviere eſt baſſe leſ habitans du pays
+                            pretendent que lon voit encore plusieurs arches qui ſoutenaient ce pont
+                            <del
+                                rend="crossed-out" extent="1-word">et</del> qui ſe ſont conſervés malgré la longueur deſ ſiecles presquen leurs
+                            entier ; la ſituation de <placeName type="ville">mayence</placeName> eſtant ſur un
+                            penchant donne lieu a la plus belle vue du monde <subst>
+                                <del rend="crossed-out" extent="1-word">que</del>
+                                <add place="above">dont</add>
+                            </subst> lon jouſt de
+                            pluſieurs endroits de la ville ; <unclear
+                                reason="eccentric_ductus">
+                                <interp cert="unknown">aussy</interp>
+                            </unclear> ces rues ſont eſtroites et mal
+                            pavés leſ eſglises y ſont en nombres mais peu conſiderables pour leur
+                            ſtructure et embeliſſementſ, les maiſons des particuliers ſont aſſez
+                            reguliers mais communeſ, le palais ou loge lelecteur eſt ainsi en d'une
+                            architecture belle baſty en partie de brique il est orne des boutſ de la
+                            ville, cette ville comme eſtant extremement ancienne conſerve encore
+                            plusieurs reſtes d'antiquité et pluſ que aucune autre <del rend="crossed-out" extent="1-word"
+                                >ville</del>
+                                d'<placeName type="pays">allemagne</placeName>, danſ la citadelle qui eſt baſtie
+                            de neuf, belle, et grande, deſfendue de 7. baſtions royaux trois des
+                            quelleſ eſtaient deja reveſtuſ lorsque nous y paſſaſmes et le <unclear reason="eccentric_ductus">
+                                <interp cert="unknown">trat</interp>
+                            </unclear>
+                            mèsme que lon entrevoit dans cette fortereſſe dreſſé lon fait voir une
+                            groſſe maſſe deriere quils diſent eſtre et avoir eſté le tombeau de
+                            druſus car ce fut en cette ville quil fut empoisonnée. Lon enſtrevoit
+                            encore lorſ de noſtre paſſage une fort belle porte avec <unclear reason="eccentric_ductus">
+                                <interp cert="unknown">forte demy</interp>
+                            </unclear>
+                            Lunes et baſtions autours deſ murailleſ vers lendroit ou eſt placé la
+                            citadelle. J'allais voir ce jour lelecteur avec lequel je reſtaiſ ſeul
+                            pres d'une heure, il me comble de civilités et me retint a disner pour
+                            le jour ſuivant, m'ayant prié dy amener ceſ <choice>
+                                <abbr>m rs.</abbr>
+                                <expan>messieurs</expan>
+                            </choice> francois
+                            avec qui j eſtais</p>
+                    </div3>
+                    <div3>
+                        <head><date when="1662-08-12">Vendredy 12. Aoust</date></head>
+                        <p>J'allay ce jour disner avec lelecteur ceſt un vieillard agé de ſoixante
+                            anſ ou environ nommé jean schemberg fils dun ſimple gentilhomme qui de
+                            chanoine de <placeName type="ville">mayence</placeName> fuſt fait eveſque de
+                                <placeName type="ville">wuirzbourg</placeName> puis enſuite eſleu par le chapitre
+                            d'un grand archeveſque de cette ville et ainsy premier prince et
+                            electeur de l'empire et grand chancellier pour
+                                l<placeName type="pays">allemagne</placeName> ; il nouſ aurait envoye un de ſes
+                            carroſſes des le matin avec ſon capitaine deſ gardeſ pour nous conduire
+                            danſ la ville et nouſ mener danſ une petite esglise ou il y avait grande
+                            musique et ou il ſe trouva auſſy et ou il nouſ fit encore forte
+                            civilités ; nouſ allaſmeſ enſuite a ſon palais ou il nouſ traitta
+                            magnifiquement, <del rend="crossed-out" extent="1-word"><unclear
+                                    reason="illegible"/></del> nouſ offrit <del rend="crossed-out"
+                                extent="1-word">ensuite</del> ſorte lettreſ pour le princeſ
+                            du <placeName type="fleuve">Rhin</placeName> qui ſe trouverait ſur noſtre route et
+                            nous <del rend="crossed-out" extent="1-word">ayant</del> entretint quelque tempſ danſ ſon appartement. nouſ achevaſmes
+                            de visiter la ville nouſ montaſmes a une haute tour qui eſt pres de la
+                            cathedrale dou lon jouiſt de la plus belle veüe du monde et douſ nouſ
+                            peuſmeſ conſiderer loſteſle de la ville. les chanoines de
+                                <placeName type="ville">mayence</placeName> qui ſont 24. en nombre eſlisent
+                            lelecteur archeveſque et lelirent de leur corps, il faut faire preuve de
+                            nobleſſe de pluſieurs races pour eſtre admis parmy eux.</p>
+                    </div3>
+                </div2>
+                <div2>
+                    <head>Route De <placeName type="ville">mayence</placeName> a <placeName type="ville">Coblents</placeName>,
+                            <placeName type="ville">Bonne</placeName>, et <placeName type="ville">cologne</placeName></head>
+                    <div3>
+                        <head><date when="1662-08-13">Samedy 13. Aouſt 1662.</date></head>
+                        <p>nous partismes de <placeName type="ville">mayence</placeName> et prismes la commodité
+                            du <placeName type="fleuve">Rhin</placeName> ſur lequel nouſ nous embarquasmes ; ce
+                            fleuve fait plusieurs tours et deſtours en ceſ endroits et ſes coſtes
+                            ſont tellement remplies de petites villes, bourgs, et chaſteaux quil y a
+                            pluſtoſt apparence que ce ne ſoit qune grande rue que tant de places
+                            ſeparées et qui appartiennent <subst>
+                                <del rend="crossed-out" extent="2-words">a plusſieurs</del>
+                                <add place="above">tant de <unclear reason="eccentric_ductus"
+                                            ><interp cert="medium"
+                                    >diſtesens</interp></unclear></add>
+                            </subst>
+                            maiſtreſ a quatre lieues de <placeName type="ville">mayence</placeName> lon trouvé la
+                            ville de <placeName type="ville">binghen</placeName> situee a gauche danſ un aſſez
+                            bel endroit proche de cette ville presque au milieu du
+                                <placeName type="fleuve">Rhin</placeName> ſe voit une haute tour appellée
+                            vulgairement la tour des rats ou hatton evesque de
+                                <placeName type="ville">mayence</placeName> fut mangé des rats par punitions
+                            divine lan 914 ainsy que porte lhistoire pour que en certain temps ou le
+                            bled ſe trouve extremement cher il fit aſſembler un grand nombre de
+                            parureſ dans une grange <unclear reason="eccentric_ductus"><interp
+                                    cert="medium">esleſ</interp></unclear> fait bruſler en ce lieu disant que
+                            ceſtaient deſ rats qui ne ſervaient qua ronger. Pres de cette tour
+                            ſeslevent plusieurs roches ou montagnes le long des coſtes du
+                                <placeName type="fleuve">Rhin</placeName> qui reſſerrent extremement ſon lieu et
+                            qui rendent le rapide quil y a danger pour leſ paſſages et lon conte ce
+                            pas come eſtant fort dangereux. non loing de celuy ci en eſt un autre
+                            qui eſt encore plus dangereux et ou ſouvent ſe briſent deſ bateaux
+                            contre leſ pointes de roches qui se trouvent ſous leſ eaux en cet
+                            endroit il y a certains paſſages quil ne faut pas ignorer car ſi lon
+                            touchait une de ces pointes le bateau <unclear reason="eccentric_ductus">
+                                <interp cert="unknown">un ſoilliblement</interp>
+                            </unclear> ſoit brisé en
+                            milleſ pieces <unclear
+                                reason="eccentric_ductus">
+                                <interp cert="unknown">avec</interp>
+                            </unclear> la rapidité de leau qui eſt extremement forte en ce
+                            lieu a cauſe que ſon cours eſt contraint et arreſté par ces roches a une
+                            lieüe de <placeName type="ville">binghen</placeName> lon paſſe preſ la ville de
+                                <placeName type="ville"><unclear reason="eccentric_ductus">
+                                    <interp cert="unknown">diechauſen</interp>
+                                </unclear></placeName> ou la
+                                <placeName><unclear
+                                    reason="eccentric_ductus">
+                                    <interp cert="unknown">mide</interp>
+                                </unclear></placeName> ſe <del rend="crossed-out" extent="1-word"
+                                >joint</del> vient unir et joindre ſeſ
+                            eaux a celleſ du <placeName type="fleuve">Rhin</placeName> comme le vent nouſ eſtait
+                            favorable quoiquil fut un peu violent a quil nous obligea daller
+                            quelques fois a la <unclear reason="eccentric_ductus">
+                                <interp cert="unknown">bonline</interp>
+                            </unclear> nouſ arrivaſmes de bonne heure a
+                                <placeName type="ville">baecharach</placeName> ville celebre pour leſ bonſ vinſ
+                            que fournit ſon territoire; elle appartient a lelecteur palatin et ſe
+                            trouve a gauche en deſcendant le <placeName type="fleuve">Rhin</placeName> Nous
+                            disnaſmes en ce lieu pres duquel vers le milieu de leau ſe vois une
+                            espece de petite tour dou la ville a tiré ſon nom cette tour eſtant
+                            appellée Baccharach <subst>
+                                <del rend="crossed-out" extent="1-word">autel</del>
+                                <add place="above">temple</add>
+                            </subst> de bachuſ qui eſtait fort honoré en
+                            ceſ lieux. le long deſ coſtes du <placeName type="fleuve">Rhin</placeName> toutes leſ
+                            collineſ et montagnes qui environnent ſeſ bords ſont tellement couverteſ
+                            de vignobles qua peine peut on voir un poulce de terre qui ne ſoit
+                            cultivé et remply de vignes. a une Lieue de
+                                <placeName type="ville">Baccharach</placeName> lon laiſſe a gauche une petite
+                            ville nommée <placeName type="ville">weſel</placeName> qui appartient a Lelecteur de
+                                <placeName>heuceſ</placeName> Un peu en deca au haut dune montagne
+                            ſe voit un vieux chaſteau nommé <placeName type="chateau">Schomberg</placeName> qui
+                            appartient aux comteſ qui portent ce nom et qui eſt lorigine de leur
+                            maiſon dont ceux qui ont eſté marechaux de <placeName type="pays">france</placeName>
+                            <del rend="crossed-out" extent="1-word"><unclear reason="illegible"
+                                /></del> deſcendent Une lieüe plus avant lon trouve <placeName type="ville"><choice>
+                                    <abbr>ſt.</abbr>
+                                    <expan>Sankt</expan>
+                                </choice>
+                                goar</placeName> petite ville ou reſide un lantgrave de la maiſon de
+                                <placeName type="propriete">heſſe</placeName> qui sest converti depuis peu et a
+                            abjure leſ erreurs de Luther; ſon chaſteau eſt ſur le haut de la
+                            montagne car la ville eſt située ſur le penchant; au baſ de laquelle leſ
+                            jeſuisteſ ont un couvent quils y ont eſtably depuis que le prince a
+                            embraſſe noſtre religion. ceſt une peine treſ fascheuſe et dont on ne
+                            peut ſe dispenſer ſoit en montant ou en descendant le
+                                <placeName type="fleuve">Rhin</placeName>; qui est <del rend="crossed-out"
+                                extent="1-word"><unclear reason="illegible"/></del> neceſſité qui oblige de
+                            prendre des paſſeports et de payer certaines douanneſ a toutes leſ
+                            petites villes que lon trouve ſur le paſſage, ceſt un impot le plus
+                            incommode qui ſoit au monde; car il faut ſouvent attendre plus dune
+                            demie heure meſme quelques fois une heure devant que lon puiſſe dire de
+                            ces genſ prepoſés a ces ſorte d impots un billet qui eſt neceſſaire pour
+                            eſtre receu danſ leſ villeſ ſur toute la route. A une <choice>
+                                <abbr>L.</abbr>
+                                <expan>lieue</expan>
+                            </choice> du <choice>
+                                <abbr>st</abbr>
+                                <expan>Sankt</expan>
+                            </choice>
+                            goar lon paſſe par une petite ville nommée
+                                <placeName type="ville"><unclear
+                                    reason="eccentric_ductus">
+                                    <interp cert="unknown">poppost</interp>
+                                </unclear></placeName> qui appartient a lelecteur de
+                                <placeName>treveſ</placeName> pres de laquelle ſe voit au milieu de
+                            leau un petit chaſteau quils appellent <placeName type="chateau">phalts</placeName> et
+                            quils disent eſtre le lieu dou les comtes et electeurs palatins tirent
+                            leur origine, ſur le bord du fleuve a droite ſe trouve un bourg qui en
+                            depend; une lieüe plus avant nous paſſasmes par
+                                <placeName type="ville">Lauſten</placeName> autre petite ville des despendances
+                            de larchevesché de <placeName type="ville">mayence</placeName> ſituée ſur la droite
+                            en descendant le <placeName type="fleuve">rhin</placeName> nous entrasmeſ dans la
+                            ville ou nous fusmes quelque temps a attendre noſtre paſſeports; nous
+                            vismes danſ la grande place pluſieurs ſaltimbanques ou farceurs
+                            allemands qui divertissaient le peuple, comme nous ayonſ faire en
+                                <placeName type="pays">france</placeName> pour delivrer cependant leur
+                            marchandiſe. nous allaſmes (. a un village qui eſt a droite et vis a vis
+                            de <placeName type="ville">coblents</placeName> ou nouſ ne peusmes pas entrer a cauſe
+                            qu'il eſtait extremement tard et que leſ portes en eſtaient fermées.
+                            12.<choice>
+                                <abbr>l.</abbr>
+                                <expan>lieues</expan>
+                            </choice></p>
+                    </div3>
+
+                    <div3>
+                        <head><date when="1662-08-14">Dimanche 14. aouſt</date></head>
+
+                        <p>nouſ traverſaſmes le fleuve de bon matin <unclear
+                                reason="eccentric_ductus">
+                                <interp cert="unknown">et</interp>
+                                <interp cert="unknown">nouſ</interp>
+                            </unclear> attendismes quelque
+                            temps avant que d'entrer dans <placeName type="ville">coblents</placeName> les portes
+                            neſtants pas encore ouvertes; <placeName type="ville">Coblents</placeName> eſt
+                            appelée <placeName type="ville">confluenta</placeName> a cauſe de lassemblage du
+                                <placeName type="fleuve">Rhin</placeName> et de la <placeName type="riviere">moſelle</placeName>
+                            ſur laquelle elle eſt aſſisse, elle eſt aſſez regulierement baſtie,
+                            ornée de plusieurs grandes places et dun beau pont de pierre qui eſt ſur
+                            la <placeName type="riviere">moſelle</placeName>, ſeſ fortificationſ ne ſont paſ
+                            autrement conſiderables; vis a vis de cette ville ſe voit un beau et
+                            fort chaſteau nommée <placeName type="chateau">herrenſtein</placeName>, deffendu de
+                            plusieurs baſtions et recommandable entre touſ ceux
+                                d'<placeName type="pays">allemagne</placeName>. Nous allaſmes <choice>
+                                <abbr>D.</abbr>
+                                <expan>diner</expan>
+                            </choice> a
+                                <placeName type="ville">Andernach</placeName> ville ſitué ſur la gauche en
+                            deſcendant <unclear reason="illegible"/> appartient a lelecteur de
+                                <placeName type="ville">cologne</placeName> elle eſt environnée de montagnes
+                            fertilles au possible et qui forment comme un amphitheatre dont la
+                            perspective neſt paſ desagreable ; elle eſt renommée pour avoir eſté la
+                            dépositaire des cendreſ et du tombeau de <choice>
+                                <abbr>Lemp.</abbr>
+                                <expan>L'empereur</expan>
+                            </choice> Valentinien;
+                            nouſ entendismes la meſſe, nouſ en partismes de bonne heure et fismes
+                            lapresdinée cinq lieües, nous laiſſasmeſ a droite et gauche plusieurs
+                            bourgs et villages et paſſasmes par <unclear
+                                reason="eccentric_ductus">
+                                <interp cert="unknown">tints</interp>
+                            </unclear> ou nouſ fusmeſ contraints de
+                            nouſ arreſter prés dune heure que nouſ employasmes a voir la ville ou ſe
+                            trouverent encore pluſieurs ſaltimbanques dont leſ farceſ eſtaient aſſez
+                            divertiſſanteſ; cette place eſt deſ despendances de larchevesché de
+                                <placeName type="ville">cologne</placeName> ſituée ſur la droite en deſcendant le
+                                <placeName type="fleuve">rhin</placeName>, elle eſt aſſez reguliere danſ ce quelle
+                            contient, les maisons ſont bien baſties toutes couverteſ d ardoises
+                            ainsy que toutes celleſ des villeſ par ou lon paſſe depuis
+                                <placeName type="ville">mayence</placeName> y en ayant <unclear reason="eccentric_ductus">
+                                <interp cert="unknown">force camisse</interp>
+                            </unclear> danſ ceſ
+                            pays. Nouſ allaſmes <choice>
+                                <abbr>C.</abbr>
+                                <expan>coucher</expan>
+                            </choice> a <placeName type="hameau">melem</placeName> petit
+                            hameau ſitué ſur la gauche viſ a viſ d'un bourg nommée
+                                <placeName type="ville">Konigswinter</placeName>; en cet endroit leſ montagnes
+                            commencent a ſapplanir. 8.<choice>
+                                <abbr>L</abbr>
+                                <expan>Lieues</expan>
+                            </choice></p>
+                    </div3>
+
+                    <div3>
+                        <head><date when="1662-08-15">Lundy 14. aouſt</date></head>
+                        <p>a 2. lieües de <placeName type="hameau">melen</placeName> nous paſſasmeſ par bonne
+                            ville conſiderable ou demeure larchevesque de
+                                <placeName type="ville">cologne</placeName>, ſon chaſteau eſt ſur le bord de leau
+                            beau et bien baſty ſes fortificationſ ſont aſſez reguliereſ elle eſt
+                            peuplée de bon nombre d'habitants et ornée de pluſieurſ esglises
+                            conſiderables; ſa situation eſt a gauche ſur les bords du
+                                <placeName type="fleuve">Rhin</placeName>, nous y entendismes la meſſe Lelecteur
+                            de <placeName type="ville">cologne</placeName> ny eſtait paſ Il se nomme maximilien
+                            henry fils du prince Albert de <placeName type="region">baviere</placeName>; il
+                            poſſede auſſy le dusché et la principauté du
+                                <placeName type="principaute">liege</placeName> qui ſont pieceſ fort conſiderableſ; leſ
+                            chanoines du <placeName type="principaute">liege</placeName> ainsy que ceux de
+                                <placeName type="ville">cologne</placeName> tirent leurs evesques de leur corps
+                            pour eſtre du nombre des premiers Il ſuffit deſtres gentilhomme; mais il
+                            faut avoir quelque tittre comté ou marquiſat pour eſtre chanoine a
+                                <placeName type="ville">Cologne</placeName>. <placeName type="ville">Cologne</placeName> ville
+                            considerable nommée autrefois agrippine premierement a cauſe d agrippa
+                            qui augmenta la ville et receut ce peuple ſous ſa protection et celle
+                            deſ romainſ; et depuis d Agrippine fille de germanicus et petite fille
+                            dagrippa et femme de Lempereur claude, laquelle eſtant née en cette
+                            ville la voulut pour <del rend="crossed-out" extent="2-words"><unclear
+                                    reason="illegible"/></del> honorer de plusieurs privileges et
+                            dune colonie. cette ville <unclear reason="eccentric_ductus">
+                                <interp cert="unknown">dilje</interp>
+                            </unclear> eſt <unclear reason="eccentric_ductus">
+                                <interp cert="unknown">aſtiſſu</interp>
+                            </unclear> ſur leſ bords du
+                                <placeName type="fleuve">rhin</placeName> danſ une belle et grande plaine qui eſt
+                            bornée de coſté et dautre par de petites collineſ qui fo<del
+                                rend="crossed-out" extent="1-word">et</del>rment une des
+                            agreableſ perspectives et un deſ pluſ beaux objets qui ſe puiſſent
+                            presenter a la veüe, elle a le <placeName type="fleuve">rhin</placeName> a lorient qui
+                            roule les eaux au nord ſon port eſt toujours remply dun grand nombre de
+                            barques et bateaux de toutes maniereſ, les fortifications ſont
+                            reguliereſ en partie, certe de de deux murailles, fortifiées de deux
+                            foſſés et flanquée de plus de quatre vingt tourſ; ſes rues ſont larges,
+                            droittes, et bien pavées ſes maisons pintes en plusieurs endroits et
+                            bien baſties, ſes esglises superbeſ entre lesquelles celle de ſt.
+                            <choice>
+                                <abbr>ſt.</abbr>
+                                <expan>Saint</expan>
+                            </choice> pierre la metropolitaine eſt fort considerable elle neſt pas
+                            entierement achevée mais ceſt un ouvrage dans ce quil contient auſſy
+                            beau que lon en puiſſe voir; il y a un endroit dans cette esglise ou
+                            chaque année lon met un baſton long dune demie aulne pour marquer le
+                            nombre des ans qu'il y a que larchevesque est en poſſeſſion de lesglise
+                            et de larchevesché; dans un autre endroit derriere le choeur, ſe voit le
+                            tombeau deſ 3. roys mages qui allerent adorer n.s. <choice>
+                                <abbr>n.s.</abbr>
+                                <expan>Notre-Seigneur</expan>
+                            </choice> peu
+                            de jourſ apreſ ſa naiſſance lon montre leur trone a deſ couvert, il y a
+                            toujours forceſ lampes allumées auprès de leur tombeau</p>
+                    </div3>
+                    <div3>
+                        <head><date when="1662-08-16">Mardy 16. aouſt</date></head>
+                        <p>A l opposite de la ville de lautre coſté du <placeName type="fleuve">rhin</placeName>
+                            ſe trouve un village nommé <placeName type="village">ducts</placeName> ou logent leſ
+                            juifs qui ne peuvent entrer dans la ville quils n ayent posé auparavant
+                            un ducat dor. Lesglise des jesuistes eſt belle lon y voit plusieurs
+                            beaux tableaux deſ plus habiles peintreſ entre autreſ un fait par un
+                            rubenſ qui represente <choice>
+                                <abbr>ſt.</abbr>
+                                <expan>Saint</expan>
+                            </choice> Ignace qui montre ſa regle au pape
+                            paul 3, nous allaſmes en lesglise des chanoineſſes de <choice>
+                                <abbr>S.te</abbr>
+                                <expan>Sainte</expan>
+                            </choice>
+                            Ursule lieu ou reposent les corps des onze mille vierges et de plusieurs
+                            autreſ martyrs, lesglise eſt environnée deſ os de ces <choice>
+                                <abbr>S.tes</abbr>
+                                <expan>saintes</expan>
+                            </choice>
+                            que lon voit dans de grandes quaiſſes de bois peint percé a jours <del rend="crossed-out" extent="1-word"><unclear
+                                    reason="illegible"/></del>
+                            danſ touſ les endroits de ladite esglise Il y a plusieurs tombeaux deſ
+                           <choice>
+                                <abbr>S.ts</abbr>
+                                <expan>saints</expan>
+                            </choice> et <choice>
+                                <abbr>S.tes</abbr>
+                                <expan>saintes</expan>
+                            </choice> qui paraiſſent touſ extremement ancienſ
+                            et qui ſont de pierre en partie; le tombeau de <choice>
+                                <abbr>S.te</abbr>
+                                <expan>Sainte</expan>
+                            </choice> ursule eſt
+                            le pluſ conſiderable, il est de marbre noir avec la representation de la
+                            dite <choice>
+                                <abbr>S.te</abbr>
+                                <expan>sainte</expan>
+                            </choice> en relief et faite de fort beau marbre blanc, il n y a
+                            pas plus de 2. cents anſ que lon deſcouvrit lendroit ou repoſait le
+                            corps de cette <choice>
+                                <abbr>S.te</abbr>
+                                <expan>sainte</expan>
+                            </choice> par le moyen dune colombe qui vint ſaſſoir
+                            plusieurs jours conſecutifs en ce lieu près de lesglise ſe trouve une
+                            fort grande chapelle <del rend="crossed-out" extent="1-word"><unclear
+                                    reason="illegible"/></del> autour de laquelle ſont pluſieurs tablettes
+                            depuis le haut jusques en bas, en telle ſorte qu'l ny a point
+                            de<subst>
+                                <del rend="crossed-out">space</del>
+                                <add place="above">ndroit</add>
+                            </subst> qui ne ſoit couvert sur ceſ tablettes ſont expoſes a la
+                            veüe de tout le monde et a deſcouvert loſteſlſ de la plus grande partie
+                            des onzes milleſ vierges, il y en a une prodigieuſe quantité, le nom de
+                            plusieurs eſt escrit au bas. Au reſte lon tient que la terre de lesglise
+                            et de cette chapelle ne peuvent ſouſfrir dautreſ corps et lon rapporte a
+                            ce sujet que le fils dun grand ſeigneur allemand ayant prié a la mort
+                            que <unclear reason="eccentric_ductus">
+                                <interp cert="unknown">conſonſdiſt</interp>
+                            </unclear> quil peut eſtre enterré en ce lieu, fuſt-trouvé le
+                            lendemain a descouvert deſterré et eſtendu ſur le pavé de lesglise.</p>
+                    </div3>
+                    <div3>
+                        <head><date when="1662-08-14">Mercredy 17. aoust</date></head>
+                        <p>Nous allaſmes a la maison de ville dont lexterieur eſt beau; ſur lentrée
+                            lon voit la representation dun homme qui combat</p>
+                    </div3>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>
